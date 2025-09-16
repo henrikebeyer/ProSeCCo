@@ -1,0 +1,21 @@
+Unnamed: 0	ID	sample	prediction	gold_label	eval_status
+1158	QT50_601	'in general, working from home is not good for some people', 'sometimes, people should work from home, or may need to work from home'	non-contradiction	self-contradiction	FN
+1225	QT50_670	'building more homes is difficult', 'building more houses is what we need to do'	non-contradiction	self-contradiction	FN
+133	QT30_136	'we need more than just the practicalities of life', 'in many ways it is a luxury to go to a restaurant or a on an aeroplane'	non-contradiction	self-contradiction	FN
+355	QT30_359	'wearing a mask is not the most pleasant of things', 'wearing a mask is not particularly onerous'	non-contradiction	self-contradiction	FN
+1062	QT50_503	'policemen get injured, people get injured, drivers get injured', 'Caroline Lucas considers recent protests to be peaceful'	non-contradiction	self-contradiction	FN
+846	QT50_283	'you have to pay for public services', 'public services are the bedrock of a civilised society'	non-contradiction	self-contradiction	FN
+201	QT30_205	'current UK government seems to want to reduce the voting franchise', 'over the last few decades, if not centuries, we've seen successive governments try to expand the voting franchise'	non-contradiction	self-contradiction	FN
+879	QT50_318	'the reality is we don't build enough houses', 'many of us want the opportunity to own our home'	non-contradiction	self-contradiction	FN
+791	QT50_228	'statecraft, diligence, and graft are what Boris Johnson and his government have shown they cannot deliver', 'the way forward is going to be statecraft, diligence, and graft'	non-contradiction	self-contradiction	FN
+410	QT30_415	'you hear people say, well, so what to Grant Shapp', 'Grant Shapp has certainly has listed a whole load of initiatives'	non-contradiction	self-contradiction	FN
+532	QT30_540	'we still must be careful', 'we have to go forward'	non-contradiction	self-contradiction	FN
+221	QT30_225	'consumers will make choice based on what's right for them, about sustainable eating locally', 'trade deals and finding ways to create markets, the pan transpacific market that was being developed, you will see more of that'	non-contradiction	self-contradiction	FN
+459	QT30_466	'we have to trust that our carers and our health system  are making the decisions in the best interests of people in their care', 'having people in care and not being able to see them is difficult'	non-contradiction	self-contradiction	FN
+346	QT30_350	'the biggest difference is made by getting the vaccine', 'we do have an example to demonstrate that taking sensible small steps, like wearing masks in crowded places, can have a big difference'	non-contradiction	self-contradiction	FN
+558	QT30_566	'the majority of the population unfortunately would probably assume that in some way or another, politicians are there not only to represent themselves, but, and you know, the population, but also to go that little bit too far you know', 'AudienceMember 20210916QT07 doesn't expect politicians to behave badly'	non-contradiction	self-contradiction	FN
+230	QT30_234	'Kevin Collins's calculation doesn't include all the funding that we put in to the laptops', 'Kevin Collins has done a fantastic job'	non-contradiction	self-contradiction	FN
+1156	QT50_599	'flexible arrangements will suit some sectors more than others', 'flexible arrangements are incredibly important for a whole host of workers across our economy'	non-contradiction	self-contradiction	FN
+20	QT30_020	'we have a chance through democracy, to break free, and progress', 'we need to be honest, face up to it, and accept the fact that we are as much prisoners of our history, as anything else'	non-contradiction	self-contradiction	FN
+839	QT50_276	'there are too many of the candidates in the leadership race offering tax cuts which are unfunded', 'you have got quite a lot of interesting, young candidates, pushing forward quite bold new ideas in the leadership race'	non-contradiction	self-contradiction	FN
+172	QT30_175	'this is a problem that Lorna Slater has with the SNP approach of setting targets and putting their hopes in things like carbon capture', 'we need to actually be practical about our obligations under the Paris Agreement'	non-contradiction	self-contradiction	FN

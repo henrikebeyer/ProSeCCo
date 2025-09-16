@@ -1,0 +1,17 @@
+ID	prime_sample	label
+QT50_638	'so maybe not all road projects are being scrapped but pretty damn near all', 'it wasn’t all major road projects who have been scrapped'	self-contradiction
+QT50_293	'the loophole being closed is only going to happen in 2023', 'it looks like the loophole is going to be closed'	self-contradiction
+QT30_065	'affected businesses had to wait 10 days to find out they’re getting 40 million pounds', 'it is really important that there is quick action for the businesses affected'	self-contradiction
+QT30_061	'for young black people in Britain to think that there has been no progress is just wrong', 'otherwise, unsurprisingly, young people…young black people in Britain will think that there has been no progress'	self-contradiction
+QT30_191	'the system we're in makes life often worse generation after generation for working-class people', 'the working class is up against extremely powerful people with a private education, with inherited money, for whom life will always get better'	non-contradiction
+QT30_447	'despite the change in guidance GPs just carried on doing it remotely anyway', 'NHS England changed their guidance in May'	self-contradiction
+QT30_476	'Rory Stewart should stop putting words in Mehdi Hasan's mouth', 'the whole thing with Afghanistan was doomed from the start, it was a total catastrophe, no good came out of it'	non-contradiction
+QT50_463	'being at a Conservative Party Conference was unrelated to Isabel Hardman's mental breakdown six years ago', 'Isabel Hardman was at the Conservative Party Conference at the time of her mental breakdown six years ago'	non-contradiction
+QT50_661	'nothing is happening', 'we hear words from the Conservative Government'	self-contradiction
+QT30_054	'that’s not what happened, Germany as an example', 'otherwise every country in the world would’ve done the same thing'	non-contradiction
+QT50_578	'you can't biologically change sex', 'you can live your life how you like'	non-contradiction
+QT30_407	'it isn't encouraging conversation on what's going on now', 'we are looking at the society of Victoria, which is important'	non-contradiction
+QT50_545	'there is a lot of politics in the decision about the pay for public sector workers of course', 'with these decisions you try to take the politics out of the NHS pay debate'	self-contradiction
+QT50_288	'young people are never looked after as promised by the government on the classroom floor', 'what we really want is to see our young people being looked after the way they are promised by Government'	self-contradiction
+QT30_451	'we have fewer GPs now than we had in 2015', 'the Conservative government has had at least two go's at recruiting more GPs'	self-contradiction
+QT50_348	'people are living in terror about more, the mortgage costs going up', 'people are living in terror about the energy costs'	self-contradiction

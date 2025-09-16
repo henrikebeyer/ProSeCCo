@@ -1,0 +1,12 @@
+---Evaluation of locution trial with 8 primes and random seed 52 
+
+- self-contradiction primes: 3 
+- non-contradiction: 5
+
+-accuracy: 0.5520121488230828 
+-F1-Score: 0.38284518828451886 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 544 		 91 
+act neg 	 499 		 183

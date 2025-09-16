@@ -1,0 +1,318 @@
+ID	proposition1	proposition2	label	roberta_mnli_proposition_pred	eval_status
+QT30_012	but you have problems with self-isolating at home	you are told to self-isolate at home for two weeks	1	0	FN
+QT30_015	thousands and thousands of people are dying in care homes	you are throwing a protective ring around care homes	1	0	FN
+QT30_018	it seems to Alex Massie to be infantilising of Government ministers to try to pretend that could be the case	you treat people like adults	1	0	FN
+QT30_020	we have a chance through democracy, to break free, and progress	we need to be honest, face up to it, and accept the fact that we are as much prisoners of our history, as anything else	1	0	FN
+QT30_022	the British Empire being a force for good in the world is not true	the British Empire was a force for good only in the world	1	0	FN
+QT30_024	Iran and Brazil are the two highest hotbeds of the disease	until Sunday you could come from Iran or Brazil with impunity	1	0	FN
+QT30_027	it’s somehow a widespread problem in Wales with late test results	test results in Wales, over 90 per cent of the people get their test results within 48 hours	1	0	FN
+QT30_032	Kofie Unknown is just wondering if we're doing both priorities: protecting the economy and saving lives	now, obviously the Government is dealing with two priorities	1	0	FN
+QT30_034	as opposed to the nit-picking and the point-arguing that we have seen on Twitter, very strangely, from this Government in particular	your Government began to show a little bit of contrition and acknowledgment of the mistakes that have been made in the handling of this crisis up to this point	1	0	FN
+QT30_043	we have learned that we can be at productive when we are at home, if not more productive	with flexibility you couldn't work at home, you wouldn't be getting enough done	1	0	FN
+QT30_045	it’s absolutely horrifying that we can’t provide more for the returning year tens and twelves	it’s absolutely delightful to see all the year tens and twelves back	1	0	FN
+QT30_048	getting children back to school is a huge effort and it takes a lot of work to get children back to school safely with the social distancing requirements	we could sort out children going back to school pretty quickly actually	1	0	FN
+QT30_053	people feel moved to go out and protest	we’ve got a public health emergency and nobody wants to see crowds out on the street	1	0	FN
+QT30_055	these figures will now be distorted because of the situation with the coronavirus	James Clevlery is very proud of the fact that he is part of a government that has made some real differences	1	0	FN
+QT30_056	the Black Lives Matter movement does themselves no favours when they riot in London	the Black Lives Matter movement is excellent	1	0	FN
+QT30_062	originally the government was suggesting face coverings were not necessary and might give a false sense of confidence	Face covering matter	1	0	FN
+QT30_069	people in many circumstances are or are not getting cuts off their rent, their bills, their food	we’re still asking people in many circumstances to make a cut to their wages	1	0	FN
+QT30_075	Jeremy Corbyn allowed the space for anti-Semites to come into the Labout party and the leadership did absolutely nothing about it	anti-semitism in Labour is not one person’s fault	1	0	FN
+QT30_090	the NHS relies on subcontractors to do the job of rolling it out	the arguments are given that the NHS will do the roll-out	1	0	FN
+QT30_091	to say the NHS will do it, well, the NHS can only do it if they get the support to do their job	the arguments are given that the NHS will be able to manage the roll-out	1	0	FN
+QT30_105	sorry, the AstraZeneca one is 70 percent protection	the reality is that the first dose of the Pfizer/BioNTech is about 70 percent protection, it is reckoned	1	0	FN
+QT30_110	no, schools are not safe after all	schools are absolutely safe	1	0	FN
+QT30_115	there is other evidence that suggests from December cases are going down	the imperial College study is scary in that it doesn’t tell us whether or not the cases are going down from December	1	0	FN
+QT30_123	on a number of occasions the UK has not followed that advice, the border being one example	the scientists they have been saying since the beginning of the pandemic there are clear strategies to follow to limit the impact it has	1	0	FN
+QT30_126	we can have debates about timing and when the best time to hold a second referendum would be	the question of a second referendum is not about timing	1	0	FN
+QT30_134	we could say we'll send hospitality back first, but we won't send schools back	our distinction is we think schools should go back first	1	0	FN
+QT30_145	giving more money is difficult	we'd love to be giving more money	1	0	FN
+QT30_147	so many people have sacrificed and we don't want to risk what we've gained in terms of driving the level of the virus right down	we all want to get back to the position where we can have all the liberties back, the freedoms that we lost	1	0	FN
+QT30_150	there's this presentation that is just topsy-turvy that somehow England's greedily sitting on all these vaccines	AstraZeneca is a cheap vaccine, and the UK has actually invested huge amounts of money in helping vaccine rollout round the world	1	0	FN
+QT30_164	we've actually come together as a country like never before to confront COVID	we've been separated from our families like never before	1	0	FN
+QT30_165	Lorna Slater really wants to spend five years of that nine years arguing about Scottish independence	we've got nine years to confront the climate emergency at the very heart of Lorna Slater's policies	1	0	FN
+QT30_171	Alan Unknown thinks we need further investment in the oil and gas industry as a country	the subsea sector now hear that the Green Party would like the sector to be ceasing production in the next ten years	1	0	FN
+QT30_176	the Scottish Greens have not officially hitched their wagon	the Scottish Greens have hitched their wagon	1	0	FN
+QT30_177	the Scottish Greens are supporters of the SNP in government	the Scottish Greens have not officially hitched their wagon	1	0	FN
+QT30_179	the investment into renewables is not happening	we've got to invest seriously and genuinely in those renewable jobs of the future	1	0	FN
+QT30_186	then Michelle Dewberry ran secondly as a Brexit Party candidate	Michelle Dewberry does not represent the Brexit Party	1	0	FN
+QT30_187	Michelle Dewberry is not involved with the Brexit Party, which is now called Reform	then Michelle Dewberry ran secondly as a Brexit Party candidate	1	0	FN
+QT30_192	this is the first time this past election Rose Unknown had to seriously sit down and think about whether she would vote Labour	Rose Unknown has voted Labour all her life	1	0	FN
+QT30_193	Rose Unknown doesn't think Labour is the natural division between a Tory government	Labour is the natural division between a Tory government now	1	0	FN
+QT30_194	Rose Unknown doesn't feel the same way anymore about voting for the Labour Party	Rose Unknown could be proud to vote for the social justice that the Labour Party was founded on	1	0	FN
+QT30_197	the time for the referendum is not now, everyone knows that's obvious	we have to vote now	1	0	FN
+QT30_198	48 per cent in the Brexit referendum is a mandate to nothing	48 per cent is a mandate for a referendum	1	0	FN
+QT30_205	current UK government seems to want to reduce the voting franchise	over the last few decades, if not centuries, we've seen successive governments try to expand the voting franchise	1	0	FN
+QT30_207	when the situation changed in England, hey presto, they extended the furlough	the extension of the furlough was refused	1	0	FN
+QT30_214	Devi Sridhar cannot travel to India	Devi Sridhar wants to travel to India today	1	0	FN
+QT30_216	you've still got concessions being run by private companies	there is that increased measure of public input in the Great British Railways	1	0	FN
+QT30_217	in this case, in the railways, privatisation just hasn't worked	privatisation is a positive thing	1	0	FN
+QT30_220	if it's the water that comes out of your tap or indeed the train from Crewe to Euston you don't have that choice to choose whatever you like	when you walk down the high street, and unfortunately there are many frozen pea purveyors and as a consumer you can go pretty much where you like	1	0	FN
+QT30_222	when you add on the transportation costs actually our calculations are that it won't be so cheap at the end of it	it's very cheap to produce	1	0	FN
+QT30_226	when you travel across the world most people are pretty similar in terms of what they want out of their lives	we get caught up on religion and beliefs and skin colour and our differences	1	0	FN
+QT30_231	the government are offering £50 per student	Kevin Collins asked for £700 per student	1	0	FN
+QT30_238	we don't know who to trust	Jenni Murray is sure Anthony Costello is right and very well informed	1	0	FN
+QT30_239	our own advice wasn't good enough in a public health emergency	we were told to take our own advice	1	0	FN
+QT30_241	Heather McGregor would like to see us work out a way to live with it on a longer term basis	Heather McGregor would like to see restrictions lifted sooner	1	0	FN
+QT30_244	Naomi Osaka should have anticipated that people would be interested in her story	Tony Unknown feels very sorry for Naomi Osaka	1	0	FN
+QT30_248	the ending of the eviction ban is premature	AUDIENCE MEMBER has every sympathy with landlords	1	0	FN
+QT30_252	a woman renting a house or a flat with two children being terrified that at any minute she is going to be evicted because she can't pay her rent is criminal	a woman renting a house or a flat with two children being terrified that at any minute she is going to be evicted	1	0	FN
+QT30_253	we have a food bank that is absolutely flooded out with people who simply cannot afford to buy food for their children	Jenni Murray lives in a quite well-off part of London and she is okay	1	0	FN
+QT30_275	people do look to politicians for leadership	politicians aren't anybody special	1	0	FN
+QT30_276	no, politicians cannot act like a journalist or a businessman	Boris Johnson or any other politicians feel they can act like a journalist or act like a businessman or something like that	1	0	FN
+QT30_278	breaking the link between the cases and the hospitalisation and the hospitals is a dramatically suppressed link	breaking the link between the cases and the hospitalisation and the hospitals is not a broken link	1	0	FN
+QT30_282	Benjamin Zephaniah means it worked because we had to do it to make it work for Zoom	teaching on Zoom was absolutely terrible	1	0	FN
+QT30_283	we don't know factually what got us here	normal got us here	1	0	FN
+QT30_284	a Labour defeat would just be kind of representative of the decline	no, the final nail in the coffin for the Labour party is a long way off	1	0	FN
+QT30_286	clothes are not relevant to politics	when Jeremy Corban is interviewed he's asked about his clothes, ties, glasses	1	0	FN
+QT30_294	Michelle O'Neill is no longer astonished in terms of the British government who have tried to run roughshod over the Good Friday Agreement	the protocol crucially protects the Good Friday Agreement	1	0	FN
+QT30_295	Jeremy King does not want to force anybody to have a vaccine	Jeremy King would love to see the passports used	1	0	FN
+QT30_299	those efforts that Nadhim Zahawi described haven't been visible to us	those efforts that Nadhim Zahawi described are happening	1	0	FN
+QT30_302	Jenni Murray watches athletics quite a lot	Jenni Murray doesn't watch a lot of sport	1	0	FN
+QT30_303	if you're a very poor woman with children, living alone, with no resources, and no knowledge of how to argue these things and where to find help	there are always ways of getting around that kind of thing	1	0	FN
+QT30_311	James Allcock does not earn too much	James Allcock has to give the money back now because he earns too much	1	0	FN
+QT30_312	while the packages from the chancellor are better than nothing, they’re not enough	all the packages from the chancellor are fine	1	0	FN
+QT30_314	there seems to be an attempt here to do change the game when you are playing the game	you cannot change the game when you are playing the game	1	0	FN
+QT30_322	at the moment we have a government to whom they feel the law doesn't apply to them	our democratic system has a series of checks and balances	1	0	FN
+QT30_335	we couldn't all afford to run out tomorrow and buy an electric car	we could all run out tomorrow and buy an electric car	1	0	FN
+QT30_340	Tim Stanley is not astonished the language is being used	there's no possible explanation for that language	1	0	FN
+QT30_356	Heather McGregor is not allowed to sit in a room with 60 people at the moment at work	Heather McGregor is sitting here in a room with 60 people in a university lecture theatre	1	0	FN
+QT30_358	wearing a mask is not particularly onerous	the UK Government against something as basic as wearing masks	1	0	FN
+QT30_359	wearing a mask is not the most pleasant of things	wearing a mask is not particularly onerous	1	0	FN
+QT30_366	the Conservative Government in London is not investing £16 billion in the transition fund to move us into this new renewables in the North East	it's the Conservative Government in London that is investing £16 billion in the transition fund to move us into this new renewables future	1	0	FN
+QT30_367	the Conservative Government in London that is investing £16 billion in the transition fund to move us into this new renewables future in the North East of Scotland	the Conservative Government in London is not investing £16 billion in the transition fund to move us into this new renewables in the North East	1	0	FN
+QT30_369	the Scottish National Party Government in Edinburgh is not investing and does not care about the North East of Scotland	the Conservative Party is investing and does care about the North East of Scotland	1	0	FN
+QT30_382	the people who need it most are not getting money from the Government	the Government announced as they arrived in Manchester, £0.5 billion for those people who need it most	1	0	FN
+QT30_383	when you listen to what Boris Johnson said, he said nothing	Boris Johnson was able to excite everyone with his slogans	1	0	FN
+QT30_392	these sectors are worth a lot to our economy	we have seen hundreds of thousands of pounds worth of tomatoes wasted	1	0	FN
+QT30_402	there was no plan for Brexit	they have had 5 years to prepare for Brexit	1	0	FN
+QT30_403	we're trying to employ people to come from abroad	from a seasonal worker prospective you wouldn't come abroad with temporary restrictions such as you can stay here for 2 months and help us out	1	0	FN
+QT30_404	we don't want seasonal workers after 2 months	we're trying to employ people to come from abroad	1	0	FN
+QT30_412	AudienceMember20210916QT06 is not aware of all the backhanders that go on	it's a strange situation because we know that there are back-handers going on	1	0	FN
+QT30_416	our deliveries are going down at exactly the wrong time when they need to go up	we are stock building now for Christmas	1	0	FN
+QT30_420	AudienceMember 20210930QT13 is really concerned that the government seem to be making HGV licences easier to get	AudienceMember 20210930QT13 understands that the government need to recruit more HGV drivers	1	0	FN
+QT30_422	the main problem though is the tests couldn't be run because of coronavirus	Grant Shapps opened up tests	1	0	FN
+QT30_424	the Conservative party knows that immigration will need to go up if we're to deal with shortage problems	the Conservative Party promised that immigration would come down	1	0	FN
+QT30_445	police already having the powers was evidently not the case	both the other politicians on the Question Time panel have mentioned the police already having the powers	1	0	FN
+QT30_448	seeing GPs face to face is not going to solve the problem	it's important that people can see their GP face to face	1	0	FN
+QT30_450	that we can now use remote contact with GPs to get a new prescription or deal with something very small isn't really the point here	it's great that now we can use remote contact with GPs to get a new prescription or deal with something very small	1	0	FN
+QT30_453	the fire safety bill that has gone through today is the starting point	the fire safety bill the Government has managed to get through today is not helping AudienceMember 20210916QT12	1	0	FN
+QT30_455	it should predominantly be the planning departments and safety departments that pass these fire safety bills off	it should predominantly be the contractors who are left with the fire safety bill	1	0	FN
+QT30_462	there could be a vaccine we could use for India	Anne-Marie Trevelyan doesn't know if there's a vaccine that we could use for India	1	0	FN
+QT30_463	we do need to do a lot more	John Ashworth is pleased that the Government have done something	1	0	FN
+QT30_464	the UK have to help India to protect thousands upon thousands of people dying every day in India	we are trying to convince ourselves as a nation that we have to not help India to protect ourselves	1	0	FN
+QT30_472	don't pause the Home Office	the Home Office said they're on a pause	1	0	FN
+QT30_477	it was brilliant	it was a disaster	1	0	FN
+QT30_481	Thangam Debbonaire disputes that the government were right	the government were right	1	0	FN
+QT30_484	we don't make process by picking juvenile fights not just with one country but with the entirety of the European Union	we are going to make progress	1	0	FN
+QT30_485	Labour losing Hartlepool isn't really a shock to John Bercow	yes, Labour losing Hartlepool is a shock	1	0	FN
+QT30_487	the case is absolutely not academic for the 3 million people who work in hospitality	after an unexplained two-week delay from the court, the judgment was that the case was academic	1	0	FN
+QT30_488	the next day opening up in England is 17 May	the government said it would be driven by data not dates	1	0	FN
+QT30_489	that's what we are seeing and in effect there is a border down the Irish Sea	the Prime Minister said that the Northern Ireland protocol was ingenious and would not result in checks or barriers or border	1	0	FN
+QT30_492	Gillian Keegan didn't say that we didn't understand what we were signing	we didn't understand what we were signing	1	0	FN
+QT30_494	the un-safety and the potential balance of trade issues with regards to sausages and meat are deliberately at a different level which is something I found interesting when I started to work in politics as opposed to business	it's neither true that the sausages and meat are unsafe, or that they will upset the balance of trade	1	0	FN
+QT30_496	no, everything the UK Government does is not correct	everything the UK Government does is correct	1	0	FN
+QT30_498	you might not be racist whatsoever if you disagree with taking the knee	if you disagree with taking the knee you're seen to be racist	1	0	FN
+QT30_499	AudienceMember 20210805QT26 thinks taking the knee is starting to reduce the effect it had in the first place	AudienceMember 20210805QT26 understands why people take the knee	1	0	FN
+QT30_508	the disease is going to teenagers, and it will go round	the vaccination programme has really done a fantastic job in reducing deaths	1	0	FN
+QT30_517	slipping into the notion that food banks as part of the landscape is not a good idea	we have slipped into the notion that food banks are part of the landscape now	1	0	FN
+QT30_521	looking after women and gendered violence has not been done	it was made a priority to look after women and gendered violence	1	0	FN
+QT30_530	there are 18 million adults in the country that's going to take more weeks	35 million have had their first jab	1	0	FN
+QT30_534	the data is looking really positive and Kate Andrews thinks we should be quite cheerful about that	the idea of the NHS being overwhelmed is deeply frightening	1	0	FN
+QT30_537	Caroline Lucas is sure of how Paul Scully will vote in the Owen Paterson situation	Caroline Lucas is not sure what Paul Scully will think of the situation with Owen Paterson	1	0	FN
+QT30_538	now we're having to close stores	we haven't closed a single store, we haven't missed a single delivery	1	0	FN
+QT30_540	we still must be careful	we have to go forward	1	0	FN
+QT30_542	Philip Unknown is pretty sure it is a conversation that now will be had in his lifetime	it is a conversation that Philip Unknown honestly never thought would needed to be had in his lifetime	1	0	FN
+QT30_546	the problem is Matt Hancock taking the vaccine to encourage others would be putting Matt Hancock ahead of the queue in terms of clinical need	Matt Hancock would be happy to take the vaccine to encourage others	1	0	FN
+QT30_556	Matt Hancook and Baroness Harding have always insisted until this point that they were only going to pursue the NHS app	Matt Hancock and Baroness Harding said today that they have backed both horses of the Google and the android model and the NHS app	1	0	FN
+QT30_559	towards the end of the shoot that got curtailed, we had another outbreak and Jed Mercurio was quite surprised to learn that we weren’t able to do testing and tracing, that the system had been stopped	we had an outbreak during the shoot over in Belfast when there was the test and trace system originally, the containment phase, and we were able to deal with that and we were able to carry on uninterrupted	1	0	FN
+QT30_560	people who live in the UK are not made to feel like it is their country	people have got to be made to feel like the UK is their country	1	0	FN
+QT30_561	it's hard to trust politicians at the best of times	the idea that we need complete honesty and complete trust	1	0	FN
+QT30_566	the majority of the population unfortunately would probably assume that in some way or another, politicians are there not only to represent themselves, but, and you know, the population, but also to go that little bit too far you know	AudienceMember 20210916QT07 doesn't expect politicians to behave badly	1	0	FN
+QT30_567	inspecting every British sausage that travels across the Irish Sea is an abuse of EU's legal right	EU has the legal right to inspect every great British banger that travels across the Irish Sea	1	0	FN
+QT50_008	a Christmas party is ensuring that Christmas lunches with small numbers of people that we have in hospitality settings can continue	a Christmas party is a gathering, as people said, a large number of people, no masks on	1	0	FN
+QT50_009	furlough was costing businesses money in the latter stages	furlough was a really good thing	1	0	FN
+QT50_011	we can't afford to have the economy shut down because everybody is sick	it is not a simple case of if we shut things down, the economy suffers	1	0	FN
+QT50_019	it is about time that we looked at things in a very different way	we all look on those in need in sadness, at these events from the comfort of our own homes	1	0	FN
+QT50_020	it is important that Labour and Conservatives have strong opposition in other ways	it has been really important that Labour and Conservatives work together	1	0	FN
+QT50_028	now in A&E, when Rosena Allin-Khan is doing her shifts, she is seeing the elderly coming in with electric burns from the same sort of heater	time with the electric heaters was a time of the past	1	0	FN
+QT50_029	the Government gives us 200 pounds which, and this is the small print, we have to pay back so you might call the Government's strategy of dealing with the problem which has been exacerbated by Government as socialism with a miserly face where the Government takes your money, gives it back to you then asks you to return it	the Government's proposal to support us during this at a time in which the average bill will rise by 700 pounds is to give 150 pounds back via Council tax is good	1	0	FN
+QT50_031	reverse ferret in front of those very staff who have built their trust is not the way to do this	the Government has to reverse ferret in front of those very staff who have built their trust	1	0	FN
+QT50_032	the money is not the Goverment's, it's yours	the Labor philosophy is a philosophy which sees Government money as the Government's	1	0	FN
+QT50_037	AudienceMember 20220210QT26 worried they might be sicker than they have been	AudienceMember 20220210QT26 never worried they would end up in hospital	1	0	FN
+QT50_039	not wanting to air the questions on people's decision not to get the vaccination treats people like children	there are some people that think these questions on people's decision to not get the vaccination shouldn't be aired	1	0	FN
+QT50_047	behind each individual number there is a personal tragedy for both the individuals concerned but also their relatives and families	we can talk about numbers	1	0	FN
+QT50_059	as soon as you develop symptoms of Coronavirus you have to have that data on a database	Afua Hirsch's understanding is once you sign up to the app there is not a lot of data	1	0	FN
+QT50_077	Konstantin Kisin feels nothing but shame for Russia and what it is doing	Konstantin Kisin is proud to be Russian	1	0	FN
+QT50_079	inside Russia, and inside Moscow, people close to him, not everyone may think invading Ukraine is a good idea	they're lining up behind the Russian president	1	0	FN
+QT50_086	there needs to be significantly more movement in terms of sanctions	Kirsten Oswald knows there has been significant movement in terms of sanctions	1	0	FN
+QT50_093	in a crisis now, the Government can't find some way of getting a VIP hot line for the people who actually want to come to the UK and get protection and during an emergency in their time of need	during the middle of the pandemic, in a heartbeat, a VIP hot line was set up for the Government's mates to get contracts out	1	0	FN
+QT50_103	people can't afford paying almost £1,200 to fill their tank	people are paying almost £1,200 to fill their tank	1	0	FN
+QT50_116	there's been a huge outpouring of goodwill to rehome Ukrainian refugees and support them at their time of need	we're still seeing disastrous numbers of people actually being allowed into the UK	1	0	FN
+QT50_119	we can't fight Vladimir Putin with blankets	As a Ukrainian MP said to me this week, it's all very well sending us blankets	1	0	FN
+QT50_121	the plane flying over Swedish airspace holding a nuclear bomb may not be an accurate story	one of the planes went in Swedish airspace a week ago was actually carrying a nuclear bomb	1	0	FN
+QT50_123	AudienceMember 20220331QT31 doesn't know how to stop Vladimir Putin from controlling social media	surely we can do something about Vladimir Putin controlling social media	1	0	FN
+QT50_124	Boris Johnston is never held accountable	Boris Johnston seems to always apologise and always say 'I'm sorry'	1	0	FN
+QT50_125	we would've been fined	Boris Johnston is never held accountable	1	0	FN
+QT50_126	yet politicians imposed those laws on everyone else	politicians knew going to parties was fine, they were young, they were healthy, they were not worried	1	0	FN
+QT50_128	the problems were happening right there and then	the management of the trust dismiss reported problems as these were problems that were happening in the past	1	0	FN
+QT50_132	it is hard to believe that there aren't other examples of similar risky things which result in children's deaths happening in the NHS	the reports of the children dying in the maternity services in the UK are isolated in the sense that it's the absolute worst example	1	0	FN
+QT50_134	the polling shows that 80 per cent of the population actually think that wind farms onshore are a good thing, showing that onshore wind farms are popular	people say that onshore wind farms are not popular	1	0	FN
+QT50_144	AudienceMember 20220407QT06 can't afford to go green	AudienceMember 20220407QT06 wants to go green	1	0	FN
+QT50_146	the package launched by the Chancellor of the Exchequer actually set aside £9 billion, a £200 discount on energy bills, £150 discount on council tax, additional funds to give the most vulnerable  assistance in paying their energy bills	the package launched by the Chancellor of the Exchequer doesn't deal with the rise in bills completely	1	0	FN
+QT50_148	it also means diplomacy	that's going to mean sanctions	1	0	FN
+QT50_152	the heat goes straight out the window	it's all very well being able to heat up your home	1	0	FN
+QT50_153	disruptive energy technology doesn't have an expert	the innovation programmes that they put together were being run by experts	1	0	FN
+QT50_157	talking does not work for somebody like Putin, he told us he wasn't going to invade, and he did	talking is always good	1	0	FN
+QT50_168	we're left in gridlock	things happen at short notice	1	0	FN
+QT50_182	we didn't need as many lateral flow tests	money was spent for things like huge numbers of lateral flow tests, which were needed	1	0	FN
+QT50_183	we do need to probably move on from it	AudienceMember 20220505QT21 is not saying that we can just forgive and forget	1	0	FN
+QT50_186	the culture is changing much too slowly	the culture is changing	1	0	FN
+QT50_188	little Peter had something like 50 separate injuries on his body when he died	Tracy Connelly, Stephen Barker and Jason Owen were cleared of murder	1	0	FN
+QT50_189	again, SAGE warned, the Lancet Journal warned, colleagues warned in the House of Commons	sadly, when the Prime Minister made his apology in the Commons last week, he made this claim about not knowing, about asymptomatic transmission	1	0	FN
+QT50_191	xxx is why the decision was made	you do not make the decision	1	0	FN
+QT50_193	nothing happens	xxx is what happens	1	0	FN
+QT50_206	the Sue Gray Report hadn't come out	the government acted with what was announced yesterday, with the Sue Gray Report	1	0	FN
+QT50_214	we need to get the issue of Northern Ireland Protocol addressed	we don't get the Northern Ireland Protocol addressed	1	0	FN
+QT50_216	Naomi Long thinks the government package of measures is too little too late in some instances	Naomi Long actually welcomes the package of measures that have been brought forward by the government	1	0	FN
+QT50_228	statecraft, diligence, and graft are what Boris Johnson and his government have shown they cannot deliver	the way forward is going to be statecraft, diligence, and graft	1	0	FN
+QT50_229	the government's going ahead	every single party in Stormont from both communities have voted against the legislation which will grant amnesty to terrorists from the Troubles and stood up against it	1	0	FN
+QT50_234	we haven't got politicians who put their job above the colour of their party	we have to get politicians who put their job above the colour of their party	1	0	FN
+QT50_235	we can get around the table and try to find solutions because medicines issues, pets, plants, business	we can keep going back to Brexit and having the squabbles that everybody has been having	1	0	FN
+QT50_238	we go back to the same tittle-tattle again	listening to the panel tonight, AudienceMember 20220609QT283 thought that this was going to be such a good and positive outcome to a lot of things	1	0	FN
+QT50_246	we are trying all to forget May of 2020	we just need to look back to that time in May of 2020	1	0	FN
+QT50_248	anyone does or doesn't dare to speak up for Boris Johnson	anyone does or doesn't want to speak up for Boris Johnson	1	0	FN
+QT50_254	at the same time we have one hand tied behind our back because the UK government have taken £20 a week out of universal credit	raising child payment to £20 a week has been described as a game changer	1	0	FN
+QT50_256	when the SNP do do something, it is cutting funding for towns	the SNP don't do anything in consultations	1	0	FN
+QT50_257	the money is not given to us	the point AudienceMember 20220707QT34 says money given to us	1	0	FN
+QT50_259	housing is where local planning policies need to be more sensitive	Iain Anderson is not in favour of a market intervention	1	0	FN
+QT50_266	Boris Johnson has led us out of that and followed the will of the people in the country, got through that, and got us Brexit, and dealt with covid	AudienceMember 20220721QT06 wouldn't defend that Boris Johnson isn't a liar	1	0	FN
+QT50_270	look what's happened in Ukraine in terms of armed conflicts	the Prime Minister last year said we we were not going to see tanks rolling across Europe again	1	0	FN
+QT50_276	there are too many of the candidates in the leadership race offering tax cuts which are unfunded	you have got quite a lot of interesting, young candidates, pushing forward quite bold new ideas in the leadership race	1	0	FN
+QT50_281	no Boris Johnson hasn't got Brexit done, the Northern Ireland protocol hasn't started yet	everyone keeps saying Boris Johnson got Brexit done	1	0	FN
+QT50_282	you can't get on with other people  in your own life and in your job	we have get on with each other in our own lives and in our jobs	1	0	FN
+QT50_290	capping rents would be a reasonable idea	nobody is advocating capping rents	1	0	FN
+QT50_292	public sector workers are expecting to get a pay cut	we were promised a high wage high skill economy	1	0	FN
+QT50_293	the loophole being closed is only going to happen in 2023	it looks like the loophole is going to be closed	1	0	FN
+QT50_296	we have got empty properties in Paignton	they are using every bit of land	1	0	FN
+QT50_301	the crisis hasn't stopped	the pandemic finished in February	1	0	FN
+QT50_302	suddenly you say we can't help anymore	the Government reaction was one of the best in the world	1	0	FN
+QT50_304	400£ for the pandemic was uncosted	the Government helped us with £400 billion during the pandemic	1	0	FN
+QT50_307	climate change it presents us with so many opportunities to create brilliant jobs across our country, well paid, highly skilled	climate change presents us with so many challenges	1	0	FN
+QT50_312	giving an announcement like on Friday with the Office of Budget Responsibility giving an independent forecast that backs it up should have been done	an announcement was made on Friday without the Office of Budget Responsibility giving an independent forecast that backs it up	1	0	FN
+QT50_314	23rd November is too late	now we have to wait until 23rd November	1	0	FN
+QT50_316	AudienceMember 20221006QT62 was told today that the lender has pulled the offer and the best they can get is 10.5%	AudienceMember 20221006QT62 was told their initial interest rate would be 4.5%	1	0	FN
+QT50_319	it is not a traditional inflation event	we're in a situation where inflation is running high	1	0	FN
+QT50_320	we don't have an over-heated economy	you get an over-heated economy	1	0	FN
+QT50_321	the rates are going up by 6%	Paul Scully stepped in as a Central Government and said no, the 178% are increase won't happen	1	0	FN
+QT50_326	they aren't doing it so PV panels and heat exchanges are on the new builds	the Government had said we're changing the building regulations and all houses have to have PV panels or a heat exchanger	1	0	FN
+QT50_327	unlocking the building that's around is not happening	we need to unlock the building that's around	1	0	FN
+QT50_340	interest rates were not due to go up so suddenly	interest rates were due to go up	1	0	FN
+QT50_342	using government money to create jobs and not cutting the higher rate of taxes is not a responsible choice	it is right that we use government money to create jobs and not cut the higher rate of tax	1	0	FN
+QT50_345	it is also right we look at the positive impacts of the growth plan	the growth plan hasn't gone as planned	1	0	FN
+QT50_348	people are living in terror about more, the mortgage costs going up	people are living in terror about the energy costs	1	0	FN
+QT50_349	there's going to be a U-turn coming possibly the next week	there's going to be a U-turn coming possibly tomorrow	1	0	FN
+QT50_353	there is a majority against the status quo	there's not a majority in this country that supports independence	1	0	FN
+QT50_355	"the Conservative Party is running out of people with the ideas to lead it and to work out what ""conservative"" should stand for today"	the Conservative Party is not fully ungovernable	1	0	FN
+QT50_368	Scotland would do just fine	Scotland couldn't make it as a country, a small country of 6 million people within Europe	1	0	FN
+QT50_375	John Swinney in his manifesto said that there should be a referendum on independence	it doesn't matter what was in John Swinney's manifesto	1	0	FN
+QT50_380	Nicole Sturgeon can be rude because other people are rude too is definitely not what John Swinney is saying at all	Nicole Sturgeon can be rude too	1	0	FN
+QT50_385	no one is an enemy	we are opponents	1	0	FN
+QT50_388	the break-up of the union is not about rubbing a line off a map where all the protections of the Good Friday Agreement are there no matter what your position, whether you're British or Irish	on this island it is about a new Ireland	1	0	FN
+QT50_405	young man over there is thoroughly unimpressed with the Conservative party	young man over there is a Conservative voter	1	0	FN
+QT50_410	Britain is the sixth richest economy in the world	it is desperate in the NHS	1	0	FN
+QT50_413	the press keep saying long-COVID is a respiratory disease	long-COVID is a blood disease that stops the oxygen getting around your body, which affects any or all of your organs	1	0	FN
+QT50_414	creating multidisciplinary places where you can go and get help is just not happening	what we need is multidisciplinary places where you can go, where you can get help	1	0	FN
+QT50_415	we don’t have 40 new hospitals	Lucy Frazer did just say we have 40 new hospitals	1	0	FN
+QT50_421	claiming that we’re not funding the NHS isn’t accurate	Dr Ayesha is right to identify that we have backlogs of dealing with issues such as social care	1	0	FN
+QT50_423	we have been chronically underfunded	NHS is a very, very, very good health service	1	0	FN
+QT50_426	there are countries that have similar outcomes	the sort of waiting lists that we have in this country for getting to see a consultant if you’ve got suspected cancer or heart disease or diabetes are unheard of in large parts of the western world	1	0	FN
+QT50_427	some countries have had similar spending as a percentage of GDP, but actually have better outcomes	there are countries that have similar outcomes	1	0	FN
+QT50_428	the NHS is not getting the outcomes we need	the NHS is actually, weirdly, quite an efficient health service per pound spent	1	0	FN
+QT50_430	it is just not possible for cuts to be made in the education budget	we’re being told, our fifth education secretary in the last year, that they’re also going to have to make cuts in the education budget	1	0	FN
+QT50_438	that there are employers out there that allow behaviour as that shown by Matt Hancock is bad enough	none of the behaviours Matt Hancock has shown is behaviour that anybody in this audience would be allowed to get away with in an actual place of work	1	0	FN
+QT50_439	Emily Thornberry doesn't behave like people in the current government	Erica Peas sees Emily Thornberry through the lens of this current government	1	0	FN
+QT50_448	politicians going on the news channels just spouting what they actually know is a damn right lie has got to stop	politicians seem to be quite happy to go on news channels just spouting what they actually know is a damn right lie	1	0	FN
+QT50_450	we should talk about the things that people in this government are doing that are harmful	we waste time talking about the people that shouldn't be MPs	1	0	FN
+QT50_453	NHS staff would like to retire early	NHS staff going above and beyond has never been more the case than at the moment where you just have exhausted staff from the pandemic, traumatised staff from the pandemic, who are still turning up	1	0	FN
+QT50_455	talking about women being able to get to work and not being able to find childcare is not enough	it is right to talk about women being able to get to work	1	0	FN
+QT50_456	talking about women being able to get to work and not being able to find childcare is not enough	it is right to talk about women not being able to find childcare	1	0	FN
+QT50_462	we're not doing enough to help the social care sector	we focus a lot, rightly, on the NHS	1	0	FN
+QT50_478	the target of 100 billion that the developed countries pledged to less developed countries to help them cope with climate change still hasn’t been met	the developed countries pledged 100 billion to less developed countries to help them cope with climate change	1	0	FN
+QT50_491	record means nothing, significant means nothing	the current government sits there with records, significant funds	1	0	FN
+QT50_493	Armando Iannucci is not minded to write something positive at the moment	Armando Iannucci wishes he could write something which all is well	1	0	FN
+QT50_502	peaceful protest is hugely under attack by this government	peaceful protest is massively important	1	0	FN
+QT50_503	policemen get injured, people get injured, drivers get injured	Caroline Lucas considers recent protests to be peaceful	1	0	FN
+QT50_509	what we can do as a country is show international leadership by doing things the right way	we cannot be responsible necessarily for the whole world	1	0	FN
+QT50_511	the Government failed to do open the door to discussion on the pay with nurses on strike	the Government just had to open the door, and accept the principle that they were going to have a conversation with the nurses about their pay	1	0	FN
+QT50_512	Jacob Rees-Mogg does not always follow the independent pay bodies	Jacob Rees-Mogg is talking about the independent pay bodies like they are gospel	1	0	FN
+QT50_513	sometimes pay review results are not implemented at exactly the time that is suggested	pay review results are usually implemented	1	0	FN
+QT50_514	the nurses strike has come as a real shock	over the years, we have got used to different parts of business or organisations going on strike	1	0	FN
+QT50_516	the Government offer for nurses is too low	a 19 per cent pay increase for nurses is too high	1	0	FN
+QT50_521	at the same time the UK Government claimed it cannot interfere in an independent process, it did interfere in that process when it came to the train strikes	the UK Government simultaneously claims, it cannot interfere in this so-called independent process	1	0	FN
+QT50_531	we have a problem with people coming across the Channel	AudienceMember20230112QT14 doesn't have a problem with people coming	1	0	FN
+QT50_537	NHS staff have justified a pay rise enough	NHS staff need to justify a pay rise	1	0	FN
+QT50_546	from all my years of going on Question Time I know that the two most unpopular things to suggest and to support are incest and private medicine	the NHS should be using more private medicine	1	0	FN
+QT50_549	that the NHS coming to save us is not happening, is genuine to show that the NHS is at breaking point	the NHS is coming to save us, in our desperate state of need	1	0	FN
+QT50_552	AudienceMember 20230126QT23 should have the right to strike	currently AudienceMember 20230126QT23 doesn't have the right to strike	1	0	FN
+QT50_553	everyone wants to talk about Harry's autobiography	no one wants to hear any more about Harry's autobiography	1	0	FN
+QT50_556	the royals have been turned into this kind of hideous cartel where they're feeding each other to the wolves in order to advance their own interests	the royals being able to be a family	1	0	FN
+QT50_559	we have not forgotten what Liz Truss and what Alex Chalk's Government did to our economy	Alex Chalk forgets what Liz Truss and his government did to the British economy	1	0	FN
+QT50_562	the narrative we get in this country that we're all in it together is nonsense	we get this narrative in this country that we're all in it together	1	0	FN
+QT50_564	AudienceMember 20230209QT14's business can't just fix the pay rise at 10 percent	AudienceMember 20230209QT14 would love nothing more than to be able to go in and say, here's a whole load -- and we have done it	1	0	FN
+QT50_566	India Willoughby is not going to go to the gutter	Ella Whelan is desperate to drag this into the gutter	1	0	FN
+QT50_587	when the REACH regulations first came in they were marvellous	the REACH chemical regulations are terrible, we hate them, they should never come in	1	0	FN
+QT50_597	the UK couldn't afford to lose any of those nurses out of the system	the UK has seen a complete exodus of European nurses	1	0	FN
+QT50_598	the proposal doesn't mean you'll actually get to work from home, work part time, job share, and that kind of thing from day one	the proposal basically means, from day one, you can request the right to work from home, work part time, job share, and that kind of thing	1	0	FN
+QT50_611	AudienceMember 20230330QT05 is talking about the 600 jobs the Conservative Party have put at risk	AudienceMember 20230330QT05 is not talking about divestment	1	0	FN
+QT50_612	what’s happening in Wales is that road-building projects are being cancelled	what we won't do is to cancel a road-building project	1	0	FN
+QT50_613	there must be a radical rethinking about how government and how the structure of the UK operates	the way in which the government and. the structure of UK operates is always more of the same	1	0	FN
+QT50_619	short of going over and throwing rocks at other countries in the G7 Anita Boateng can't see how we get there	Thangam Debbonaire has had a long time to give any examples of how we’re going to get to the levels of growth that will see us become the fastest growing country in the G7	1	0	FN
+QT50_626	AudienceMember 20230330QT26 is worried where the rewriting of Roald Dahl books is going to start the rewriting of classics and popular culture	AudienceMember 20230330QT26 hopes the rewriting of Roald Dahl books is going to open a discussion on social change	1	0	FN
+QT50_627	removing words from children's books is not a benevolent decision	it’s great that the publishers removed words from children's books	1	0	FN
+QT50_629	20 years later we say, no, actually that was a man who was born on 21 January	a woman was born on January 21	1	0	FN
+QT50_630	the forecasts are not always correct as they are set out to be	the forecasts are made	1	0	FN
+QT50_634	discussing whether Augustus Gloop should be fat or enormous is pretty trivial compared to the absolutely appalling words in songs which David Davies thinks are quite mainstream on the radio at the moment	one can have a discussion about whether Augustus Gloop should be fat or enormous	1	0	FN
+QT50_636	censoring books and changing words and banning books as well is very dangerous	social change is great	1	0	FN
+QT50_637	changing books in any way and banning them is very very dangerous	it’s good to look back on the books and see what was bad about them and criticise them	1	0	FN
+QT50_638	so maybe not all road projects are being scrapped but pretty damn near all	it wasn’t all major road projects who have been scrapped	1	0	FN
+QT50_641	from Llanbedr, where Liz Saville-Roberts lives, down to Chepstow, where David Davies lives, and along the M4, we’re not going to be breathing clean air	we would breathe clean air	1	0	FN
+QT50_642	let’s think about the next five/50 days when people are going to need to be able to get around on buses and on better public transport	we should think about 2050	1	0	FN
+QT50_643	Anita Boateng believes that Cardiff is reasonably good for public transport once you get out of there	Wales does not have the kind of public transport that you should all rightly expect	1	0	FN
+QT50_645	Rakie Ayola always thinks that maybe did Labour decide to scrap the roads and then find a reason for it	Rakie Ayola thinks it’s great that Labour are thinking about the environment	1	0	FN
+QT50_647	with a large scale resettlement programme we can show the world that we are a compassionate nation	there is no large scale resettlement programme to provide meaningful safe and legal routes	1	0	FN
+QT50_649	the barracks will house something like 5,000 people	in terms of being credible, you've got 166,000 odd people waiting to have their asylum claim processed	1	0	FN
+QT50_653	Fraser didn't used to support the UK governments Rwanda deportations	Fraser Nelson does support the Government's plan for Rwandan deportations	1	0	FN
+QT50_661	nothing is happening	we hear words from the Conservative Government	1	0	FN
+QT50_663	there is so much more to be done	decarbonising at the fastest rate in the G7 is a real achievement	1	0	FN
+QT50_668	the Government haven't delivered the promised reform for renters	the Government have promised a renters reform	1	0	FN
+QT50_671	people objected to the Government policy to make it easier to build homes	the Government tried to introduce the policy where it would be easier to build homes	1	0	FN
+QT50_672	the Government dropped the policy to make it easier to build homes pretty damn pronto	the Government tried to introduce the policy where it would be easier to build homes	1	0	FN
+QT50_676	Andrew Murrison can help AudienceMember 20230427QT16 get on the property ladder by doing xxx now	right to buy was quite some time ago	1	0	FN
+QT50_681	we have an inequality crisis not a cost of living crisis	we talk about a cost of living crisis here	1	0	FN
+QT50_682	little has been put in place for young people	we're talking about young people and supporting them	1	0	FN
+QT50_683	Fraser Nelson doesn't see the edges of the society starting to fray as law and order crackdown	there you can see the edges of our society starting to fray in a very alarming way	1	0	FN
+QT50_687	we are not dealing with fraud properly	fraud is the priority	1	0	FN
+QT50_688	the building of houses is not going fast enough	you go around my constituency and 650 up and down this country, you'll see building going on right now	1	0	FN
+US2016_002	HillaryClinton actually has specifics, names names, etc	most of what Hillary Clinton said has been fluff and targeted rhetoric	1	0	FN
+US2016_005	I wasn't surprised	I can't believe people were that dumb to clap for that	1	0	FN
+US2016_009	I hate TRUMP	I love TRUMP	1	0	FN
+US2016_025	income inequality remains significant , and nearly half of Americans are living paycheck to paycheck	There 's been a record six straight years of job growth , and new census numbers show incomes have increased at a record rate after years of stagnation	1	0	FN
+US2016_030	corporate is staying Manufacturing is leaving	Ford are not leaving Detroit	1	0	FN
+US2016_031	sure TRUMP does understand	TRUMP does not understand that screaming at a woman in front of 100 million people makes him look like a fucking asshole	1	0	FN
+US2016_034	that's a terrible idea	let TRUMP control the narrative	1	0	FN
+US2016_038	In the last couple of weeks , TRUMP acknowledged what most Americans have accepted for years : The president was born in the United States	for five years , TRUMP perpetuated a false claim that the nation 's first black president was not a natural-born citizen	1	0	FN
+US2016_042	that's not ridiculous	that's ridiculous	1	0	FN
+US2016_043	if there were nuclear war in East Asia, that's not fine	if there were nuclear war in East Asia, that 's fine	1	0	FN
+US2016_044	it's lies that TRUMP wishes a good time having nuclear war	have a good time having nuclear war	1	0	FN
+US2016_045	CLINTON thinks the single greatest problem the world has is global warming	the single greatest problem the world has is nuclear armament and nuclear weapons	1	0	FN
+US2016_046	OBAMA thinks the single greatest problem the world has is global warming	the single greatest problem the world has is nuclear armament and nuclear weapons	1	0	FN
+US2016_049	TRUMP never said that	women are pigs , slobs and dogs , and pregnancy is an inconvenience to employers	1	0	FN
+US2016_052	now CLINTON is for same-sex marriage	CLINTON was against same-sex marriage	1	0	FN
+US2016_053	now CLINTON says Obama's immigration policies are too harsh	CLINTON defended President Obama's immigration policies	1	0	FN
+US2016_054	now, suddenly, last week, CLINTON is against Obama's trade deal	CLINTON supported Obama's trade deal dozen of times	1	0	FN
+US2016_055	now, suddenly, last week, CLINTON is against Obama's trade deal	"CLINTON even called Obama's trade deal the ""gold standard"""	1	0	FN
+US2016_056	CLINTON pleads guilty to being kind of moderate and center	CLINTON would take a back seat to no one when it comes to progressive values	1	0	FN
+US2016_058	RUBIO can't justify ending a life just because it begins violently, through no fault of the baby	RUBIO favor's a rape and incest exception to abortion bans	1	0	FN
+US2016_059	TRUMP is pro-life	TRUMP is very pro- choice	1	0	FN
+US2016_062	CHAFEE emphasized civil liberties and privacy during his campaign	CHAFEE and CLINTON both voted for the Patriot Act which created the NSA surveillance program	1	0	FN
+US2016_063	now it turns out USA might be deporting 1,800 people	the other day USA were deporting 800 people	1	0	FN

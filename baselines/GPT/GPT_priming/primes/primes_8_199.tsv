@@ -1,0 +1,9 @@
+ID	prime_sample	label
+QT30_214	'I want to travel to India today', 'I cannot'	non-contradiction
+QT30_247	'A landlord should have the right to use his property and let whoever he wants in there to rent', 'I do think the government should come up with an incentive scheme to pay landlords who support poor tenants or people who struggle with their rent'	contradiction
+US2016_11	'It's quite scary to imagine that everyone on that stage but Bernie is a Billionaire', ' probably shouldn't have jumped to conclusions'	non-contradiction
+QT30_419	'what we need to see for a just in time supply chain is some long term planning', 'unfortunately we've got a just in time government'	contradiction
+QT30_452	'The Conservative government has been talking…has had at least two go's at recruiting more GPs', 'we have fewer GPs now than we had in 2015'	non-contradiction
+QT30_289	'If you start vaccinating in January, given that it takes 5 to 6 weeks to get immunity, and you did a million people a week, we wouldn't get that 10 million vaccinated until way into April', 'that's assuming everybody comes in for their first shot and for their second shot and you are not playing catch-up'	non-contradiction
+QT30_192	'I have voted Labour all my life', 'this is the first time this past election I had to seriously sit down and think about whether I would vote Labour'	contradiction
+QT30_175	'we need to actually be practical about our obligations under the climate…under the Paris Agreement', 'this is a problem that I have with the SNP approach of setting targets and putting their hopes in things like carbon capture'	contradiction

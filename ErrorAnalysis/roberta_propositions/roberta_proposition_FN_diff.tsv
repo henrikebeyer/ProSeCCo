@@ -1,0 +1,42 @@
+ID	proposition1	proposition2	label	roberta_mnli_proposition_pred	eval_status
+QT30_464	the UK have to help India to protect thousands upon thousands of people dying every day in India	we are trying to convince ourselves as a nation that we have to not help India to protect ourselves	1	0	FN
+QT50_380	Nicole Sturgeon can be rude because other people are rude too is definitely not what John Swinney is saying at all	Nicole Sturgeon can be rude too	1	0	FN
+QT50_326	they aren't doing it so PV panels and heat exchanges are on the new builds	the Government had said we're changing the building regulations and all houses have to have PV panels or a heat exchanger	1	0	FN
+QT50_103	people can't afford paying almost £1,200 to fill their tank	people are paying almost £1,200 to fill their tank	1	0	FN
+QT50_019	it is about time that we looked at things in a very different way	we all look on those in need in sadness, at these events from the comfort of our own homes	1	0	FN
+QT30_560	people who live in the UK are not made to feel like it is their country	people have got to be made to feel like the UK is their country	1	0	FN
+QT50_668	the Government haven't delivered the promised reform for renters	the Government have promised a renters reform	1	0	FN
+QT50_039	not wanting to air the questions on people's decision not to get the vaccination treats people like children	there are some people that think these questions on people's decision to not get the vaccination shouldn't be aired	1	0	FN
+QT30_193	Rose Unknown doesn't think Labour is the natural division between a Tory government	Labour is the natural division between a Tory government now	1	0	FN
+QT30_012	but you have problems with self-isolating at home	you are told to self-isolate at home for two weeks	1	0	FN
+QT30_299	those efforts that Nadhim Zahawi described haven't been visible to us	those efforts that Nadhim Zahawi described are happening	1	0	FN
+QT30_481	Thangam Debbonaire disputes that the government were right	the government were right	1	0	FN
+US2016_034	that's a terrible idea	let TRUMP control the narrative	1	0	FN
+QT50_619	short of going over and throwing rocks at other countries in the G7 Anita Boateng can't see how we get there	Thangam Debbonaire has had a long time to give any examples of how we’re going to get to the levels of growth that will see us become the fastest growing country in the G7	1	0	FN
+QT50_456	talking about women being able to get to work and not being able to find childcare is not enough	it is right to talk about women not being able to find childcare	1	0	FN
+QT30_069	people in many circumstances are or are not getting cuts off their rent, their bills, their food	we’re still asking people in many circumstances to make a cut to their wages	1	0	FN
+QT50_512	Jacob Rees-Mogg does not always follow the independent pay bodies	Jacob Rees-Mogg is talking about the independent pay bodies like they are gospel	1	0	FN
+QT30_492	Gillian Keegan didn't say that we didn't understand what we were signing	we didn't understand what we were signing	1	0	FN
+QT30_244	Naomi Osaka should have anticipated that people would be interested in her story	Tony Unknown feels very sorry for Naomi Osaka	1	0	FN
+QT30_445	police already having the powers was evidently not the case	both the other politicians on the Question Time panel have mentioned the police already having the powers	1	0	FN
+US2016_058	RUBIO can't justify ending a life just because it begins violently, through no fault of the baby	RUBIO favor's a rape and incest exception to abortion bans	1	0	FN
+QT50_188	little Peter had something like 50 separate injuries on his body when he died	Tracy Connelly, Stephen Barker and Jason Owen were cleared of murder	1	0	FN
+QT30_366	the Conservative Government in London is not investing £16 billion in the transition fund to move us into this new renewables in the North East	it's the Conservative Government in London that is investing £16 billion in the transition fund to move us into this new renewables future	1	0	FN
+QT50_405	young man over there is thoroughly unimpressed with the Conservative party	young man over there is a Conservative voter	1	0	FN
+QT50_032	the money is not the Goverment's, it's yours	the Labor philosophy is a philosophy which sees Government money as the Government's	1	0	FN
+US2016_042	that's not ridiculous	that's ridiculous	1	0	FN
+QT30_276	no, politicians cannot act like a journalist or a businessman	Boris Johnson or any other politicians feel they can act like a journalist or act like a businessman or something like that	1	0	FN
+QT50_448	politicians going on the news channels just spouting what they actually know is a damn right lie has got to stop	politicians seem to be quite happy to go on news channels just spouting what they actually know is a damn right lie	1	0	FN
+QT30_542	Philip Unknown is pretty sure it is a conversation that now will be had in his lifetime	it is a conversation that Philip Unknown honestly never thought would needed to be had in his lifetime	1	0	FN
+QT30_179	the investment into renewables is not happening	we've got to invest seriously and genuinely in those renewable jobs of the future	1	0	FN
+QT50_562	the narrative we get in this country that we're all in it together is nonsense	we get this narrative in this country that we're all in it together	1	0	FN
+QT30_239	our own advice wasn't good enough in a public health emergency	we were told to take our own advice	1	0	FN
+US2016_063	now it turns out USA might be deporting 1,800 people	the other day USA were deporting 800 people	1	0	FN
+QT50_234	we haven't got politicians who put their job above the colour of their party	we have to get politicians who put their job above the colour of their party	1	0	FN
+QT30_450	that we can now use remote contact with GPs to get a new prescription or deal with something very small isn't really the point here	it's great that now we can use remote contact with GPs to get a new prescription or deal with something very small	1	0	FN
+QT50_340	interest rates were not due to go up so suddenly	interest rates were due to go up	1	0	FN
+QT30_145	giving more money is difficult	we'd love to be giving more money	1	0	FN
+QT50_502	peaceful protest is hugely under attack by this government	peaceful protest is massively important	1	0	FN
+QT50_355	"the Conservative Party is running out of people with the ideas to lead it and to work out what ""conservative"" should stand for today"	the Conservative Party is not fully ungovernable	1	0	FN
+QT30_499	AudienceMember 20210805QT26 thinks taking the knee is starting to reduce the effect it had in the first place	AudienceMember 20210805QT26 understands why people take the knee	1	0	FN
+QT30_286	clothes are not relevant to politics	when Jeremy Corban is interviewed he's asked about his clothes, ties, glasses	1	0	FN

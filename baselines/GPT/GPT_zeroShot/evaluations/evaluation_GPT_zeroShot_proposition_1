@@ -1,0 +1,10 @@
+---Evaluation of zero shot trial 
+
+- accuracy: 0.5577358490566038 
+- F1: 0.31058823529411766
+
+---Confusion matrix---
+	 	 pred pos 	 pred neg 
+act pos 	 607 		 33 
+ act neg 	 553 		 132 
+ 

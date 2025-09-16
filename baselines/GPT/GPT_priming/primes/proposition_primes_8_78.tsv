@@ -1,0 +1,9 @@
+ID	prime_sample	label
+QT50_043	'integrity in public life is plainly important', 'one shouldn't have to say integrity is important in public life'	self-contradiction
+QT30_527	'Sir Keir Starmer brushes his hair and seems like a grown-up opposed to our current Prime Minister who does not', 'Sir Keir Starmer brushing his hair before doing speeches is an appeal for Deborah Frances-White'	non-contradiction
+QT50_304	'400£ for the pandemic was uncosted', 'the Government helped us with £400 billion during the pandemic'	self-contradiction
+QT30_069	'people in many circumstances are or are not getting cuts off their rent, their bills, their food', 'we’re still asking people in many circumstances to make a cut to their wages'	self-contradiction
+QT30_301	'the government should be spending the money on children as well', 'the government are choosing to spend the money on bricks'	self-contradiction
+QT50_249	'all we're seeing is just the sort of tit for tat chat', 'you are fade to represent the people of the nation'	non-contradiction
+QT30_386	'AudienceMember 20211014QT18 doesn't think Boris Johnsons' speech was the right thing', 'there is or isn't anyone who thought Boris Johnsons speech was the right thing'	self-contradiction
+QT50_393	'Suella Braverman is in the pocket of the ERG', 'Home Secretary is a serious office of state'	non-contradiction

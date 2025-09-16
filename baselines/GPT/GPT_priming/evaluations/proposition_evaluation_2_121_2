@@ -1,0 +1,12 @@
+---Evaluation of run 2 of proposition trial with 2 primes and random seed 121 
+
+- self-contradiction primes: 1 
+- non-contradiction: 1
+
+-accuracy: 0.5918367346938775 
+-F1-Score: 0.5659163987138264 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 431 		 208 
+act neg 	 332 		 352

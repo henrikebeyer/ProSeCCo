@@ -1,0 +1,22 @@
+ID	locution1	locution2	label	roberta_mnli_locution_pred	eval_status
+QT30_458	We believe the real answer lies in not fighting about the pieces of the vaccine pie	There's a debate about excess stock	1	0	FN
+QT50_322	I know 5% for somebody earning over £150,000 is more to them than a penny for somebody earning a lot less	I have dyscalculia which is mathematical dyslexia	1	0	FN
+QT50_561	We have no interest in taking money away from anyone else	I do appreciate the money has to come from somewhere	1	0	FN
+QT30_269	leaves him in charge to our response to a global pandemic	he believes his Health Secretary to be incompetent	1	0	FN
+QT50_451	we’re not that stupid, public	thinking that we’re all stupid enough to believe it ourselves	1	0	FN
+QT30_102	People say that’s impossible because there are multi-generational households	because there are multi-generational households	1	0	FN
+QT30_410	I don't know why they don't give it	that's the only reason why they don't give it	1	0	FN
+US2016_010	Rand is the closest we have to a libertarian since Ron Paul or Gary Johnson	not the faux libertarians like Rand	1	0	FN
+QT30_081	the other thing that you did, because of your charisma, your intelligence, you normalised Donald Trump, and that’s the problem	The last two years you have been incredible in terms of coming clean on TV in front of people, you published a book, you’re behind the incredible Lincoln Project of Conservatives and Republicans who are actually trying to save conservatism and make it decent again	1	0	FN
+QT50_184	a lot of people will struggle to move on	I understand the intention and the want to move on from this and focus on the issues that really matter	1	0	FN
+QT30_301	It should be children as well	They are choosing bricks	1	0	FN
+QT30_199	I have a mandate from those people for independence	in these elections, people can happily vote for the SNP if they are pro remaining in the United Kingdom, safe in the knowledge that they are voting for an SNP government with a much broader agenda and a broader set of elections	1	0	FN
+QT50_000	but that is what we have seen from this Prime Minister	No, I don't think anyone should be allowed to make up the rules as they go along	1	0	FN
+QT30_174	eventually we'll have to stop	there are things we can do to address the effects of taking those hydrocarbons out of the ground	1	0	FN
+QT50_223	Where was consent in Northern Ireland for Brexit	I listen carefully to Robert saying the importance of consent	1	0	FN
+QT30_093	I’m not saying it will be straightforward	I’m not saying it is easy	1	0	FN
+QT50_247	his office deserves some respect	I won't pretend that I'm a fan of Douglas Ross	1	0	FN
+QT30_564	Sadly, it doesn't	optimism could heat our homes	1	0	FN
+QT50_458	That's not where we are	I campaigned for that	1	0	FN
+QT50_201	why is that not happening	they care	1	0	FN
+QT50_639	it wasn’t all major roads	is the decision to scrap all major road projects, will it damage the Welsh economy, what do you think?	1	0	FN

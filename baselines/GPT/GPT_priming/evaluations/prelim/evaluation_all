@@ -1,0 +1,260 @@
++++Evaluation of trial with 2 primes and random seed 199+++ 
+
+- contradiction primes: 2 
+- non-contradiction: 0
+
+-accuracy: 0.5251572327044025 
+-F1-Score: 0.5793871866295265 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 208 		 70 
+act neg 	 232 		 126 
+
++++Evaluation of trial with 8 primes and random seed 199+++ 
+
+- contradiction primes: 4 
+- non-contradiction: 4
+
+-accuracy: 0.4777777777777778 
+-F1-Score: 0.574385510996119 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 222 		 1 
+act neg 	 0 		 0 
+
++++Evaluation of trial with 16 primes and random seed 199+++ 
+
+- contradiction primes: 5 
+- non-contradiction: 11
+
+-accuracy: 0.4887459807073955 
+-F1-Score: 0.5553997194950911 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 198 		 0 
+act neg 	 0 		 0 
+
++++Evaluation of trial with 32 primes and random seed 199+++ 
+
+- contradiction primes: 15 
+- non-contradiction: 17
+
+-accuracy: 0.5099009900990099 
+-F1-Score: 0.5738880918220947 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 200 		 65 
+act neg 	 232 		 109 
+
++++Evaluation of trial with 2 primes and random seed 42+++ 
+
+- contradiction primes: 1 
+- non-contradiction: 1
+
+-accuracy: 0.5188679245283019 
+-F1-Score: 0.41825095057034223 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 0 		 0 
+act neg 	 1 		 110 
+
++++Evaluation of trial with 8 primes and random seed 42+++ 
+
+- contradiction primes: 6 
+- non-contradiction: 2
+
+-accuracy: 0.4650793650793651 
+-F1-Score: 0.5617685305591678 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 216 		 1 
+act neg 	 0 		 0 
+
++++Evaluation of trial with 16 primes and random seed 42+++ 
+
+- contradiction primes: 4 
+- non-contradiction: 12
+
+-accuracy: 0.45980707395498394 
+-F1-Score: 0.5613577023498695 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 215 		 61 
+act neg 	 275 		 71 
+
++++Evaluation of trial with 32 primes and random seed 42+++ 
+
+- contradiction primes: 18 
+- non-contradiction: 14
+
+-accuracy: 0.4900990099009901 
+-F1-Score: 0.5579399141630901 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 195 		 67 
+act neg 	 242 		 102 
+
++++Evaluation of trial with 2 primes and random seed 121+++ 
+
+- contradiction primes: 1 
+- non-contradiction: 1
+
+-accuracy: 0.4591194968553459 
+-F1-Score: 0.5242718446601942 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 189 		 0 
+act neg 	 0 		 0 
+
++++Evaluation of trial with 8 primes and random seed 121+++ 
+
+- contradiction primes: 2 
+- non-contradiction: 6
+
+-accuracy: 0.4793650793650794 
+-F1-Score: 0.5579514824797843 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 207 		 71 
+act neg 	 257 		 95 
+
++++Evaluation of trial with 16 primes and random seed 121+++ 
+
+- contradiction primes: 4 
+- non-contradiction: 12
+
+-accuracy: 0.4807073954983923 
+-F1-Score: 0.5552486187845304 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 201 		 0 
+act neg 	 0 		 0 
+
++++Evaluation of trial with 32 primes and random seed 121+++ 
+
+- contradiction primes: 19 
+- non-contradiction: 13
+
+-accuracy: 0.4752475247524752 
+-F1-Score: 0.5714285714285714 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 212 		 49 
+act neg 	 269 		 76 
+
++++Evaluation of trial with 2 primes and random seed 53+++ 
+
+- contradiction primes: 1 
+- non-contradiction: 1
+
+-accuracy: 0.5141509433962265 
+-F1-Score: 0.5502183406113537 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 189 		 90 
+act neg 	 219 		 138 
+
++++Evaluation of trial with 8 primes and random seed 53+++ 
+
+- contradiction primes: 4 
+- non-contradiction: 4
+
+-accuracy: 0.5 
+-F1-Score: 0.5285285285285285 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 176 		 0 
+act neg 	 0 		 0 
+
++++Evaluation of trial with 16 primes and random seed 53+++ 
+
+- contradiction primes: 8 
+- non-contradiction: 8
+
+-accuracy: 0.4983922829581994 
+-F1-Score: 0.5666666666666667 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 204 		 68 
+act neg 	 244 		 106 
+
++++Evaluation of trial with 32 primes and random seed 53+++ 
+
+- contradiction primes: 14 
+- non-contradiction: 18
+
+-accuracy: 0.504950495049505 
+-F1-Score: 0.5821727019498607 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 209 		 57 
+act neg 	 243 		 97 
+
++++Evaluation of trial with 2 primes and random seed 78+++ 
+
+- contradiction primes: 1 
+- non-contradiction: 1
+
+-accuracy: 0.5220125786163522 
+-F1-Score: 0.5685714285714286 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 199 		 0 
+act neg 	 0 		 0 
+
++++Evaluation of trial with 8 primes and random seed 78+++ 
+
+- contradiction primes: 5 
+- non-contradiction: 3
+
+-accuracy: 0.4793650793650794 
+-F1-Score: 0.5469613259668509 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 198 		 77 
+act neg 	 251 		 104 
+
++++Evaluation of trial with 16 primes and random seed 78+++ 
+
+- contradiction primes: 5 
+- non-contradiction: 11
+
+-accuracy: 0.47106109324758844 
+-F1-Score: 0.5710560625814863 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 219 		 56 
+act neg 	 273 		 74 
+
++++Evaluation of trial with 32 primes and random seed 78+++ 
+
+- contradiction primes: 15 
+- non-contradiction: 17
+
+-accuracy: 0.5148514851485149 
+-F1-Score: 0.5893854748603352 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 211 		 54 
+act neg 	 240 		 101 
+

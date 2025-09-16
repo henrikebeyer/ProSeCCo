@@ -1,0 +1,52 @@
++++Evaluation of locution trial with 2 primes and random seed 121+++ 
+
+- self-contradiction primes: 1 
+- non-contradiction: 1
+
+-accuracy: 0.5381708238851096 
+-F1-Score: 0.48088360237892946 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 429 		 210 
+act neg 	 401 		 283 
+
++++Evaluation of locution trial with 8 primes and random seed 121+++ 
+
+- self-contradiction primes: 3 
+- non-contradiction: 5
+
+-accuracy: 0.5398633257403189 
+-F1-Score: 0.3816326530612245 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 524 		 111 
+act neg 	 495 		 187 
+
++++Evaluation of locution trial with 16 primes and random seed 121+++ 
+
+- self-contradiction primes: 8 
+- non-contradiction: 8
+
+-accuracy: 0.5553857906799083 
+-F1-Score: 0.39375 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 538 		 94 
+act neg 	 488 		 189 
+
++++Evaluation of locution trial with 32 primes and random seed 121+++ 
+
+- self-contradiction primes: 14 
+- non-contradiction: 18
+
+-accuracy: 0.559938128383604 
+-F1-Score: 0.4841341795104261 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 457 		 165 
+act neg 	 404 		 267 
+

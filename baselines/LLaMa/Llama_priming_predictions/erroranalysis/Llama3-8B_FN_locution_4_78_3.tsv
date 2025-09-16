@@ -1,0 +1,150 @@
+Unnamed: 0	ID	sample	prediction	gold_label	eval_status
+3	QT30_003	'It sounded as if it was the next big thing', 'The app seems to be having a few teething problems'	non-contradiction	self-contradiction	FN
+12	QT30_012	'but you have problems with that', 'you are told to self-isolate at home for two weeks'	non-contradiction	self-contradiction	FN
+14	QT30_014	'there is still a residual degree of goodwill for the Government', 'even though patience is beginning to wear thin'	non-contradiction	self-contradiction	FN
+20	QT30_020	'we have a chance through democracy, to break free, and progress', 'we need to be honest, face up to it, and accept the fact that we are as much prisoners of our history, as anything else'	non-contradiction	self-contradiction	FN
+23	QT30_023	'history is a construction', 'it is the history of this country'	non-contradiction	self-contradiction	FN
+27	QT30_027	'it’s somehow a widespread problem with late test results', 'test results in Wales, over 90 per cent of the people get their test results within 48 hours'	non-contradiction	self-contradiction	FN
+33	QT30_033	'have actually shown themselves to be very compassionate, responsible and stoic', 'this next generation coming through have really defined this snowflake stereotype that's been applied to them too many times'	non-contradiction	self-contradiction	FN
+41	QT30_041	'they should be applauded for the furlough scheme they have done', 'there's been a lot of unfair criticism to the Government on -- by some of the panelists here and some of the other viewers'	non-contradiction	self-contradiction	FN
+64	QT30_064	'a lot of people are still not doing it', 'people should wear face coverings on public transport'	non-contradiction	self-contradiction	FN
+65	QT30_065	'They had to wait 10 days to find out they’re getting 40 million pounds', 'quick action for the businesses affected'	non-contradiction	self-contradiction	FN
+81	QT30_081	'the other thing that you did, because of your charisma, your intelligence, you normalised Donald Trump, and that’s the problem', 'The last two years you have been incredible in terms of coming clean on TV in front of people, you published a book, you’re behind the incredible Lincoln Project of Conservatives and Republicans who are actually trying to save conservatism and make it decent again'	non-contradiction	self-contradiction	FN
+93	QT30_093	'I’m not saying it will be straightforward', 'I’m not saying it is easy'	non-contradiction	self-contradiction	FN
+100	QT30_100	'We haven’t seen it', 'I will get the deal in July'	non-contradiction	self-contradiction	FN
+101	QT30_101	'we’re borrowing £400 billion this year -- in a single year', 'We can offer more help, we want to see that'	non-contradiction	self-contradiction	FN
+118	QT30_118	'as a five-party coalition there will be bumps along the way', 'I think we are working together in the executive'	non-contradiction	self-contradiction	FN
+120	QT30_120	'I would hate it if because of that we lost sight of the present and didn’t take the opportunity to make that protocol work as effectively as it can', 'it is legitimate to think about the future'	non-contradiction	self-contradiction	FN
+123	QT30_123	'On a number of occasions the UK has not followed that advice, the border being one example', 'the scientists they have been saying since the beginning of the pandemic there are clear strategies to follow to limit the impact it has'	non-contradiction	self-contradiction	FN
+139	QT30_139	'that doesn't answer the question', 'I'm sympathetic to Grant's reasoning as to why it was difficult to get enough PPE'	non-contradiction	self-contradiction	FN
+141	QT30_141	'we're talking about this in a clinical, policy-driven way about an appalling human event', 'we all have to remember as we move forward that it is nothing compared to what Sara Everard's family are feeling this morning'	non-contradiction	self-contradiction	FN
+144	QT30_144	'there's not a magic money tree, to coin a phrase, out there', 'we deserve greater than a 1 percent pay rise'	non-contradiction	self-contradiction	FN
+145	QT30_145	'it is difficult', 'We'd love to be giving more money'	non-contradiction	self-contradiction	FN
+149	QT30_149	'it's not totally clear', 'it also says that in our contract'	non-contradiction	self-contradiction	FN
+165	QT30_165	'do you really want to spend five years of that nine years arguing about independence', 'at the very heart of your policies'	non-contradiction	self-contradiction	FN
+169	QT30_169	'that's also one of the routes that we can have back to prosperity, a more equal and just country', 'we're being dragged out of the EU against our will'	non-contradiction	self-contradiction	FN
+174	QT30_174	'eventually we'll have to stop', 'there are things we can do to address the effects of taking those hydrocarbons out of the ground'	non-contradiction	self-contradiction	FN
+175	QT30_175	'this is a problem that I have with the SNP approach of setting targets and putting their hopes in things like carbon capture', 'we need to actually be practical about our obligations under the climate…under the Paris Agreement'	non-contradiction	self-contradiction	FN
+179	QT30_179	'that work is not happening', 'We've got to invest seriously and genuinely in those renewable jobs of the future'	non-contradiction	self-contradiction	FN
+204	QT30_205	'this government seems to want to reduce it', 'over the last few decades, if not centuries, we've seen successive governments try to expand the franchise'	non-contradiction	self-contradiction	FN
+209	QT30_210	'we should regard holidays as essential travel', 'you can go and visit friends and family'	non-contradiction	self-contradiction	FN
+216	QT30_217	'in this case, in the railways, it just hasn't worked', 'privatisation is a positive thing'	non-contradiction	self-contradiction	FN
+224	QT30_225	'consumers will make choice based on what's right for them, about sustainable eating locally', 'trade deals and finding ways to create markets, the pan transpacific market that was being developed, I think you will see more of that'	non-contradiction	self-contradiction	FN
+226	QT30_227	'These are supposed to be protected groups', 'doctors as well as journalists'	non-contradiction	self-contradiction	FN
+233	QT30_234	'It doesn't include all the funding that we put in to the laptops', 'He has done a fantastic job'	non-contradiction	self-contradiction	FN
+235	QT30_236	'we're still in the middle of a raging global pandemic', 'We all want our lives and livelihoods back'	non-contradiction	self-contradiction	FN
+239	QT30_240	'we have to find a way to let business operate', 'we should listen to all the scientific advice'	non-contradiction	self-contradiction	FN
+240	QT30_241	'I would like to see us work out a way to live with it on a longer term basis', 'I would like to see restrictions lifted sooner'	non-contradiction	self-contradiction	FN
+243	QT30_244	'she should have anticipated that people would be interested in her story', 'I feel very sorry for Naomi'	non-contradiction	self-contradiction	FN
+253	QT30_254	'but I do feel my daughter, in the situation she lives in, as part of their job, the people who support her to live should be vaccinated', 'I know it is very difficult to compel anyone to do anything'	non-contradiction	self-contradiction	FN
+272	QT30_273	'now that we know a virus of some sort does come up every so often', 'You could say nobody knew it was coming and so we were -- the government were on the back foot'	non-contradiction	self-contradiction	FN
+298	QT30_299	'they haven't been visible to us', 'those efforts that you described are happening'	non-contradiction	self-contradiction	FN
+301	QT30_302	'I do watch athletics quite a lot', 'I don't watch a lot of sport'	non-contradiction	self-contradiction	FN
+311	QT30_312	'While the packages are better than nothing, they’re not enough', 'all the packages from the chancellor are fine'	non-contradiction	self-contradiction	FN
+328	QT30_329	'But in the short term there is a cost', 'So in the long run it will be great'	non-contradiction	self-contradiction	FN
+331	QT30_332	'That's not acceptable, in my opinion, when it gets to these fundamental issues of dignity and respect, equity, compassion, that really are at the roots of making humanity function', 'They tend to take the safe route or the easy way out or to keep silent'	non-contradiction	self-contradiction	FN
+349	QT30_350	'the biggest difference is getting the vaccine', 'to demonstrate that taking sensible small steps, like wearing masks in crowded places, can have a big difference'	non-contradiction	self-contradiction	FN
+358	QT30_359	'It's not the most pleasant of things', 'it's not particularly onerous'	non-contradiction	self-contradiction	FN
+367	QT30_368	'it is a reserve cluster', 'in terms of carbon capture and storage in the Scottish Cluster, in the Acorn project, of course it was disappointing that it didn't achieve tier one status'	non-contradiction	self-contradiction	FN
+390	QT30_392	'these sectors are worth a lot to our economy', 'We have seen hundreds of thousands of pounds worth of tomatoes wasted'	non-contradiction	self-contradiction	FN
+404	QT30_406	'It is hard to see how it will be resolved', 'It really needs resolving and resolving as soon as possible'	non-contradiction	self-contradiction	FN
+412	QT30_414	'it's not working', 'you've mentioned quite a few initiatives that you're doing'	non-contradiction	self-contradiction	FN
+415	QT30_417	'of course it's a bigger pool to fish from', 'Europe has its own issues with HGV drivers'	non-contradiction	self-contradiction	FN
+418	QT30_420	'I'm really concerned that they seem to be making the licences easier to get', 'I understand that the government need to recruit more HGV drivers'	non-contradiction	self-contradiction	FN
+442	QT30_444	'I don't think it's fair to say that any rational person thinks that we should just adopt their policies overnight', 'we might applaud their end goal'	non-contradiction	self-contradiction	FN
+446	QT30_448	'that's not going to solve the problem', 'it's important that people can see their GP face to face'	non-contradiction	self-contradiction	FN
+448	QT30_450	'that isn't really the point here', 'it's great that now we can use remote contact with GPs to get a new prescription or deal with something very small'	non-contradiction	self-contradiction	FN
+456	QT30_458	'We believe the real answer lies in not fighting about the pieces of the vaccine pie', 'There's a debate about excess stock'	non-contradiction	self-contradiction	FN
+458	QT30_460	'the substantial difference is going to be made when we allow other manufacturers, countries, to safely manufacturer these vaccines', 'Do both'	non-contradiction	self-contradiction	FN
+460	QT30_462	'there could be a vaccine', 'I don't know if there's a vaccine that we could use'	non-contradiction	self-contradiction	FN
+461	QT30_463	'We do need to do a lot more', 'I'm pleased that the Government have done something'	non-contradiction	self-contradiction	FN
+463	QT30_465	'I generally trust our carers, our health system to try to judge that you know, the clinical needs and the risks with the patient care, and the family interests', 'This is awful'	non-contradiction	self-contradiction	FN
+482	QT30_484	'we don't do it by picking juvenile fights not just with one country but with the entirety of the European Union', 'we are going to make progress'	non-contradiction	self-contradiction	FN
+497	QT30_499	'I do think it is starting to reduce the effect it had in the first place', 'I understand why'	non-contradiction	self-contradiction	FN
+515	QT30_517	'that's a good idea', 'we have slipped into the notion that food banks are part of the landscape now'	non-contradiction	self-contradiction	FN
+531	QT30_534	'It's looking really positive and I think we should be quite cheerful about that', 'the idea of the NHS being overwhelmed is deeply frightening'	non-contradiction	self-contradiction	FN
+537	QT30_540	'we still must be careful', 'we have to go forward'	non-contradiction	self-contradiction	FN
+540	QT30_543	'I think a lot of people in Northern Ireland would feel that they are treated as an afterthought in Westminster at times and, at worst, a political football', 'Huge debates about the future of Northern Ireland have been had in Westminster'	non-contradiction	self-contradiction	FN
+544	QT30_547	'not unanimous', 'Quite a lot'	non-contradiction	self-contradiction	FN
+551	QT30_554	'it shouldn’t take a brave young footballer to shame the government into action', 'the campaign that Marcus Rashford led was really inspirational'	non-contradiction	self-contradiction	FN
+552	QT30_555	'we need to be testing, tracing and isolating every single case to keep people safe', 'the test and trace system clearly isn’t up and running properly'	non-contradiction	self-contradiction	FN
+556	QT30_559	'towards the end of the shoot that got curtailed, we had another outbreak and I was quite surprised to learn that we weren’t able to do testing and tracing, that the system had been stopped', 'we had an outbreak during the shoot over in Belfast when there was the test and trace system originally, the containment phase, and we were able to deal with that and we were able to carry on uninterrupted'	non-contradiction	self-contradiction	FN
+563	QT30_566	'the majority of the population unfortunately would probably assume that in some way or another, politicians are there not only to represent themselves, but, and you know, the population, but also to go that little bit too far you know', 'I don't expect politicians to be -- to behave badly'	non-contradiction	self-contradiction	FN
+566	QT30_569	'We need to put more into the longer tail', 'It is accessible'	non-contradiction	self-contradiction	FN
+567	QT30_570	'I think fans absolutely should do', 'I think that was absolutely right'	non-contradiction	self-contradiction	FN
+570	QT50_002	'We followed the guidance', 'My parents both had COVID'	non-contradiction	self-contradiction	FN
+581	QT50_013	'We are talking about another virus', 'Every year we have the flu programme'	non-contradiction	self-contradiction	FN
+586	QT50_018	'the public could actually take a greater role globally in how we can support people in need', 'We seem to think that the government is responsible for solving all of these issues'	non-contradiction	self-contradiction	FN
+587	QT50_019	'it is about time that we looked at things in a very different way', 'we all kind of look on it in sadness, at these events from the comfort of our own homes'	non-contradiction	self-contradiction	FN
+602	QT50_034	'More than just The Yellow Card', 'the data I believe you are talking about is The Yellow Card reporting scheme'	non-contradiction	self-contradiction	FN
+614	QT50_047	'but behind each individual number there is a personal tragedy for both the individuals concerned but also their relatives and families', 'and we can talk about numbers'	non-contradiction	self-contradiction	FN
+637	QT50_070	'we need those assurances that we will be kept safe', 'I am as keen as everyone else to be able to get back to some semblance of normality, for my daughter to return to school'	non-contradiction	self-contradiction	FN
+641	QT50_074	'when this comes to ambulance workers, community trust workers, hospital workers you are obviously here as the face of that', 'you are talking about the people in your office'	non-contradiction	self-contradiction	FN
+654	QT50_087	'I still feel that there is a lot of things that can be done by Russians inside Russia or even Russians outside Russia to put pressure and to call out, to call out this regime', 'when you get a level of fear, where people are even scared to talk to each other as happened at some points in the Soviet era'	non-contradiction	self-contradiction	FN
+655	QT50_088	'they can't do so', 'There are people in Russia who would love to play party politics'	non-contradiction	self-contradiction	FN
+670	QT50_103	'People can't afford this', 'people are paying almost £1,200 to fill their tank'	non-contradiction	self-contradiction	FN
+682	QT50_115	'we still are seeing really low numbers of refugees being allowed into this country', 'We've got a minister saying that we're going to help Ukraine as much as possible'	non-contradiction	self-contradiction	FN
+686	QT50_119	'we can't fight Vladimir Putin with blankets', 'As a Ukrainian MP said to me this week, it's all very well sending us blankets'	non-contradiction	self-contradiction	FN
+688	QT50_121	'I don't know if that's accurate', 'apparently one of the planes went in Swedish airspace, but I think it was a week ago, was actually carrying a nuclear bomb'	non-contradiction	self-contradiction	FN
+690	QT50_123	'I don't know how', 'surely we can do something about that'	non-contradiction	self-contradiction	FN
+711	QT50_144	'I can't afford it', 'I want to go green'	non-contradiction	self-contradiction	FN
+723	QT50_156	'I'm very much with you in terms of the difficulties that people are having paying those high heating oil prices', 'There is a competitive market out there'	non-contradiction	self-contradiction	FN
+735	QT50_168	'we're left in gridlock', 'things happen at short notice'	non-contradiction	self-contradiction	FN
+743	QT50_176	'We have so much more homelessness in this country than we did 12 years ago', 'They have the ability to make lives better'	non-contradiction	self-contradiction	FN
+753	QT50_186	'much too slowly', 'the culture is changing'	non-contradiction	self-contradiction	FN
+763	QT50_196	'If you have the time to sit down and analyse data', 'people were trying to make decisions quickly'	non-contradiction	self-contradiction	FN
+772	QT50_205	'it's been ignored by the European Union', 'We've been talking about this issue for over two years'	non-contradiction	self-contradiction	FN
+788	QT50_221	'It also presents us with opportunities', 'That was in order that Northern Ireland would be as insulated from the difficulties that Brexit was going to create in terms of trade friction'	non-contradiction	self-contradiction	FN
+806	QT50_239	'I don't think that will be the case', 'some people are expecting this report to cast a judgment on the prime minister'	non-contradiction	self-contradiction	FN
+835	QT50_268	'I don't see any of the current leadership contenders asking for Johnson to go now', 'We keep talking about trust'	non-contradiction	self-contradiction	FN
+850	QT50_283	'You have to pay for them', 'Public services are the bedrock of a civilised society'	non-contradiction	self-contradiction	FN
+855	QT50_288	'it never happens on the classroom floor', 'what we really want is to see our young people being looked after the way they are promised by Government'	non-contradiction	self-contradiction	FN
+860	QT50_293	'that is only going to happen in 2023', 'It looks like the loophole is going to be closed'	non-contradiction	self-contradiction	FN
+885	QT50_318	'The reality is we don't build enough houses', 'Many of us want the opportunity to own our home'	non-contradiction	self-contradiction	FN
+898	QT50_331	"'I don't know so far of those of you who have spoken if you're Labour voters or if you are in the ""don't know"" category', 'I want to hear all views'"	non-contradiction	self-contradiction	FN
+899	QT50_332	'They've never really got a proper answer for anything', 'I keep hearing it from Labour what they're going to do'	non-contradiction	self-contradiction	FN
+906	QT50_339	'Right now it doesn't', 'you can't talk about growing your economy unless you've got a decent childcare system that supports parents into work'	non-contradiction	self-contradiction	FN
+915	QT50_348	'people are living in terror about more, the mortgage costs going up', 'people are living in terror about the energy costs'	non-contradiction	self-contradiction	FN
+916	QT50_349	'possibly the next week', 'Possibly tomorrow'	non-contradiction	self-contradiction	FN
+920	QT50_353	'I do believe there is a majority against the status quo', 'There's not a majority in this country that supports independence'	non-contradiction	self-contradiction	FN
+945	QT50_378	'is probably ill-advised at best', 'She is very careful about what she says'	non-contradiction	self-contradiction	FN
+962	QT50_395	'now the factions within those parties are no longer talking to each other and no longer willing to compromise', 'Parties used to be broad churches'	non-contradiction	self-contradiction	FN
+981	QT50_414	'It’s just not happening', 'What we need is multidisciplinary places where you can go, where you can get help'	non-contradiction	self-contradiction	FN
+985	QT50_418	'On an awful of the metrics the NHS is really, really successful', 'the NHS is very good at everything except saving lives'	non-contradiction	self-contradiction	FN
+1026	QT50_459	'I don't think there is a great appetite at the moment for that kind of approach', 'There are areas that we do absolutely need to fix those gaps in the deal'	non-contradiction	self-contradiction	FN
+1054	QT50_487	'we absolutely do', 'what they’re arguing for is that the government should take this subject seriously'	non-contradiction	self-contradiction	FN
+1062	QT50_495	'We may disagree with what they want to do a lot of the time', 'most politicians go into politics to try and make the country better'	non-contradiction	self-contradiction	FN
+1063	QT50_496	'most politicians are actually quite good people', 'we may not like their personalities a lot of the time'	non-contradiction	self-contradiction	FN
+1069	QT50_502	'it’s hugely under attack by this government', 'peaceful protest is massively important'	non-contradiction	self-contradiction	FN
+1070	QT50_503	'policemen get injured, people get injured, drivers get injured', 'You consider it to be peaceful'	non-contradiction	self-contradiction	FN
+1083	QT50_516	'the Government offer is too low', '19 per cent is too high'	non-contradiction	self-contradiction	FN
+1105	QT50_538	'even at a time like this when finances are stretched, he found an additional £14bn to ensure that the NHS has got really…resources going into the coming years', 'you're going to say it's not all about money'	non-contradiction	self-contradiction	FN
+1146	QT50_579	'there's a lot of merit in it', 'which used to be seen as a bit of a cliché'	non-contradiction	self-contradiction	FN
+1166	QT50_599	'It will suit some sectors more than others', 'flexible arrangements are incredibly important for a whole host of workers across our economy'	non-contradiction	self-contradiction	FN
+1168	QT50_601	'in general, it's not good for other people', 'sometimes, people should work from home, or may need to work from home'	non-contradiction	self-contradiction	FN
+1189	QT50_622	'in this instance, I think the law has been used in such a way, by this government, whereby there will be citizens in the future, if you think of Jewish citizens who hold Israeli citizenship, others who hold dual citizenship, who may well find that this government, or a government in the future, can use this law against them again', 'I want the law to make sure that it safeguards citizens without fear or favour'	non-contradiction	self-contradiction	FN
+1193	QT50_626	'I’m worried where it’s going to start the rewriting of classics and popular culture', 'I hope it’s going to open a discussion on social change'	non-contradiction	self-contradiction	FN
+1194	QT50_627	'it’s a benevolent decision', 'it’s great that they did'	non-contradiction	self-contradiction	FN
+1201	QT50_634	'it’s pretty trivial compared to the absolutely appalling words in songs which I think are quite mainstream on the radio at the moment', 'have a discussion about whether Augustus Gloop should be fat or enormous'	non-contradiction	self-contradiction	FN
+1208	QT50_641	'from Llanbedr, where Liz lives, down to Chepstow, where I live, and along the M4, we’re not going to be breathing clean air', 'Yes, we would'	non-contradiction	self-contradiction	FN
+1209	QT50_642	'let’s think about the next five/50 days when people are going to need to be able to get around on buses and on better public transport', 'we should think about 2050'	non-contradiction	self-contradiction	FN
+1211	QT50_644	'let’s walk before we run', 'we need to be ambitious for climate change'	non-contradiction	self-contradiction	FN
+1214	QT50_647	'so that we can show the world that we are a compassionate nation', 'where is that large scale resettlement programme to provide meaningful safe and legal routes'	non-contradiction	self-contradiction	FN
+1230	QT50_663	'there is so much more to be done', 'that is a real achievement'	non-contradiction	self-contradiction	FN
+1231	QT50_664	'we have to do it', 'it's going to be really difficult'	non-contradiction	self-contradiction	FN
+1235	QT50_668	'they haven't delivered it', 'The Government have promised a renters reform'	non-contradiction	self-contradiction	FN
+1237	QT50_670	'it's difficult', 'That's what we need to do'	non-contradiction	self-contradiction	FN
+1238	QT50_671	'despite people's objections', 'the Government tried to introduce the policy where it would be easier to build house'	non-contradiction	self-contradiction	FN
+1239	QT50_672	'they dropped it pretty damn pronto', 'the Government tried to introduce the policy where it would be easier to build house'	non-contradiction	self-contradiction	FN
+1246	QT50_679	'those policemen are tackling online fraud', 'they want visible policing'	non-contradiction	self-contradiction	FN
+1248	QT50_681	'We have an inequality crisis', 'we talk about a cost of living crisis here'	non-contradiction	self-contradiction	FN
+1249	QT50_682	'what has been put in place for young people', 'we're talking about young people and supporting them'	non-contradiction	self-contradiction	FN
+1250	QT50_683	'I don't see it as law and order crackdown', 'there you can see the edges of our society starting to fray in a very alarming way'	non-contradiction	self-contradiction	FN
+1258	US2016_002	'Hillary actually has specifics, names names, etc', 'most of what she said has been fluff and targeted rhetoric'	non-contradiction	self-contradiction	FN
+1276	US2016_020	'as if that 's a huge game changer', 'A lot of people are talking about defunding planned parenthood'	non-contradiction	self-contradiction	FN
+1279	US2016_023	'In fact , Wisconsin added barely half that and ranked 35th in the country in job growth', 'Governor Walker , when you ran for governor of Wisconsin back in 2010 , you promised that you would create 250,000 jobs in your first term , first four years'	non-contradiction	self-contradiction	FN
+1281	US2016_025	'income inequality remains significant , and nearly half of Americans are living paycheck to paycheck', 'There 's been a record six straight years of job growth , and new census numbers show incomes have increased at a record rate after years of stagnation'	non-contradiction	self-contradiction	FN
+1303	US2016_047	'we are losing billions and billions of dollars', 'as far as Japan is concerned , I want to help all of our allies'	non-contradiction	self-contradiction	FN
+1304	US2016_048	'We can not be the policemen of the world', 'as far as Japan is concerned , I want to help all of our allies'	non-contradiction	self-contradiction	FN
+1316	US2016_060	'I want to tell you what I've done', 'tonight we hear about what people want to do'	non-contradiction	self-contradiction	FN
+1318	US2016_062	'You've emphasized civil liberties, privacy during your campaign', 'Governor Chafee, you and Hillary Clinton both voted for the Patriot Act which created the NSA surveillance program'	non-contradiction	self-contradiction	FN

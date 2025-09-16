@@ -1,0 +1,12 @@
+---Evaluation of trial with 16 primes and random seed 78 
+
+- contradiction primes: 5 
+- non-contradiction: 11
+
+-accuracy: 0.47106109324758844 
+-F1-Score: 0.5710560625814863 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 219 		 56 
+act neg 	 273 		 74

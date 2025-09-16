@@ -1,0 +1,26 @@
+ID	proposition1	proposition2	label	roberta_mnli_proposition_pred	eval_status
+US2016_022	we didn't create ISIS	Republican hawks are to blame for the rise of ISIS	0	1	FP
+QT50_623	we don’t know what that evidence is	the courts have weighed up the evidence whether Shamima Begum is a threat to UK security or not	0	1	FP
+QT30_005	the track and trace exercise did identify many years ago the problems that would be faced by this country in the event of a global pandemic	the test, track and trace it is great we have this technology	0	1	FP
+QT50_372	let's not seek more powers and divide the country all over again	let's use the power we have to do all the things we could do right now	0	1	FP
+QT30_112	those checks will be there	you can call it a border or not	0	1	FP
+QT50_212	the mechanism, the precise mechanism we now have took a bit of time to sort out	we have had the announcement of the windfall tax	0	1	FP
+QT30_300	the barrier to young people throwing themselves into all of this activity is the government itself	the young people are hungry for more money to be put into their education	0	1	FP
+QT30_271	Daniel Finkelstein does buy the product of farming	Daniel Finkelstein is not an expert on farming	0	1	FP
+QT30_565	you cannot imagine any minister saying that it is not of the highest priority and that police forces need flexibility in order to decide whether it is a priory about terrorism	the Government has a serious violence strategy	0	1	FP
+QT50_667	what we saw today was yet another bit of green wash	we need to have a bit of leadership	0	1	FP
+QT50_604	remote working is not so fine if you're at the beginning of your career	remote working was fine if you're like Jacob Rees-Mogg	0	1	FP
+QT30_185	then what has the Prime Minister done or not done in this Queen's speech	in 2019 the Prime Minister said he was level up this country	0	1	FP
+QT50_333	none of the offers given to AudienceMember 20221006QT68 are now available	AudienceMember 20221006QT68 was given four different offers	0	1	FP
+QT30_277	Benjamin Zephaniah would rather the world go vegan	we have to face the viruses	0	1	FP
+QT50_209	Robert Buckland doesn't particularly have a cynical view	AudienceMember 20220609QT228 is entitled to have a cynical view of the government acts	0	1	FP
+QT50_445	what AudienceMember 20221110QT26 is more concerned about than the low level stuff that MPs are doing is the fact that we have a Home Secretary who last week referred to refugees, people fleeing war conflict, as an invasion	AudienceMember 20221110QT26 just doesn't care about the low level stuff that MPs are doing, like Matt Hancock being in the jungle	0	1	FP
+QT30_074	what’s important here is that we see action from the Labour party on anti-semitism	it’s all very well the Labour party saying sorry for anti-semitism, and Keir Starmer did give an apology on the day he was elected	0	1	FP
+QT30_306	the acceleration of the vassal programme is a distraction from what's going on	the acceleration of the vassal programme they keep referring to as a huge success	0	1	FP
+QT50_444	instead they’re this rotten, rotten government that we have to put up with	the scandals could happen in a school	0	1	FP
+QT30_178	Shelly Unknown doesn't hear Douglas Ross talking about people	Shelly Unknown is struck by the various areas that Douglas Ross says for investment	0	1	FP
+QT30_152	in this instance, the EU call the shots on the protectionism	everything that the UK does is not perfect by any stretch	0	1	FP
+QT50_197	when you don't have enough information and you've got to make a decision	you could have the time to sit down and analyse data	0	1	FP
+QT30_096	there is a long way to go	hope and help is here	0	1	FP
+QT50_419	let’s wait for the announcement	Armando Iannucci is reading that every department is being asked to look at 10 to 15 per cent cuts in its budget, or savings in its budget	0	1	FP
+QT30_338	the cause for the government deciding that the process of politicians being paid by companies needed review was or wasn't the fact that the process needs reviewing	the cause for the government deciding that the process of politicians being paid by companies needed review was or wasn't the fact that Owen Paterson was getting payments from companies	0	1	FP

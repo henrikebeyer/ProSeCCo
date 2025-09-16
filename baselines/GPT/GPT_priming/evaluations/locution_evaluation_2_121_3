@@ -1,0 +1,12 @@
+---Evaluation of run 3 of locution trial with 2 primes and random seed 121 
+
+- self-contradiction primes: 1 
+- non-contradiction: 1
+
+-accuracy: 0.5570672713529856 
+-F1-Score: 0.49569707401032703 
+
+---Confusion matrix--- 
+	 	 pred pos 	 pred neg 
+act pos 	 449 		 190 
+act neg 	 396 		 288

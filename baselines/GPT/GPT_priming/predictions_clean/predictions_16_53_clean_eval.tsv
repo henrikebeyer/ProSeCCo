@@ -1,0 +1,623 @@
+ID	sample	gold_standard	prediction	correct
+US2016_0	'most of what she said has been fluff and targeted rhetoric', ' she's staying above the noise'	contradiction	contradiction	True
+US2016_1	'most of what she said has been fluff and targeted rhetoric', 'Sanders has just been full of platitudes with no specifics'	non-contradiction	contradiction	False
+US2016_2	'most of what she said has been fluff and targeted rhetoric', 'Hillary actually has specifics, names names, etc'	contradiction	contradiction	True
+US2016_3	'Sanders has just been full of platitudes with no specifics', 'I said nothing about sanders in this'	contradiction	non-contradiction	False
+US2016_4	'cost of college today is the cost of high school years ago', 'a college degree today provides the same opportunities as a high school degree did 50 years ago'	contradiction	contradiction	True
+US2016_5	'cost of college today is the cost of high school years ago', 'College today is the equivalent of high school 50 years ago'	contradiction	non-contradiction	False
+US2016_6	'cost of college today is the cost of high school years ago', 'a college degree is as important to your future today as the high school diploma was 50 years ago'	contradiction	non-contradiction	False
+US2016_7	'5200 before tax won't cover rent', 'It would really help mine'	contradiction	contradiction	True
+US2016_8	'I can't believe people were that dumb to clap for that', ' I wasn't surprised'	contradiction	contradiction	True
+US2016_9	'This fact is incorrect', 'Trump is the only Billionaire'	contradiction	contradiction	True
+US2016_10	'It's quite scary to imagine that everyone on that stage but Bernie is a Billionaire', 'This fact is incorrect'	contradiction	contradiction	True
+US2016_11	'It's quite scary to imagine that everyone on that stage but Bernie is a Billionaire', ' probably shouldn't have jumped to conclusions'	non-contradiction	contradiction	False
+US2016_12	'Donald, I love you', 'I hate you'	contradiction	contradiction	True
+US2016_13	'not the faux libertarians like Rand', 'Rand is the closest we have to a libertarian since Ron Paul or Gary Johnson'	contradiction	contradiction	True
+US2016_14	'You're supporting Trump here', 'No'	non-contradiction	contradiction	False
+US2016_15	'No ones debating anything', 'this isn't a debate'	non-contradiction	contradiction	False
+US2016_16	'Fox News is throwing softballs to everyone but Trump', 'They stopped throwing anything to Carson like half an hour in'	contradiction	non-contradiction	False
+US2016_17	'I never took a position on Keystone until I took a position on Keystone', 'I have been on the forefront of dealing with climate change'	non-contradiction	contradiction	False
+US2016_18	'I am proud that , along with Senator Barbara Boxer , a few years ago , we introduced the first piece of climate change legislation which called for a tax on carbon', 'nothing is gonna happen unless we are prepared to deal with campaign finance reform'	contradiction	contradiction	True
+US2016_19	'And frankly , what I say , and oftentimes it 's fun , it 's kidding', 'I think the big problem this country has is being politically correct'	non-contradiction	contradiction	False
+US2016_20	'I 've been very nice to you , although I could probably maybe not be', 'I would n't do that'	contradiction	contradiction	True
+US2016_21	'Unlike Hillary Clinton , who has a radical position in terms of support for Planned Parenthood', 'I defunded Planned Parenthood more than four years ago , long before any of these videos came out'	contradiction	contradiction	True
+US2016_22	'Millions of people in this country agree with you', 'more people do n't'	contradiction	contradiction	True
+US2016_23	'A lot of people are talking about defunding planned parenthood', 'as if that 's a huge game changer'	contradiction	non-contradiction	False
+US2016_24	'only ISIS is responsible for the terrorism', 'Only ISIS is responsible for the depravity'	non-contradiction	non-contradiction	True
+US2016_25	'only ISIS is responsible for the terrorism', 'we did n't create ISIS'	non-contradiction	non-contradiction	True
+US2016_26	'Governor Walker , when you ran for governor of Wisconsin back in 2010 , you promised that you would create 250,000 jobs in your first term , first four years', 'In fact , Wisconsin added barely half that and ranked 35th in the country in job growth'	contradiction	contradiction	True
+US2016_27	'people like Hillary Clinton think you grow the economy by growing Washington', 'I think most of us in America understand that people , not the government creates jobs'	contradiction	contradiction	True
+US2016_28	'There 's been a record six straight years of job growth , and new census numbers show incomes have increased at a record rate after years of stagnation', 'income inequality remains significant , and nearly half of Americans are living paycheck to paycheck'	contradiction	non-contradiction	False
+US2016_29	'We also , though , need to have a tax system that rewards work and not just financial transactions', 'the kind of plan that Donald has put forth would be trickle-down economics all over again'	contradiction	contradiction	True
+US2016_30	'trumped-up trickle-down , because that 's exactly what it would be', 'That is not how we grow the economy'	contradiction	contradiction	True
+US2016_31	'the kind of plan that Donald has put forth would be trickle-down economics all over again', 'That is not how we grow the economy'	contradiction	contradiction	True
+US2016_32	'he really believes that the more you help wealthy people , the better off we 'll be and that everything will work out from there', 'I do n't buy that'	contradiction	contradiction	True
+US2016_33	'They are not leaving Detroit', 'corporate is staying Manufacturing is leaving'	contradiction	non-contradiction	False
+US2016_34	'Does he understand that screaming at a woman in front of 100 million people makes him look like a fucking asshole', 'Sure does'	contradiction	contradiction	True
+US2016_35	'Bigly', 'big league'	non-contradiction	non-contradiction	True
+US2016_36	'Bigly', 'Big-league'	non-contradiction	non-contradiction	True
+US2016_37	'You mean let him control the narrative', 'That's a terrible idea'	contradiction	contradiction	True
+US2016_38	'Secretary Clinton , you 're calling for a tax increase on the wealthiest Americans', 'Mr. Trump , you 're calling for tax cuts for the wealthy'	contradiction	contradiction	True
+US2016_39	'in a way , I should be complaining', 'I 'm not even complaining'	contradiction	contradiction	True
+US2016_40	'When the audit 's complete , I 'll do it', 'I would go against them if she releases her e-mails'	non-contradiction	contradiction	False
+US2016_41	'for five years , you perpetuated a false claim that the nation 's first black president was not a natural-born citizen', 'The president was born in the United States'	contradiction	contradiction	True
+US2016_42	'I will let you respond', 'I just want to get the answer here'	non-contradiction	contradiction	False
+US2016_43	'he tried to put the whole racist birther lie to bed', 'it ca n't be dismissed that easily'	contradiction	contradiction	True
+US2016_44	'temperament , let 's go after', 'my strongest asset , maybe by far , is my temperament'	contradiction	contradiction	True
+US2016_45	'That's ridiculous', 'No'	non-contradiction	contradiction	False
+US2016_46	'if there were nuclear war in East Asia , well , you know , that 's fine', 'Wrong'	non-contradiction	contradiction	False
+US2016_47	'have a good time , folks', 'It 's lies'	non-contradiction	contradiction	False
+US2016_49	'not global warming', 'your—your president thinks'	non-contradiction	non-contradiction	True
+US2016_50	'as far as Japan is concerned , I want to help all of our allies', 'we are losing billions and billions of dollars'	contradiction	contradiction	True
+US2016_51	'as far as Japan is concerned , I want to help all of our allies', 'We can not be the policemen of the world'	contradiction	contradiction	True
+US2016_52	'women are pigs , slobs and dogs , and pregnancy is an inconvenience to employers', 'I never said that'	contradiction	contradiction	True
+US2016_53	'women do n't deserve equal pay unless they do as good a job as men', 'I did n't say that'	contradiction	contradiction	True
+US2016_54	'Our economy isn't money', 'it's people'	non-contradiction	non-contradiction	True
+US2016_55	'You were against same-sex marriage', 'Now you're for it'	contradiction	contradiction	True
+US2016_56	'You defended President Obama's immigration policies', 'Now you say they're too harsh'	contradiction	contradiction	True
+US2016_58	"'You even called it the ""gold standard""', 'Now, suddenly, last week, you're against it'"	contradiction	contradiction	True
+US2016_59	"'I would ""take a back seat to no one when it comes to progressive values""', 'Last month in Ohio, you said you plead guilty to, quote, ""being kind of moderate and center.""'"	contradiction	contradiction	True
+US2016_60	'the Alinsky Model, taking advantage of useful idiots', 'I just happen to believe that people are not stupid'	contradiction	non-contradiction	False
+US2016_61	'you favor a rape and incest exception to abortion bans', 'how do you justify ending a life just because it begins violently, through no fault of the baby'	contradiction	contradiction	True
+US2016_62	'very pro- choice', 'I am pro-life'	contradiction	contradiction	True
+US2016_63	'tonight we hear about what people want to do', 'I want to tell you what I've done'	contradiction	contradiction	True
+US2016_64	'it's the finest deal you've ever seen', 'No'	non-contradiction	contradiction	False
+US2016_65	'to her family', 'I can't do it'	non-contradiction	non-contradiction	True
+US2016_66	'Governor Chafee, you and Hillary Clinton both voted for the Patriot Act which created the NSA surveillance program', 'You've emphasized civil liberties, privacy during your campaign'	contradiction	contradiction	True
+US2016_67	'The other day , we were deporting 800 people', 'now it turns out it might be 1,800'	contradiction	contradiction	True
+US2016_68	'Nobody proposes common sense gun solutions', 'It is not a solution for any of our problems'	contradiction	contradiction	True
+QT30_0	'About eight weeks ago people said we would run out of the ventilators', 'we have 13,000 and never more than half have been in use'	contradiction	non-contradiction	False
+QT30_1	'People said we would run out of intensive care beds', 'We have nearly doubled those and no more than half of those have ever been used by virus patients'	contradiction	contradiction	True
+QT30_2	'I don't work in education,', 'but I can see the psychological damage that potentially is happening to a whole generation of children.'	contradiction	non-contradiction	False
+QT30_3	'The app seems to be having a few teething problems', 'It sounded as if it was the next big thing'	contradiction	non-contradiction	False
+QT30_4	'we think it is an elitist thing', ' one in every two people go and see a play or musical every year'	contradiction	non-contradiction	False
+QT30_5	'The test, track and trace it is great we have this technology', 'but that exercise, Signus, did identify very years ago the problems that would be faced by this country in the event of a global pandemic'	contradiction	contradiction	True
+QT30_6	'Tests are only available online', 'they should be available locally I would have thought'	contradiction	contradiction	True
+QT30_7	'I am beginning to hear coming through, that people feel there's been a lot of talk about what Dominic Cummings did or didn't do', 'what really matters is us having the pandemic under control and being able to get back to life much newer to normal'	non-contradiction	contradiction	False
+QT30_8	'She accepted there was a potential damage to public consent and participation', 'have behaved with arrogance and with disrespect to the public'	non-contradiction	contradiction	False
+QT30_9	'The app question is interesting', ' I think that this is really more of a challenge that we keep on being promised things are going to be here and then they're not'	contradiction	non-contradiction	False
+QT30_10	'in terms of how viable this contact tracing operation is going to be, an awful lot of that does depend on Government communication', ' that is one of the areas where I think we have seen Boris Johnson actually, you know, fail'	contradiction	contradiction	True
+QT30_11	'you have to leave home to do that', 'even if you are told to self-isolate'	contradiction	contradiction	True
+QT30_12	'you are told to self-isolate at home for two weeks', 'but you have problems with that'	non-contradiction	contradiction	False
+QT30_13	'recognise the costs of this', 'we do need to have something which is economically sustainable'	contradiction	non-contradiction	False
+QT30_14	'even though patience is beginning to wear thin', 'there is still a residual degree of goodwill for the Government'	contradiction	non-contradiction	False
+QT30_15	'you are throwing a protective ring around care homes', 'thousands and thousands of people are dying in care homes'	contradiction	contradiction	True
+QT30_16	'you allow that mistakes will be made in a fiercely complicated, unprecedented set of situations', 'you can't just allow that mistakes will be make'	contradiction	contradiction	True
+QT30_17	'you can't just allow that mistakes will be make', 'You have to admit to them'	contradiction	contradiction	True
+QT30_18	'you treat people like adults', 'It seems to me to be infantilising of Government ministers to try to pretend that could be the case'	contradiction	contradiction	True
+QT30_19	'I recognise there is a risk that you might be asked to do that more than once,', 'if people follow social distancing, if people are following social distancing and minimising their contact, so if they are having to go to a work place to work but social distancing in the work place is really important, because that's how you avoid becoming somebody who is a contact of the sort that needs to isolate'	non-contradiction	contradiction	False
+QT30_20	'we need to be honest, face up to it, and accept the fact that we are as much prisoners of our history, as anything else', 'we have a chance through democracy, to break free, and progress'	contradiction	non-contradiction	False
+QT30_21	'we all owe it to each other to respect the rule of law', 'there didn't seem to be that sense of order'	contradiction	contradiction	True
+QT30_22	'a force for good only in the world', 'This is not true'	non-contradiction	contradiction	False
+QT30_23	' it is the history of this country', 'history is a construction'	contradiction	contradiction	True
+QT30_24	'Until Sunday you could come from Iran or Brazil, the two highest hotbeds of the disease, with impunity', ' the two highest hotbeds of the disease'	non-contradiction	contradiction	False
+QT30_25	'we should have been leading the way in reopening', 'we're not'	non-contradiction	contradiction	False
+QT30_26	'you talked about this report from Stanford 0.1 to 0.2 per cent', 'as I expect you know'	non-contradiction	contradiction	False
+QT30_27	' test results in Wales, over 90 per cent of the people get their test results within 48 hours', 'it's somehow a widespread problem with late test results'	contradiction	contradiction	True
+QT30_28	'it's somehow a widespread problem with late test results', 'simply doesn't match the facts'	non-contradiction	contradiction	False
+QT30_29	'we needed to learn much quicker from Korea, and other countries who have dealt with it', 'rather than wait for lack of leadership, and not condemning what the Prime Minister's aid did or the other ingredients within the whole recipe of protecting people'	contradiction	contradiction	True
+QT30_30	'he was shaking hands with the staff', ' he wasn't'	contradiction	contradiction	True
+QT30_31	'the lockdown being implemented when it was implemented was the correct time', 'now the indirect effect of the lockdown, nobody can quantify'	contradiction	non-contradiction	False
+QT30_32	'Now, obviously the Government, they are dealing with two priorities', 'I am just wondering if we're doing both'	contradiction	contradiction	True
+QT30_33	'this next generation coming through have really defined this snowflake stereotype that's been applied to them too many times', 'have actually shown themselves to be very compassionate, responsible and stoic'	contradiction	non-contradiction	False
+QT30_34	'your Government began to show a little bit of contrition and acknowledgment of the mistakes that have been made in the handling of this crisis up to this point', 'as opposed to the nit-picking and the point-arguing that we have seen on Twitter, very strangely, from this Government in particular'	contradiction	contradiction	True
+QT30_35	'it's not necessarily even about spending more money', 'there could be a case for more target funding'	contradiction	non-contradiction	False
+QT30_36	'Since it was introduced in 2017, it was meant to get more young people, particularly from disadvantaged backgrounds, into apprenticeships to give them better life chances', 'participation rates among those from more disadvantaged backgrounds has fallen by a third'	contradiction	contradiction	True
+QT30_37	'what Suresh said about people accepting the risk is not the full story', 'But you don't accept the risk for people like key workers'	contradiction	contradiction	True
+QT30_38	'talked about commitments that it's going to make', 'not necessarily this Government'	non-contradiction	contradiction	False
+QT30_39	'in the announcements last week with regard to the tutoring that school children will now get', 'an hour before the announcement was made, those aged 16 to 18 were taken out of it'	contradiction	contradiction	True
+QT30_40	'I welcome the demand being put on the Government in terms of investment in the youth and social housing and things such as that', 'I come to the point that I made at the beginning, and I agree with Theo, to do and fulfil those demands what we need to be doing is making sure the economy is restarted in a proportionate and a sensible way'	non-contradiction	non-contradiction	True
+QT30_41	'there's been a lot of unfair criticism to the Government on -- by some of the panelists here and some of the other viewers', 'they should be applauded for the furlough scheme they have done'	contradiction	non-contradiction	False
+QT30_42	'for that entire period, they had stopped councils being able to borrow money in order to build council housing', 'The Labour Party should have built more houses and so should this Government build considerably more houses that people can actually afford to live in'	contradiction	contradiction	True
+QT30_43	'you couldn't work at home, you wouldn't be getting enough done', 'We have learnt that we can be at productive when we are at home, if not more productive'	contradiction	contradiction	True
+QT30_44	'we need to build build build', 'Planning is still an impediment to the pace at which we want to move'	contradiction	non-contradiction	False
+QT30_45	'it's absolutely delightful to see them all', 'it's absolutely horrifying that we can't provide more'	contradiction	contradiction	True
+QT30_46	'We know the detrimental impact it's having on their wellbeing as well as on their educational development', 'clearly we've got to do that when it's safe'	contradiction	contradiction	True
+QT30_47	'We need safety to be achieved through having a functioning test and trace system, and low levels of transmission', 'there has been a total failure to deliver on the promises'	non-contradiction	contradiction	False
+QT30_48	'we could sort this out pretty quickly actually', 'it's a huge effort and it takes a lot of work to get children back to school safely with the social distancing requirements'	contradiction	contradiction	True
+QT30_49	'We can open hotels, we can put up marquees and that way we can get more kids back into school', 'Great idea; begs the question where are the teachers'	contradiction	contradiction	True
+QT30_50	'They have done better in terms of their death toll', 'when we look back on this, 10,000 deaths is too many'	contradiction	contradiction	True
+QT30_51	'try and find a solution in the next two or three months', 'we really could be in a terrible situation'	non-contradiction	contradiction	False
+QT30_52	'we've got the capacity', 'we haven't had for almost a month now the figures of how many people have actually been tested on a daily basis'	contradiction	contradiction	True
+QT30_53	'we've got a public health emergency and nobody wants to see crowds out on the street', 'people feel moved to go out and protest'	contradiction	non-contradiction	False
+QT30_54	'otherwise every country in the world would've done the same thing', 'that's not what happened, Germany as an example'	non-contradiction	contradiction	False
+QT30_55	'I'm very proud of the fact that I'm part of a government that has made some real differences', 'I know these figures will now be distorted because of the situation with the coronavirus'	contradiction	contradiction	True
+QT30_56	'The Black Lives Matter movement is excellent', 'they do themselves no favours when they riot in London'	contradiction	contradiction	True
+QT30_57	'there was violence', 'it was from a minority of people'	non-contradiction	non-contradiction	True
+QT30_58	'there was violence', 'there were huge amounts of peaceful protests on the streets as well'	contradiction	contradiction	True
+QT30_59	'The government have done a lot to try and make sure that we have racial equality', 'it's the people that get it wrong'	non-contradiction	non-contradiction	True
+QT30_61	'Otherwise, unsurprisingly, young people young black people in Britain will think that there has been no progress', 'that's just wrong, it's wrong'	non-contradiction	contradiction	False
+QT30_62	'Face covering matter', 'originally the government was suggesting face coverings were not necessary and might give a false cents of confidence'	contradiction	contradiction	True
+QT30_63	'originally the government was suggesting face coverings were not necessary and might give a false cents of confidence', 'they suggested when it came to enclosed spaces such as public transport, face coverings are faced'	contradiction	non-contradiction	False
+QT30_64	'people should wear face coverings on public transport', 'a lot of people are still not doing it'	non-contradiction	non-contradiction	True
+QT30_65	'quick action for the businesses affected', 'They had to wait 10 days to find out they're getting 40 million pounds'	contradiction	non-contradiction	False
+QT30_67	'you were waiting for the chancellor to outline any further support you could give, the chancellor has said Scotland will get 700 million more', 'Why today did Nicola Sturgeon say it would be 40 million going to the businesses'	non-contradiction	contradiction	False
+QT30_68	'we're talking about not unimportant issues', 'not primary issues'	contradiction	non-contradiction	False
+QT30_69	'we're still asking people in many circumstances to make a cut to their wages', 'Are they getting cuts off their rent, their bills, their food'	contradiction	contradiction	True
+QT30_70	'in the rest of the UK if you're obliged by law to close you'll get a grant', 'all the businesses in the supply chain won't get funding, the businesses impacted won't get funding'	contradiction	contradiction	True
+QT30_71	'What's gone completely wrong in the last two or three years is that we've got a Scottish government who generally are adversarial and negative about a whole range of things that might happen with the UK and Scotland working together', 'That's what we should have'	non-contradiction	non-contradiction	True
+QT30_73	'I will always vote for the Labour party because I think it's the best coalition of the left for this country', 'But for this party to be caught up in something like this makes me sick.'	contradiction	contradiction	True
+QT30_74	'It's all very well the Labour party saying sorry, and Keir Starmer did give an apology on the day he was elected', 'what's important here is that we see action'	contradiction	contradiction	True
+QT30_75	'It's not one person's fault', 'Jeremy Corbyn allowed the space for anti-Semites to come into the party and the leadership did absolutely nothing about it'	contradiction	contradiction	True
+QT30_76	'you're not doing it intentionally', 'there are systemic and institutional biases'	contradiction	contradiction	True
+QT30_77	'You could see me on countless shows trying to advocate on behalf of Republican policies and what the President was doing', 'he made it impossible'	non-contradiction	contradiction	False
+QT30_78	'my liberal friends would say to me well, you know, he's the same guy that he was at 2015 so he's doing the exact same things here in 2020 so why did you change, you must be a bitter employee', 'I wouldn't have been supporting him for two years if I was a bitter employee'	non-contradiction	contradiction	False
+QT30_79	'I grew up in a working class family, my dad was an hourly worker', 'it was an aspirational working class family where we were in the middle class'	contradiction	contradiction	True
+QT30_80	'Mr Trump I thought was going to represent them in Washington', 'he was really just representing himself'	contradiction	contradiction	True
+QT30_81	'The last two years you have been incredible in terms of coming clean on TV in front of people, you published a book, you're behind the incredible Lincoln Project of Conservatives and Republicans who are actually trying to save conservatism and make it decent again', 'the other thing that you did, because of your charisma, your intelligence, you normalised Donald Trump, and that's the problem'	contradiction	contradiction	True
+QT30_82	'it seems that some Republicans are getting buyer's remorse and regretting that Donald Trump is their representative in the presidential race', 'they've had opportunities through impeachment and others to, as it were, remove him'	contradiction	contradiction	True
+QT30_83	'there's a least of the two evils, if you will', 'this is totally different this time'	non-contradiction	contradiction	False
+QT30_84	'It's the only time I can remember in my lifetime though where the whole world is cooperating on a vaccine', 'Even that's not going to solve the problem'	non-contradiction	contradiction	False
+QT30_85	'I live in West Lindsey which at the minute is relatively low in tier one', 'two miles at the side of me is Nottinghamshire who've gone into tier three from Friday'	contradiction	contradiction	True
+QT30_86	'what we have to do now is to make sure that we not only have that circuit breaker', 'that time is used to get on top of test, trace and isolate'	non-contradiction	contradiction	False
+QT30_87	'we heard there are going to be vaccines before the end of the year', 'significantly less than we neat need'	non-contradiction	contradiction	False
+QT30_88	'if -- it passes the safety data', 'that is a big hurdle it still hasn't gone over'	contradiction	contradiction	True
+QT30_89	'We need people to believe and to take the vaccine', 'you're being asked can you do it given that these freezers, you know -70, are necessary to get this distributed'	non-contradiction	contradiction	False
+QT30_90	'the NHS will do it', 'The NHS relies on subcontractors to do the job of rolling it out'	contradiction	contradiction	True
+QT30_91	'the arguments are given that the NHS will be able to manage the roll-out', 'to say the NHS will do it, well, the NHS can only do it if they get the support to do their job'	contradiction	contradiction	True
+QT30_92	'I would like to follow the clinical advice', 'I know I'm not giving an answer'	contradiction	non-contradiction	False
+QT30_93	'I'm not saying it is easy', 'I'm not saying it will be straightforward'	non-contradiction	contradiction	False
+QT30_94	'As a government we've not got plans to introduce a passport or anything like that, of that nature', 'businesses may look to do that in the future'	non-contradiction	non-contradiction	True
+QT30_95	'We have a plan, we're going to do this, we're going to do it together', 'but this isn't going to happen overnight.'	non-contradiction	contradiction	False
+QT30_96	'Hope and help is here', 'but there's a long way to go'	non-contradiction	non-contradiction	True
+QT30_97	'Colleen's point of view are we going to fall into the same trap where it comes to rolling out the logistics of this', 'logistics isn't falling into the tech problem where we're trying to get everybody to download apps'	contradiction	non-contradiction	False
+QT30_98	'Colleen's point of view are we going to fall into the same trap where it comes to rolling out the logistics of this', 'it is more about getting close to people and resolving it'	contradiction	contradiction	True
+QT30_99	'It is a fantastic achievement', 'it is also a worldwide achievement'	non-contradiction	contradiction	False
+QT30_100	'I will get the deal in July', 'We haven't seen it'	non-contradiction	non-contradiction	True
+QT30_101	'We can offer more help, we want to see that', 'we're borrowing £400 billion this year -- in a single year'	non-contradiction	contradiction	False
+QT30_102	'because there are multi-generational households ', 'People say that's impossible because there are multi-generational households'	non-contradiction	contradiction	False
+QT30_103	'We heard before the show that good people are involved', 'I think you'll find, Nadhim, there is a willingness across the population and across businesses to do whatever you need, whatever is required to accelerate and deliver this vaccine'	non-contradiction	contradiction	False
+QT30_105	' the reality is that the first dose of the Pfizer/BioNTech is about 70 percent protection, it is reckoned', 'sorry, the AstraZeneca one is 70 percent'	non-contradiction	contradiction	False
+QT30_106	'1,104 people died today and schools are shut', 'We're not getting any of the balancing act right at all'	non-contradiction	non-contradiction	True
+QT30_107	'We should have spent the money making sure kids and the vulnerable in society had more', 'instead we spent on Eat Out to Help Out'	contradiction	contradiction	True
+QT30_108	'There seems to be an increasing, very vocal minority in Britain at the moment who seems to think that somehow if a human being in British society is above a certain age or has medical comorbidities', 'I, as a doctor, think that is a reprehensible position'	non-contradiction	contradiction	False
+QT30_109	'we haven't seen put into place the e-learning that's necessary for those children so that they really can be receiving the kind of educational input they need', 'We've had so many months when this has been potentially on the cards'	non-contradiction	non-contradiction	True
+QT30_110	'schools are absolutely safe', 'no, schools are not safe after all'	contradiction	contradiction	True
+QT30_111	'No question of there being checks', 'yet, if you want to ship something like mince, for example, from Great Britain to Northern Ireland'	non-contradiction	contradiction	False
+QT30_112	'You can call it a border or not', 'those checks will be there'	non-contradiction	contradiction	False
+QT30_113	'Firstly, it was negotiated in order to avoid a border on the island of Ireland', 'secondly it contains the principle it should have a minimal impact on the every day lives of communities in Northern Ireland'	non-contradiction	contradiction	False
+QT30_114	'the United Kingdom under Theresa May fell into the trap that was led for them by the Republic of Ireland that the Belfast Agreement was about no borders on the island of Ireland', 'we can have a border internally within the United Kingdom'	non-contradiction	non-contradiction	True
+QT30_115	'the imperial College study is scary in that it doesn't tell us whether or not the cases are going down from December', 'There is other evidence that suggests from December cases are going down'	contradiction	contradiction	True
+QT30_116	'How much of this is being hyped up in the same way that remarijuana said: Owe this will happen, that will happen', 'The only thing on these islands was the approach to the ports at the south of England when they were trying to get across to Europe and that was caused by Covid-19'	non-contradiction	contradiction	False
+QT30_117	'there will be plenty of time for reflection over the coming years', 'at this moment in time what we're focusing on is saving lives, protecting hospitals, protecting the NHS, and making sure we have enough capacity in our NHS to deal with these issues'	contradiction	contradiction	True
+QT30_118	'I think we are working together in the executive', 'as a five-party coalition there will be bumps along the way'	contradiction	non-contradiction	False
+QT30_119	'at the onset of the pandemic, when we were predicting what could be the worst scenario and explaining that to the public, and the public would rightly feel this is not going to happen again', 'Unfortunately that is what happened now and we're dealing with the worst time that we've been through the whole way through the pandemic'	non-contradiction	contradiction	False
+QT30_120	'it is legitimate to think about the future', 'I would hate it if because of that we lost sight of the present and didn't take the opportunity to make that protocol work as effectively as it can'	non-contradiction	non-contradiction	True
+QT30_121	'There's a resolution here', 'it's too slow, too late'	non-contradiction	contradiction	False
+QT30_122	'This should have been at the outset, close the borders, stop the virus coming in and contain it', 'Instead we've had almost a year's worth now of open/close, start/stop, lockdown and various restrictions'	non-contradiction	contradiction	False
+QT30_123	'the scientists they have been saying since the beginning of the pandemic there are clear strategies to follow to limit the impact it has', 'On a number of occasions the UK has not followed that advice, the border being one example'	non-contradiction	contradiction	False
+QT30_124	'people should be thinking that we should divide our country', 'putting together the damage which has been done by this virus'	non-contradiction	contradiction	False
+QT30_125	'people in Scotland are not simply just going to say oh well, we voted for it but they said no, so let's move on', 'They're going to get angry about the fact that they are being denied the thing they voted for'	non-contradiction	non-contradiction	True
+QT30_126	'This is not about timing', 'We can have debates about timing and when the best time to do it would be'	contradiction	contradiction	True
+QT30_127	'I do understand the balancing act, it is a delicate balancing act between the economy and health', 'we've known for a long time the virus is spread very quickly with the movement of people and between people'	non-contradiction	non-contradiction	True
+QT30_128	'If the SNP get a majority in May then the Tories don't have any authority to deny a second independence referendum', 'I have to point out that we've already been in this situation'	non-contradiction	contradiction	False
+QT30_129	'you need to come up with a good proposition for the union', 'which isn't just how terrible Scotland would do if it went out there as an independent country'	non-contradiction	contradiction	False
+QT30_130	'You could share a home life with a teacher going back into nonventilated setting', 'your business can't open'	non-contradiction	contradiction	False
+QT30_131	'clarity, funding, support for workers and businesses, that would make all of this easier to sustain', 'We haven't had those things and we don't have a sight of what that would look like'	contradiction	contradiction	True
+QT30_132	'You call it decision by committee', 'the reality is you have to weigh up the extent to which people have sacrificed, staying inside'	non-contradiction	non-contradiction	True
+QT30_134	'Our distinction is we think schools should go back first', 'We could say we'll send hospitality back first, but we won't send schools back'	contradiction	contradiction	True
+QT30_135	'We could say we'll send hospitality back first, but we won't send schools back', 'That would be the wrong thing to do'	non-contradiction	contradiction	False
+QT30_136	'In many ways it is a luxury', 'I feel that we need more than just the practicalities of life'	contradiction	non-contradiction	False
+QT30_137	'We had a vaccines minister saying it is out the question', 'it is not out the question because the government is doing this'	contradiction	non-contradiction	False
+QT30_138	'it has been very difficult to explain why there were no shortages', 'we know there were shortages'	contradiction	non-contradiction	False
+QT30_139	'I'm sympathetic to Grant's reasoning as to why it was difficult to get enough PPE', 'that doesn't answer the question'	contradiction	contradiction	True
+QT30_140	'We heard the Met Police Commissioner say it is incredibly rare for a woman to be abducted from our street', 'we heard my colleague Jess Phillips in parliament today saying it is not rare for women to be subject to male violence'	contradiction	contradiction	True
+QT30_141	'we all have to remember as we move forward that it is nothing compared to what Sara Everard's family are feeling this morning', 'we're talking about this in a clinical, policy-driven way about an appalling human event'	non-contradiction	non-contradiction	True
+QT30_142	'in my native land, you can talk about anybody', 'people have no idea what's going on here'	non-contradiction	contradiction	False
+QT30_143	' I'm making a broader point', 'I don't think there's been racism of the coverage of Megan'	non-contradiction	contradiction	False
+QT30_144	'we deserve greater than a 1 percent pay rise', 'there's not a magic money tree, to coin a phrase, out there'	contradiction	contradiction	True
+QT30_145	'We'd love to be giving more money', 'it is difficult'	non-contradiction	contradiction	False
+QT30_146	'they should suffer', 'that's not really good enough'	non-contradiction	non-contradiction	True
+QT30_147	'we all want to get back to the position where we can have all the liberties back, the freedoms that we lost', 'so many people have sacrificed and we don't want to risk what we've gained in terms of driving the level of the virus right down'	contradiction	non-contradiction	False
+QT30_148	'I think much as I completely get not going abroad', 'should we not have come up with some kind of better system by now a year in'	non-contradiction	contradiction	False
+QT30_149	'it also says that in our contract', 'it's not totally clear'	contradiction	contradiction	True
+QT30_150	'that is a cheap vaccine, and the UK has actually invested huge amounts of money in helping vaccine rollout round the world', 'there's this presentation that is just topsy-turvy that somehow England's greedily sitting on all these vaccines'	contradiction	contradiction	True
+QT30_151	'the RCN is quite strongly making a compelling case for the 12.5 per cent increase', 'but at least do what the Scottish Government has done'	non-contradiction	contradiction	False
+QT30_152	'everything that the UK does is not perfect by any stretch', 'in this instance, the EU call the shots on that'	non-contradiction	non-contradiction	True
+QT30_153	'I work with teenagers so I know how smart they can be', 'there has always been a little bit of the idea that those young peoplefor the purposes of everything else, they're treated as not being adults'	non-contradiction	contradiction	False
+QT30_154	'I'm a limited company director myself who's received no help from the government whatsoever', 'I would treat them as a special case'	non-contradiction	contradiction	False
+QT30_155	'I've been concerned following Welsh politics for many years at the low turnout in elections and the lack of political engagement', ' apart from of course in the referendum about whether we should leave the EU, which there was a high turnout'	non-contradiction	non-contradiction	True
+QT30_156	' you isolate them as a special group', 'it's quite divisive'	non-contradiction	contradiction	False
+QT30_157	'so many people are facing wage cuts', 'so many people are facing unemployment'	non-contradiction	contradiction	False
+QT30_158	'we need a parliament that is focused only on our recovery, only on rebuilding after the last 12 months that we've all been through', 'rather than one distracted by another independence referendum'	non-contradiction	contradiction	False
+QT30_159	'it will be an agreement', 'we're not pleading for that'	contradiction	contradiction	True
+QT30_160	' that would bring uncertainty', 'we should be focused on our recovery'	non-contradiction	non-contradiction	True
+QT30_161	'our parliament has to be focused to protect people's jobs', 'All of these things would play second fiddle to a nationalist government who are only interested in separation'	non-contradiction	non-contradiction	True
+QT30_162	'we'll need the skills and talents of everyone in this country to get through this recovery', 'We won't do that if the country is divided by independence'	contradiction	non-contradiction	False
+QT30_163	'that's more of the same', 'we can do something different'	contradiction	contradiction	True
+QT30_164	'we've been separated from our families like never before', 'we've actually come together as a country like never before to confront COVID'	contradiction	contradiction	True
+QT30_166	'whether we spend it debating an issue that in reality was resolved almost seven years ago', 'I know that people will make the case that things have happened since then'	contradiction	non-contradiction	False
+QT30_167	'Scotland was once a world leader', 'it's now internationally average for education'	non-contradiction	contradiction	False
+QT30_168	'it's now the SNP's proposals are now saying they're going to wait now until 2023', 'I'd prefer none of it'	non-contradiction	contradiction	False
+QT30_169	'we're being dragged out of the EU against our will', 'that's also one of the routes that we can have back to prosperity, a more equal and just country'	non-contradiction	non-contradiction	True
+QT30_170	'There may be a problem with drugs', ' I don't believe that it's that much worse than in England'	non-contradiction	contradiction	False
+QT30_171	'we now hear that the Green Party would like us to be ceasing production in the next ten years', 'I think we need as a country'	non-contradiction	non-contradiction	True
+QT30_172	'When we talk about recovery it just can't be a campaign slogan', 'it has to actually be a national mission'	contradiction	non-contradiction	False
+QT30_173	' this is what you want to make in terms of your manifesto', 'how do you view the long-term future of oil and gas workers'	non-contradiction	contradiction	False
+QT30_174	'there are things we can do to address the effects of taking those hydrocarbons out of the ground', 'eventually we'll have to stop'	contradiction	contradiction	True
+QT30_175	'we need to actually be practical about our obligations under the climate…under the Paris Agreement', 'this is a problem that I have with the SNP approach of setting targets and putting their hopes in things like carbon capture'	contradiction	contradiction	True
+QT30_176	'you've hitched your wagon', 'not officially'	non-contradiction	contradiction	False
+QT30_177	'not officially', 'you are supporters of the SNP in government'	contradiction	contradiction	True
+QT30_178	'I'm struck by the various areas that you say for investment', 'I don't hear you talking about people'	non-contradiction	contradiction	False
+QT30_179	'We've got to invest seriously and genuinely in those renewable jobs of the future', 'that work is not happening'	non-contradiction	contradiction	False
+QT30_180	'we're speaking about your party's manifesto that is not costed', 'you're asking about our £600 million investment to catch up on all the delayed appointments and treatments within the NHS'	non-contradiction	contradiction	False
+QT30_181	'what we need is rapid diagnosis centres', 'we're not going to build the physical buildings and those rapid diagnosis centres in the time of weeks or months'	contradiction	contradiction	True
+QT30_182	'there hasn't been a pay review', ' you do now support the four per cent'	non-contradiction	contradiction	False
+QT30_183	'I have not been elected once', 'there would have been way fewer Labour MPs than there are now'	non-contradiction	non-contradiction	True
+QT30_184	'I've heard lots of talk about deconstruction', 'very little, particularly from the Brexit Party, about how you solve some of the problems for people in this country'	non-contradiction	contradiction	False
+QT30_185	'In 2019 the Prime Minister said he was level up this country', 'then what has he done in this Queen's speech'	non-contradiction	contradiction	False
+QT30_186	'I don't represent the Brexit Party', 'then I ran secondly as a Brexit Party candidate'	contradiction	contradiction	True
+QT30_187	'then I ran secondly as a Brexit Party candidate', 'I'm not involved with that party, which is now Reform'	contradiction	contradiction	True
+QT30_188	'I ran firstly as an independent', 'I'm not sitting here, absolutely not, as a representative of any political party at all'	non-contradiction	contradiction	False
+QT30_189	'then I ran secondly as a Brexit Party candidate', 'I'm not sitting here, absolutely not, as a representative of any political party at all'	contradiction	contradiction	True
+QT30_190	'It's very good at telling us what the divisions are in our country', 'What it's useless at is actually coming up with prescriptions'	non-contradiction	non-contradiction	True
+QT30_191	'they're up against extremely powerful people with a private education, with inherited money, for whom life will always get better', 'the system we're in makes life often worse generation after generation for working-class people'	non-contradiction	contradiction	False
+QT30_192	'I have voted Labour all my life', 'this is the first time this past election I had to seriously sit down and think about whether I would vote Labour'	contradiction	contradiction	True
+QT30_193	'isn't Labour the natural division between it now', 'I don't think it is'	non-contradiction	contradiction	False
+QT30_194	'I could be proud to vote for', 'I don't feel the same way anymore'	non-contradiction	contradiction	False
+QT30_195	'I want there to be a Labour Party that is good', 'it isn't at the moment'	non-contradiction	contradiction	False
+QT30_196	'it provides hope and inspiration for people', 'it isn't at the moment'	non-contradiction	non-contradiction	True
+QT30_197	'I do believe that there is…that you have to now', 'The time for this is not now, everyone knows that's obvious'	non-contradiction	contradiction	False
+QT30_199	'in these elections, people can happily vote for the SNP if they are pro remaining in the United Kingdom, safe in the knowledge that they are voting for an SNP government with a much broader agenda and a broader set of elections', 'I have a mandate from those people for independence'	non-contradiction	non-contradiction	True
+QT30_200	'People worry about media bias, they worry about low turnout', 'they don't worry in general about this'	non-contradiction	contradiction	False
+QT30_201	'I'm a proud Welshman', 'I love being part of Britain'	contradiction	contradiction	True
+QT30_202	'Human nature is that we want to look forward to better times', 'we also have to look at that evidence and be cautious but irreversible'	contradiction	contradiction	True
+QT30_203	'I had the feeling that somebody, perhaps Andi, was going to tell us all we had to get up and hug each other', 'No offence, guys, but'	non-contradiction	contradiction	False
+QT30_204	'get a partner who annoys you as much as my partner annoys me', 'I'm only joking'	non-contradiction	non-contradiction	True
+QT30_205	'over the last few decades, if not centuries, we've seen successive governments try to expand the franchise', 'this government seems to want to reduce it'	contradiction	contradiction	True
+QT30_206	' I understand the intention of seeking unity through using the Union Jack for the UK in the whole', 'there's a risk of anything which is forced can sometimes have a corresponding resistance'	non-contradiction	contradiction	False
+QT30_207	' we were refused', 'when the situation changed in England, hey presto, they extended the furlough'	non-contradiction	contradiction	False
+QT30_208	'I don't think we ned to completely abandon the hope of trips abroad a little later in the year', 'the government does need to pause and think again with regard to the loosening of international travel'	non-contradiction	non-contradiction	True
+QT30_209	'you can go and visit friends and family', 'it's only essential travel'	contradiction	contradiction	True
+QT30_210	'you can go and visit friends and family', 'we should regard holidays as essential travel'	contradiction	contradiction	True
+QT30_211	' the challenge was put to me about captain hindsight', 'I called back in January for a comprehensive hotel quarantine'	non-contradiction	non-contradiction	True
+QT30_212	' the challenge was put to me about captain hindsight', 'I called out the issue of the failure to put India onto the red list for 14 days after Pakistan and Bangladesh had already been added'	non-contradiction	non-contradiction	True
+QT30_213	'The Health Secretary is claiming it's because the positivity rate in Pakistan was three times that of India', 'which the evidence doesn't bear out in any way'	non-contradiction	non-contradiction	True
+QT30_214	'I want to travel to India today', 'I cannot'	non-contradiction	contradiction	False
+QT30_215	'we've had in seven years, by the way, 60 different rail projects announced for the North of England by this government', 'we've yet to see a spade in the ground'	contradiction	contradiction	True
+QT30_216	'there is that increased measure of public input', 'you've still got concessions being run by private companies'	contradiction	contradiction	True
+QT30_217	'privatisation is a positive thing', 'in this case, in the railways, it just hasn't worked'	contradiction	contradiction	True
+QT30_218	' there may not have been a variant of concern', 'we know that the coronavirus mutates when it's in high circulation'	contradiction	non-contradiction	False
+QT30_219	'there may not have been a variant of concern', 'it should have been expected'	contradiction	contradiction	True
+QT30_220	'when you walk down the high street, and unfortunately for me there are many frozen pea purveyors and as a consumer you can go pretty much where you like', 'if it's the water that comes out of your tap or indeed the train that I took from Crewe to Euston today you don't have that choice'	non-contradiction	contradiction	False
+QT30_221	'it's a beneficial thing', 'nationalisation of trains isn't all it's cracked up to be'	contradiction	contradiction	True
+QT30_222	'it's very cheap to produce', 'when you add on the transportation costs actually our calculations are that it won't be so cheap at the end of it'	contradiction	contradiction	True
+QT30_223	'franchises just doesn't work', ' we've got to learn and improve'	non-contradiction	contradiction	False
+QT30_224	'at times like this as a humble shop keeper it's quite important to put your hands up and not profess to have any superior knowledge to what we all read in the papers or see on the TV', 'one thing I have noticed however is potentially the one thing that unifies both sides is a disillusionment in the current political leadership'	contradiction	non-contradiction	False
+QT30_225	'trade deals and finding ways to create markets, the pan transpacific market that was being developed, I think you will see more of that', 'consumers will make choice based on what's right for them, about sustainable eating locally'	contradiction	non-contradiction	False
+QT30_226	'we get caught up on religion and beliefs and skin colour and our differences', 'when you travel across the world most people are pretty similar in terms of what they want out of their lives'	contradiction	contradiction	True
+QT30_227	'doctors as well as journalists', 'These are supposed to be protected groups'	non-contradiction	non-contradiction	True
+QT30_228	' if delivered not right away, may well improve life chances,', 'but the evidence isn't as clear at the moment of the evidence of the one-to-one tuition.'	non-contradiction	contradiction	False
+QT30_229	'You're spending 50 per child', 'it is just not going to happen'	non-contradiction	contradiction	False
+QT30_230	'We don't have a government which is matching the wishes that young people have for themselves right now', 'We have a government that has a catch phrase about levelling up'	contradiction	contradiction	True
+QT30_231	'He asked for 700 per student', 'you are offer 50'	contradiction	contradiction	True
+QT30_232	'He is talking about £310 per pupil', 'in the Netherlands it is 200'	contradiction	non-contradiction	False
+QT30_233	'He has done a fantastic job', 'when he makes those calculations doesn't include the academy, the national Academy that the government set up'	contradiction	contradiction	True
+QT30_234	'He has done a fantastic job', 'It doesn't include all the funding that we put in to the laptops'	non-contradiction	non-contradiction	True
+QT30_235	'listen to the man's advice', 'You're not taking it onboard'	non-contradiction	contradiction	False
+QT30_236	'We all want our lives and livelihoods back', 'we're still in the middle of a raging global pandemic'	contradiction	contradiction	True
+QT30_237	'At the moment it is looking good', 'we are going to continue to make that assessment in the coming days and up to 14 June when a decision will be made'	contradiction	non-contradiction	False
+QT30_238	'I'm sure you're right and very well informed', 'we don't know who to trust'	non-contradiction	contradiction	False
+QT30_239	'We were told to take our own advice', ' wasn't good enough in a public health emergency'	non-contradiction	contradiction	False
+QT30_240	'we should listen to all the scientific advice', 'we have to find a way to let business operate'	contradiction	non-contradiction	False
+QT30_241	'I would like to see restrictions lifted sooner', 'I would like to see us work out a way to live with it on a longer term basis'	contradiction	non-contradiction	False
+QT30_242	'It should be following the data', 'not the date'	non-contradiction	contradiction	False
+QT30_243	'We said months ago everybody who comes into the country should be hotel-isolated', 'Only 1 percent of them still are to this day'	contradiction	contradiction	True
+QT30_244	'I feel very sorry for Naomi', 'she should have anticipated that people would be interested in her story'	non-contradiction	contradiction	False
+QT30_245	'I understand and I have huge sympathy for landlords who are overwhelmingly decent people who are trying to support the people who are tenants to them', 'there should be some form of compensation that can ease the transition in'	non-contradiction	non-contradiction	True
+QT30_246	'we didn't want anyone to be thrown out of their houses during this period', 'It is also important that landlords can take control where it is necessary to do so'	contradiction	contradiction	True
+QT30_247	'A landlord should have the right to use his property and let whoever he wants in there to rent', 'I do think the government should come up with an incentive scheme to pay landlords who support poor tenants or people who struggle with their rent'	contradiction	contradiction	True
+QT30_248	'I have every sympathy with landlords', 'the ending of the eviction ban is premature'	non-contradiction	contradiction	False
+QT30_249	'We have been talking about 21 June', 'we don't know if restrictions will be fully lifted then or not'	non-contradiction	non-contradiction	True
+QT30_250	'I agree with Heather about keeping a rental sector going', 'in the medium term we need architects and builders to be coming up with much more low cost, affordable housing,'	non-contradiction	contradiction	False
+QT30_251	'The conservative there mentioned, well, things will get back to normal', 'people are still on furlough, people still aren't back in work'	contradiction	contradiction	True
+QT30_252	'at any minute she is going to be evicted', 'That is criminal'	non-contradiction	non-contradiction	True
+QT30_253	'I live in a quite well-off part of London and I'm okay', 'We have a food bank that is absolutely flooded out with people who simply cannot afford to buy food for their children'	non-contradiction	non-contradiction	True
+QT30_254	' I know it is very difficult to compel anyone to do anything', ' but I do feel my daughter, in the situation she lives in, as part of their job, the people who support her to live should be vaccinated'	contradiction	non-contradiction	False
+QT30_255	'I'm not hesitant', 'there's something wrong where we tell people unless they pump their body full of a chemical, they are out of their job'	contradiction	contradiction	True
+QT30_257	'That's what we're aiming for', 'I'm not sure this is the way to do it'	contradiction	contradiction	True
+QT30_258	' We all want people to get back to work', 'But the fact of the matter is, and Sarah is right, the failure to close the borders'	non-contradiction	contradiction	False
+QT30_259	'we all, more or less have common sense and realise that we're going to have to sacrifice another 4 weeks', 'it is the constant interference from the requirement to do that that is painful'	non-contradiction	contradiction	False
+QT30_260	'We seem to think that just because we're fed up with COVID it has to go away now', 'it is just not going to go away'	contradiction	contradiction	True
+QT30_261	'Let's understand that this is new, this is constantly changing', 'we've all got used to the fact that we're learning about the vaccine'	non-contradiction	non-contradiction	True
+QT30_262	'Brexit was about taking back control', 'We sold out our fishermen'	contradiction	contradiction	True
+QT30_263	'Brexit was about taking back control', 'we are just about to sell out our farmers'	contradiction	contradiction	True
+QT30_264	'for those farmers which are going to be undercut', 'the government said would never happen'	non-contradiction	contradiction	False
+QT30_265	'the government said would never happen', 'is now happening'	contradiction	contradiction	True
+QT30_266	'I want to applaud them for what they do day in, day out', 'we can't walk away from this'	non-contradiction	contradiction	False
+QT30_267	'I do understand what you're saying', 'any economic change is difficult'	non-contradiction	non-contradiction	True
+QT30_268	'the largest farm there is something like the size of the state of Israel', 'It is going to be a tiny, tiny proportion of food that's going to be coming for Australia'	contradiction	contradiction	True
+QT30_269	'he believes his Health Secretary to be incompetent', 'leaves him in charge to our response to a global pandemic'	non-contradiction	contradiction	False
+QT30_270	'it is going to be close to zero, the impact on GDP', 'I can't be against it'	non-contradiction	contradiction	False
+QT30_271	'I'm not an expert on farming', 'I do buy the product'	non-contradiction	non-contradiction	True
+QT30_272	'The matter is closed one minute and he took decisive action the next', 'It can't be both'	non-contradiction	non-contradiction	True
+QT30_273	'You could say nobody knew it was coming and so we were -- the government were on the back foot', 'now that we know a virus of some sort does come up every so often'	contradiction	contradiction	True
+QT30_274	'The problem is he thinks he can still act like a journalist', 'he has to lead by example'	contradiction	non-contradiction	False
+QT30_275	'politicians are anybody special', 'people do look to them for leadership'	non-contradiction	non-contradiction	True
+QT30_276	'Boris Johnson or any other politicians feel they can act like a journalist or act like a businessman or something like that', 'no'	non-contradiction	contradiction	False
+QT30_277	'we have to face that', 'I'd rather the world go vegan'	non-contradiction	contradiction	False
+QT30_278	'It is not a broken link', 'it is a dramatically suppressed link'	contradiction	contradiction	True
+QT30_279	'That's an unknown', 'It is not entirely an unknown'	contradiction	non-contradiction	False
+QT30_280	'the case is closed', 'actually, we fired him'	non-contradiction	contradiction	False
+QT30_281	'I have been fighting against some of the excessive limitations about this', 'I don't disagree'	non-contradiction	contradiction	False
+QT30_282	'It was absolutely terrible', 'I mean it worked because we had to do it to make it work for Zoom'	non-contradiction	non-contradiction	True
+QT30_284	'No, that's a long way off', 'it would just be kind of representative of the decline'	non-contradiction	non-contradiction	True
+QT30_285	'I'm not taking issue with what was just said', 'Jeremy Corbyn was really demonised'	non-contradiction	contradiction	False
+QT30_286	'When he's interviewed he's asked about his clothes, ties, glasses', 'are not relevant to politics'	non-contradiction	contradiction	False
+QT30_287	'it is the first evidence that it is a vaccine vaccine-preventible disease', 'that doesn't mean it is going to be the only vaccine'	non-contradiction	non-contradiction	True
+QT30_288	'Right now we have to work as if this is the only vaccine that's going to work', 'we could have a different conversation in four weeks' time'	non-contradiction	contradiction	False
+QT30_289	'If you start vaccinating in January, given that it takes 5 to 6 weeks to get immunity, and you did a million people a week, we wouldn't get that 10 million vaccinated until way into April', 'that's assuming everybody comes in for their first shot and for their second shot and you are not playing catch-up'	non-contradiction	contradiction	False
+QT30_291	' that's great', 'it is clear it is for those businesses that have to close'	non-contradiction	non-contradiction	True
+QT30_292	'which is good', 'There is no support for us'	non-contradiction	contradiction	False
+QT30_293	'because the reality is also that throughout all of the Brexit debate what was very clear was the fact of the about the was very much on an English agenda', 'not in the best interests of the people who live here'	non-contradiction	non-contradiction	True
+QT30_294	'but crucially protects the Good Friday Agreement', 'I have to say that time and time again I'm no longer astonished in terms of the British government to owe who have tried to run roughshod over the Good Friday Agreement'	contradiction	non-contradiction	False
+QT30_295	'I would love to see the passports used', 'I don't want to force anybody to have a vaccine'	contradiction	non-contradiction	False
+QT30_296	'I have lots of empathy with business owners who would like this to enable their customers to feel safe', 'there's a sting in the tail for workers here, particularly in terms of hospitality and getting people back in'	non-contradiction	non-contradiction	True
+QT30_297	'I work in healthcare and I encourage every patient I meet to get their COVID vaccine', 'the idea of a passport is ethically unacceptable'	non-contradiction	contradiction	False
+QT30_298	'The reality is we're going to vaccinate our population', 'we also need to see the balance that Nigel's referred to'	non-contradiction	contradiction	False
+QT30_300	'The young people are hungry for this', 'The barrier to them throwing themselves into all of this activity is the government itself'	non-contradiction	contradiction	False
+QT30_301	'They are choosing bricks', ' It should be children as well'	contradiction	contradiction	True
+QT30_302	'I don't watch a lot of sport', 'I do watch athletics quite a lot'	contradiction	contradiction	True
+QT30_303	'There are always ways of getting around that kind of thing', 'if you're a very poor woman with children, living alone, with no resources, and no knowledge of how to argue these things and where to find help'	contradiction	contradiction	True
+QT30_304	'I've been in a position where myself and my daughter were effectively homeless and it is a really horrible place to be', 'being in that situation is like nothing that I would wish on my worst enemy'	non-contradiction	non-contradiction	True
+QT30_305	'All that we can do in this situation is try our best to use the best knowledge that we have from the most knowledgeable people and make some sort of estimate about it', 'as complete amateurs, with no modelling, sticking our oar in to say what we think should happen without any idea whether that's an idea at the expense of people potentially dying'	contradiction	contradiction	True
+QT30_306	'which they keep referring to as a huge success', 'that's a distraction from what's going on'	non-contradiction	contradiction	False
+QT30_307	'the message coming out from the government will be we are back to normal', 'I don't think we are back to normal'	contradiction	contradiction	True
+QT30_308	' It is the idea that the workers are going to put down the tools in the factory', 'They're not working with tools in factories any more'	contradiction	contradiction	True
+QT30_309	'up until then, you know the Prime Minister had a really good kind of you know, what he said made sense', 'At that point, I was like hold on a second, again, we are being mocked in Parliament'	contradiction	contradiction	True
+QT30_310	'Domestic violence against men with women is high compared and obviously, men against women is high', 'domestic violence against man with a woman and the only difference is a man doesn't report it as much as a woman does'	contradiction	contradiction	True
+QT30_311	'I have to give the money back now because I earn too much', 'I don't earn too much'	contradiction	contradiction	True
+QT30_312	'all the packages from the chancellor are fine', 'While the packages are better than nothing, they're not enough'	contradiction	contradiction	True
+QT30_313	'There is an independent review of whether or not the first minister broke the code of conduct', ' I believe her'	contradiction	contradiction	True
+QT30_314	'You cannot change the game when you are playing the game', 'that seems to be an attempt here to do that'	contradiction	non-contradiction	False
+QT30_315	'The perspective that is looked on in politicians, I don't think, actually, is often worked through at what cost they're doing some parts of their job', 'clearly, there was a case to be answered'	non-contradiction	contradiction	False
+QT30_316	'There may be an argument to say look again at this process', 'the idea that you would do that under a live case is just -- it is just unacceptable'	non-contradiction	contradiction	False
+QT30_317	'The last thing I wanted to say to Tim was about this being a case of Boris Johnson showing decency', 'there is a case that Boris Johnson was thinking about his own skin'	non-contradiction	contradiction	False
+QT30_318	'The leaders didn't have support', 'I'm feeling positive about COP, actually'	non-contradiction	contradiction	False
+QT30_319	'I was invited', 'I couldn't get a dog sitter'	non-contradiction	contradiction	False
+QT30_320	'I'm five minutes from where things are happening', 'I find a reason not to be in the room'	non-contradiction	contradiction	False
+QT30_321	'He was being paid for that', 'You don't need to be paid in order to be a whistle-blower'	contradiction	contradiction	True
+QT30_322	'Our democratic system has a series of checks and balances', 'at the moment we have a government to whom they feel the law doesn't apply to them'	contradiction	contradiction	True
+QT30_323	'He's a nice man therefore it doesn't count', 'That's not true'	non-contradiction	contradiction	False
+QT30_324	'It might not be the true', 'that's what it is in the general public's mind'	non-contradiction	contradiction	False
+QT30_325	'I'm optimistic', 'There's plenty more to be done, clearly'	non-contradiction	contradiction	False
+QT30_326	'a few weeks ago we were talking about the importance of remembering that MPs are human beings', 'It doesn't mean they should be let off things'	contradiction	non-contradiction	False
+QT30_327	'in that world with, yes, the small steps forward are welcome', 'there are big questions about how the deforestation agreement will be enforced'	non-contradiction	contradiction	False
+QT30_328	'Of course people need to be able to change', 'most of us don't have sufficient insulation'	non-contradiction	non-contradiction	True
+QT30_329	' So in the long run it will be great', 'But in the short term there is a cost'	non-contradiction	contradiction	False
+QT30_330	'The cost to the consumer, the general public', 'what about the actual politicians that are attending this conference'	non-contradiction	contradiction	False
+QT30_331	'fish gotta swim and the rich got to fly', 'they are trying to persuade us, ordinary people, to adjust our lifestyles to meet their ambitions'	non-contradiction	contradiction	False
+QT30_332	'They tend to take the safe route or the easy way out or to keep silent', 'That's not acceptable, in my opinion, when it gets to these fundamental issues of dignity and respect, equity, compassion, that really are at the roots of making humanity function'	non-contradiction	contradiction	False
+QT30_333	'In 2014, the International Energy Agency was saying the electric vehicles would be at the same cost as the combustion engine by 2050', 'We're getting to that in 2024/25'	contradiction	contradiction	True
+QT30_334	'I would love an electric car', 'I don't want to suffer right now with juice anxiety'	non-contradiction	contradiction	False
+QT30_335	'we all tomorrow ran out and bought an electric car', 'we couldn't afford to do'	contradiction	contradiction	True
+QT30_336	' Let's take the heat pumps, £5,000 subsidy grant towards putting them in', 'you don't have to put them in now'	contradiction	contradiction	True
+QT30_337	'are the ones pushing the government now to the higher ambitions that we absolutely need', 'the proof of the pudding is in the eating'	non-contradiction	non-contradiction	True
+QT30_338	'Was it because of Mr Paterson', 'is it because the process needs review'	contradiction	contradiction	True
+QT30_339	'It was always hugely offensive', 'People use it all the time'	contradiction	non-contradiction	False
+QT30_340	'There's no possible explanation for it', 'I'm not astonished the language is being used'	contradiction	contradiction	True
+QT30_341	'I'm glad action is being taken', 'we need to do more'	contradiction	non-contradiction	False
+QT30_342	'It is not sexy talking about insulating your loft', 'that is the sort of things people need to do'	contradiction	non-contradiction	False
+QT30_343	'Being in Eastleigh we're close to an airport and a station which have fantastic ability to get anywhere', 'I wanted to go to Edinburgh'	non-contradiction	contradiction	False
+QT30_344	'I want to drive to be green', 'that choice is taken away from me'	non-contradiction	non-contradiction	True
+QT30_345	'The same is I would love to have an electric car', 'I live in a terraced house'	non-contradiction	non-contradiction	True
+QT30_346	'I can't get there for £30 on a flight', 'If I used the train'	non-contradiction	contradiction	False
+QT30_347	'You're not head of Unilever anymore', 'I know you talked a lot about corporate responsibility'	non-contradiction	contradiction	False
+QT30_348	'we agreed on a review of that now every two years', 'the emerging markets are asking for an annual review'	contradiction	contradiction	True
+QT30_349	'some of those companies are behaving well', 'once they get out of Europe, away from the media, where there are governments that can't or don't regulate or whatever it is, and those companies in those countries are behaving in a blatantly irresponsible way'	contradiction	contradiction	True
+QT30_350	'to demonstrate that taking sensible small steps, like wearing masks in crowded places, can have a big difference', 'the biggest difference is getting the vaccine'	contradiction	non-contradiction	False
+QT30_351	'Some of our staff still aren't vaccinated because of our age', 'we are frontline, kind of'	contradiction	non-contradiction	False
+QT30_352	'why women have to be fearful of what they're actually…where they're going', 'it's the perpetrators and the focus should be on them and on educating them'	non-contradiction	contradiction	False
+QT30_353	'one, legislation is really important', 'it's never enough'	contradiction	contradiction	True
+QT30_354	'You can have the legislation', 'there are two other things you need'	non-contradiction	contradiction	False
+QT30_355	'they've chosen to study in Scotland', 'they can't actually come to class'	non-contradiction	contradiction	False
+QT30_356	'I'm sitting here in a room with 60 people in a university lecture theatre', 'I'm not allowed to do that at the moment, actually, at work'	contradiction	contradiction	True
+QT30_357	'unlike in England', 'we are not allowed to teach people in larger groups yet, even with social distancing'	non-contradiction	non-contradiction	True
+QT30_358	'why on something as basic as wearing masks', 'it's not particularly onerous'	non-contradiction	contradiction	False
+QT30_359	'it's not particularly onerous', 'It's not the most pleasant of things'	contradiction	non-contradiction	False
+QT30_360	'they should get everything thrown at them that we can throw at them in this country', 'yes, we need an education shift'	non-contradiction	contradiction	False
+QT30_361	'but we didn't include the largest hate crime, which is sexism and misogyny in that Hate Crime bill', 'which I think was an absolute failure'	non-contradiction	contradiction	False
+QT30_362	'the answer to this is women thinking about how they change their behaviour', 'frankly that's wrong'	non-contradiction	contradiction	False
+QT30_363	'We were sincerely hoping that the UK government would invest the billion pounds that had been promised', 'instead that money is going to projects in England'	non-contradiction	non-contradiction	True
+QT30_364	' I've paid my dues', 'I've come here from the Netherlands'	non-contradiction	contradiction	False
+QT30_365	'the online stuff, they're trying really hard', 'it's not cutting it'	non-contradiction	contradiction	False
+QT30_366	'it's the Conservative Government in London that is investing £16 billion in the transition fund to move us into this new renewables future', 'Not in the North East'	non-contradiction	contradiction	False
+QT30_367	'Not in the North East', 'in the North East of Scotland'	non-contradiction	contradiction	False
+QT30_368	'in terms of carbon capture and storage in the Scottish Cluster, in the Acorn project, of course it was disappointing that it didn't achieve tier one status', 'it is a reserve cluster'	contradiction	contradiction	True
+QT30_369	'the Conservative Party is investing and does care about the North East of Scotland', 'the Scottish National Party Government in Edinburgh'	non-contradiction	non-contradiction	True
+QT30_370	'The UK government should be doing more in terms of that carbon capture project in the North East', 'the Scottish Government can be doing more'	non-contradiction	contradiction	False
+QT30_371	'The Scottish Government promised that we would have 130,000 green jobs by 2020', 'we've actually only created 21,400 green jobs in Scotland with the powers that we already have'	contradiction	contradiction	True
+QT30_372	'I would be so proud for there to be an independent Scotland', 'there's only one thing that I kind of sigh about when it comes to the Scottish Government as it is'	contradiction	contradiction	True
+QT30_373	'animal agriculture is the second biggest cause of climate change, before transport', 'has the UK government ignored it'	non-contradiction	contradiction	False
+QT30_374	'animal agriculture is the second biggest cause of climate change, before transport', 'Scottish Government is continuing with that'	contradiction	contradiction	True
+QT30_375	'every politicians does have family scrutinised, criticised, hold politicians accountable, do all of that, that's a life bud of our democracy', 'don't dehumanise to the lengths that some might'	non-contradiction	contradiction	False
+QT30_376	'he starts hitting us with all this thing about we've invested £132 billion, £125 billion', 'nobody can check all these figures'	non-contradiction	non-contradiction	True
+QT30_377	'recognising that our politicians are there to serve the people and be accessible to the people', 'not be separate from the people'	non-contradiction	contradiction	False
+QT30_378	'I don't think there is any politician, I can't think of any, who haven't had to face threatening behaviour, who haven't been subject to intimidating threats', 'the challenge for all of us is that the worst atrocities start somewhere'	non-contradiction	contradiction	False
+QT30_379	'The protection should be there if a member of parliament feels that they require it or that their staff should require it', 'we've got to be very careful to balance that with keeping the so very important aspect, almost unique in our democracy, which is the openness and accessibility of elected representatives to their constituents'	non-contradiction	contradiction	False
+QT30_380	'we got a tax hike on working people to pay not for social care', 'the hole they have left in the National Health Service budget'	contradiction	contradiction	True
+QT30_381	'We heard Boris say    build back better, levelling up, high skills, high wages', 'my fear is it is the poorest and most vulnerable who will be left behind after all those soundbites'	non-contradiction	contradiction	False
+QT30_383	'we announced as we arrived in Manchester, £0.5 billion for exactly those people', 'Why aren't they getting it'	non-contradiction	contradiction	False
+QT30_384	'He was able to excite everyone with his slogans', 'but when you listen to what he said, he said nothing'	contradiction	contradiction	True
+QT30_385	'if, as you promise, 1 day, workers in this country will have higher wages', 'we find ourselves in a situation, almost I believe of a mirror of what we saw with the truck drivers'	non-contradiction	contradiction	False
+QT30_386	'butchers are on £15 an hour', 'we've got a shortage'	non-contradiction	contradiction	False
+QT30_387	'That they thought it was the right thing', 'you didn't'	non-contradiction	contradiction	False
+QT30_388	'The largest group voted Conservative here', 'yet this is what you're hearing'	non-contradiction	contradiction	False
+QT30_389	' you can list the pollees', ' people don't seem to be hearing it'	contradiction	non-contradiction	False
+QT30_390	"'It has to be resolved', 'unless we are saying to these farmers ""We don't want a pig industry in this country""'"	non-contradiction	non-contradiction	True
+QT30_391	'I believe Steve Barkley who is charged with saving Christmas yet again is doing everything he can', 'we haven't got this over the line'	non-contradiction	contradiction	False
+QT30_392	'I haven't been able to get to see either Kevin Foster or Priti Patel in the Home Office', 'it doesn't end there'	non-contradiction	non-contradiction	True
+QT30_393	'We have seen hundreds of thousands of pounds worth of tomatoes wasted', 'these sectors are worth a lot to our economy'	non-contradiction	non-contradiction	True
+QT30_394	'We have seen a daffodil harvest that didn't happen', 'these sectors are worth a lot to our economy'	non-contradiction	non-contradiction	True
+QT30_395	'of sexually assaulting her three times in the States when she was underage there, which was 17', 'Prince Andrew denies it'	non-contradiction	contradiction	False
+QT30_396	'I dealt with the issue around the visas on the abattoirs', 'the temporary visas is not enough'	non-contradiction	contradiction	False
+QT30_397	'they could switch to being able to work in the abattoirs', 'they have to go home in order to reapply, in order to come back'	non-contradiction	non-contradiction	True
+QT30_398	'the Government could take some steps right now that would ease the problem', 'the only way that you fix this problem is to improve conditions in the industry'	contradiction	contradiction	True
+QT30_399	'I know it is about Prince Andrew', 'but it is a wider question'	non-contradiction	non-contradiction	True
+QT30_400	'Maybe it is the conditions', 'it is a lot of people now don't want to cut up meat'	non-contradiction	contradiction	False
+QT30_401	'I don't know how long it takes to train a butcher', 'there has been no plans for training butchers at all'	contradiction	contradiction	True
+QT30_402	'the problem here is the elephant in the room and nobody wants to admit to it in the Government is Brexit', 'nobody wants to admit to it in the Government'	non-contradiction	contradiction	False
+QT30_403	'They have had 5 years to prepare for it', 'there was no plan'	non-contradiction	contradiction	False
+QT30_404	'from a seasonal worker prospective, if we're trying to employ people to come from abroad, why would you come abroad with temporary restrictions such as you can stay here for 2 months and help us out', 'if we're trying to employ people to come from abroad'	contradiction	non-contradiction	False
+QT30_405	'if we're trying to employ people to come from abroad', 'we don't want you after that'	non-contradiction	contradiction	False
+QT30_406	'right now there is a government inquiry and a Met inquiry', 'I don't feel as a woman that either care about safety'	contradiction	contradiction	True
+QT30_407	'It really needs resolving and resolving as soon as possible', 'It is hard to see how it will be resolved'	non-contradiction	contradiction	False
+QT30_408	'We are looking at the society of Victoria, which is important', 'it isn't encouraging conversation on what's going on now'	non-contradiction	contradiction	False
+QT30_409	'we need to give money to the police', 'we need to solve the fundamental sickness in society that men have'	non-contradiction	non-contradiction	True
+QT30_410	'you say you would do all of these things', 'the effective tax raise on people under the system for universal credit was 90 per cent'	non-contradiction	contradiction	False
+QT30_411	'that's the only reason why they don't give it', 'I don't know why they don't give it'	contradiction	contradiction	True
+QT30_412	'We expect a certain amount of moral standing with politicians in one sense', ' in another, we don't'	non-contradiction	contradiction	False
+QT30_413	'It's a strange situation because we know that there are back-handers going on', ' I'm not aware of all the backhanders that go on'	contradiction	contradiction	True
+QT30_414	'there are choices to make', 'the government can't wait until the next election to have to make choices'	non-contradiction	non-contradiction	True
+QT30_415	'you've mentioned quite a few initiatives that you're doing', 'it's not working'	non-contradiction	contradiction	False
+QT30_416	'you certainly have listed a whole load of initiatives', 'you hear people say, well, so what?'	non-contradiction	contradiction	False
+QT30_417	'we are stock building now for Christmas', 'our deliveries are going down at exactly the wrong time when they need to go up'	contradiction	contradiction	True
+QT30_418	'Europe has its own issues with HGV drivers', 'of course it's a bigger pool to fish from'	non-contradiction	non-contradiction	True
+QT30_419	'what we need to see for a just in time supply chain is some long term planning', 'unfortunately we've got a just in time government'	contradiction	contradiction	True
+QT30_420	'In the olden days, they used to be able to take their wives with them', 'now, you know, that's not allowed for insurance and things like that'	non-contradiction	non-contradiction	True
+QT30_421	'I understand that the government need to recruit more HGV drivers', 'I'm really concerned that they seem to be making the licences easier to get'	non-contradiction	non-contradiction	True
+QT30_422	'that was actually the solution', 'I don't rule out anything'	non-contradiction	contradiction	False
+QT30_423	'I've opened up tests', 'The main problem though is the tests couldn't be run because of coronavirus'	contradiction	contradiction	True
+QT30_424	'we now can't get any tests until December in the south of England', ' No, that is a thing which we're improving'	non-contradiction	non-contradiction	True
+QT30_425	'You promised that immigration would come down', 'you know that it will need to go up if we're to deal with these problems'	non-contradiction	contradiction	False
+QT30_426	'there are lots of problems with it', 'the flipside of it is that wages are going up'	non-contradiction	contradiction	False
+QT30_427	'it might be inconvenient', 'actually it's the right thing to do'	non-contradiction	non-contradiction	True
+QT30_428	'It's inconvenient and it's not the best way', 'they wouldn't have to take those actions'	non-contradiction	contradiction	False
+QT30_429	'there's room also for civil disobedience', 'some of what we've seen is actually not commanding the support of the public'	non-contradiction	non-contradiction	True
+QT30_430	'the whole point of protest is to command the support of the public', 'that's clearly not happening'	non-contradiction	contradiction	False
+QT30_431	'Boris Johnson today is talking about a turning point for humanity', 'he's referencing Kermit the frog'	non-contradiction	contradiction	False
+QT30_432	'blocking a road is the right way to go about things', 'the more restrictions you put on people's rights to protest, the more of a sort of state we're becoming where if you want to speak out, if you want to make your feelings heard'	non-contradiction	contradiction	False
+QT30_433	'I don't support that', 'the more restrictions we put, it's like where does it end'	non-contradiction	contradiction	False
+QT30_434	'they're right in that', 'the way that they're doing it just really making people's days really bad and horrible'	non-contradiction	contradiction	False
+QT30_435	'Most of us agree with what they're about', 'not the way they're doing it'	non-contradiction	contradiction	False
+QT30_436	'you might not like all their policies by any means', 'their voting base is in agreement that we want to make this a greener world'	non-contradiction	contradiction	False
+QT30_437	'we want to tackle climate change', 'you're not winning people over and you're not helping the cause'	non-contradiction	contradiction	False
+QT30_438	'protecting those very sacred rights', 'this isn't normal protest'	non-contradiction	non-contradiction	True
+QT30_439	'Absolutely', 'it's important to say, I don't agree with the means at all'	non-contradiction	contradiction	False
+QT30_440	'it's important to say, I don't agree with the means at all', 'The cause I do agree with'	non-contradiction	contradiction	False
+QT30_441	'energy bills are going up', 'apart from the fact that global prices have gone up'	non-contradiction	non-contradiction	True
+QT30_442	'I absolutely agree with their aims', 'I don't agree with the means'	non-contradiction	contradiction	False
+QT30_443	'I think any rational person would agree with their cause', 'any rational person would disagree with their methods'	contradiction	contradiction	True
+QT30_444	'they'd like to insulate homes by 2035', 'that's a lot of dough'	non-contradiction	non-contradiction	True
+QT30_445	'we might applaud their end goal', ' I don't think it's fair to say that any rational person thinks that we should just adopt their policies overnight'	non-contradiction	contradiction	False
+QT30_446	'both the other politicians on the panel have mentioned the police already having the powers', 'That was evidently not the case'	non-contradiction	contradiction	False
+QT30_447	'supporting the Police and Crime Bill would actually hope folks', 'neither of these guys are doing that'	non-contradiction	contradiction	False
+QT30_448	'NHS England changed their guidance in May', 'then actually GPs just carried on doing it remotely anyway'	non-contradiction	contradiction	False
+QT30_449	'it's important that people can see their GP face to face', 'that's not going to solve the problem'	non-contradiction	contradiction	False
+QT30_451	'it's great that now we can use remote contact with GPs to get a new prescription or deal with something very small', 'that isn't really the point here'	non-contradiction	contradiction	False
+QT30_452	'The Conservative government has been talking…has had at least two go's at recruiting more GPs', 'we have fewer GPs now than we had in 2015'	non-contradiction	contradiction	False
+QT30_453	'Government should be getting on with the crisis or we are distracted', 'we need both'	non-contradiction	contradiction	False
+QT30_455	'we know the extent of the cladding that isn't fit for purpose', 'it is more than that'	non-contradiction	contradiction	False
+QT30_456	'It should predominantly be the contractors', 'the planning departments and safety departments that pass these off'	contradiction	non-contradiction	False
+QT30_457	'I understand this does offer some relief', 'evidently it does not resolve the problem'	contradiction	contradiction	True
+QT30_458	'It is both the morally right thing to do, and also a self-interested thing to do to make sure that we get this parallel roll-out', 'at the moment the UK Government has not yet committed to sending vaccines to India'	non-contradiction	non-contradiction	True
+QT30_459	'There's a debate about excess stock', 'We believe the real answer lies in not fighting about the pieces of the vaccine pie'	contradiction	non-contradiction	False
+QT30_460	'We believe the real answer lies in not fighting about the pieces of the vaccine pie', 'making the pie bigger'	non-contradiction	contradiction	False
+QT30_461	'Do both', 'the substantial difference is going to be made when we allow other manufacturers, countries, to safely manufacturer these vaccines'	non-contradiction	contradiction	False
+QT30_462	' in the world trade organisation negotiation so far, our Government has blocked those sorts of moves', 'the Oxford AstraZeneca vaccine is 97% funded by us, the public, the taxpayers'	non-contradiction	contradiction	False
+QT30_463	'I don't know if there's a vaccine that we could use', 'there could be a vaccine'	contradiction	non-contradiction	False
+QT30_464	'I'm pleased that the Government have done something', 'We do need to do a lot more'	contradiction	contradiction	True
+QT30_465	'we are trying to convince ourselves as a nation we have to do this to protect ourselves', 'We have to do this to protect thousands upon thousands of people dying every day in India'	contradiction	contradiction	True
+QT30_466	'This is awful', 'I generally trust our carers, our health system to try to judge that you know, the clinical needs and the risks with the patient care, and the family interests'	non-contradiction	non-contradiction	True
+QT30_467	'it's difficult', 'we have to trust that they are making the decisions in the best interests of people in their care'	non-contradiction	non-contradiction	True
+QT30_468	'A terrible thing to say', 'that's how some people have expressed it'	non-contradiction	non-contradiction	True
+QT30_469	'that there was a real need to degrade the capability of Al-Qaeda', 'those decisions were flawed in that there was no real understanding of the complexity of what then had to come next'	non-contradiction	contradiction	False
+QT30_470	'We were always told that Afghanistan was the good war', 'Afghanistan had its own share of lies'	non-contradiction	contradiction	False
+QT30_471	' a Western white version of democracy', 'the social, cultural, historical values bring forward a very different way of society working'	non-contradiction	non-contradiction	True
+QT30_472	'Up until Monday morning the Home Office's official guidance said they could be returned to Kabul safely', 'which I find absurd'	non-contradiction	contradiction	False
+QT30_473	'The Home Office said they're on a pause', 'Don't pause it'	non-contradiction	non-contradiction	True
+QT30_474	'Rory made a dig about me not thinking things haven't improved', 'I'm not denying things haven't improved in many areas over 20 years'	contradiction	contradiction	True
+QT30_475	'I've tabled a number of urgent questions to drag the Foreign Secretary to the House of Commons in order to answer questions about this', 'they've never been granted'	non-contradiction	contradiction	False
+QT30_476	'yes, it was', 'guess who is in charge of Afghanistan today, even more powerful and involved than before'	non-contradiction	contradiction	False
+QT30_477	'the whole thing with Afghanistan was doomed from the start, it was a total catastrophe, no good came out of it', 'Stop putting words in my mouth'	non-contradiction	contradiction	False
+QT30_478	'it was a disaster', 'it was brilliant'	contradiction	contradiction	True
+QT30_479	'President Biden believes by leaving he's ending the forever wars, ending the global war on terror', 'What he's just done is to to do something similar to what happened in Syria in 2013/14'	non-contradiction	non-contradiction	True
+QT30_480	'Ten days ago, the idea of talking to the Taliban was utterly unimaginable', 'Today, whether you want to do it via Qatar, or via the UAE, you have to directly or indirectly engage with them'	non-contradiction	contradiction	False
+QT30_481	'War is terror', 'It is the most nonsensical thing I've heard in my life'	non-contradiction	contradiction	False
+QT30_482	'If they were right', 'which I dispute'	non-contradiction	contradiction	False
+QT30_483	'they are complaining they haven't got their licences', 'they knew they had to get the licences in January'	non-contradiction	contradiction	False
+QT30_484	'It is childish', 'the public of both countries would like both leaders to be grown up'	non-contradiction	contradiction	False
+QT30_485	'we are going to make progress', 'we don't do it by picking juvenile fights not just with one country but with the entirety of the European Union'	non-contradiction	contradiction	False
+QT30_486	'Yes, that is a shock', 'It isn't really a shock to me'	contradiction	contradiction	True
+QT30_487	'In December 2019 people said they wanted to get Brexit done,', ' I happen to think it is the most colossal foreign Policy blunder in the post-war period'	non-contradiction	contradiction	False
+QT30_488	'after an unexplained two-week delay from the court, the judgment was that it was academic', 'it's absolutely not academic for the 3 million people who work in hospitality'	contradiction	contradiction	True
+QT30_489	'The government said it would be driven by data not dates', 'The next day opening up in England is 17 May'	non-contradiction	contradiction	False
+QT30_490	'the Prime Minister said that the Northern Ireland protocol was ingenious and would not result in checks or barriers or border', 'that's what we are seeing and in effect there is a border down the Irish Sea'	contradiction	contradiction	True
+QT30_491	'They probably have the legal right to open every packet and inspect every sausage', 'Is that reasonable?'	non-contradiction	non-contradiction	True
+QT30_492	'They probably have the legal right to open every packet and inspect every sausage', 'Is that necessary?'	non-contradiction	contradiction	False
+QT30_493	'we didn't understand what we were signing', 'I didn't say that'	non-contradiction	contradiction	False
+QT30_494	'Northern Ireland wasn't my biggest concern when I voted to leave the EU', ' it is something that is becoming a bit of a dog's dinner'	non-contradiction	non-contradiction	True
+QT30_495	'Neither of those things are true', 'they are deliberately at a different level which is something I found interesting when I started to work in politics as opposed to business'	non-contradiction	contradiction	False
+QT30_496	'it would have reduced anyway due to the pandemic', 'the Government have decided to reduce the percentage as well'	non-contradiction	non-contradiction	True
+QT30_497	' everything the Government does is correct', 'No, it's not'	non-contradiction	contradiction	False
+QT30_498	'Pounds after pounds and euros after euros and dollars after dollars are going into this pot', 'all we're saying is more needs to be delivered. More needs to be delivered'	non-contradiction	contradiction	False
+QT30_499	'if you disagree with taking the knee you're seen to be racist', 'You might not be racist whatsoever'	contradiction	non-contradiction	False
+QT30_500	'I understand why', 'I do think it is starting to reduce the effect it had in the first place'	non-contradiction	contradiction	False
+QT30_501	'Racism must not be tolerated in society at all', 'we have got to change the mindset of people'	non-contradiction	non-contradiction	True
+QT30_502	'we're re-enacting the situation that George found himself at the end of his life', 'I'm not sure we should be replicating'	contradiction	non-contradiction	False
+QT30_503	'for those who are vaccinated, the link between hospitalisations and deaths has been reduced', 'it's not been severed'	non-contradiction	contradiction	False
+QT30_504	'many of those people who get the virus today, tomorrow, next week even if they don't end up in hospital', 'some of them will'	non-contradiction	contradiction	False
+QT30_505	'The Government is insisting rules were followed at the G7', 'The pictures were there'	non-contradiction	non-contradiction	True
+QT30_506	'Denmark supporters can go', 'Welsh supporters can't go'	non-contradiction	contradiction	False
+QT30_507	'250,000 children missed school last week because of Covid-related stuff', 'The vast majority of them have not got Covid'	contradiction	non-contradiction	False
+QT30_508	'The vaccination programme has really done a fantastic job in reducing deaths', 'there are 20-30-year-olds who are getting the disease'	non-contradiction	non-contradiction	True
+QT30_509	'The vaccination programme has really done a fantastic job in reducing deaths', 'it's going to teenagers, and it will go round'	non-contradiction	non-contradiction	True
+QT30_510	'the stats Victor pointed out we have very serious problems about waiting lists', 'in terms of capacity, this isn't particularly abnormal for the NHS'	non-contradiction	contradiction	False
+QT30_511	'they are buying into the idea that's what Britain looks like', 'we know on a day-to-day basis unfortunately for many people it doesn't'	non-contradiction	contradiction	False
+QT30_512	'I know people want to get off', 'we can't afford to take the chance either way'	non-contradiction	contradiction	False
+QT30_513	'The Government has announced a new crime bill and included tougher sentencing for rape, convictions', 'it's pointless'	non-contradiction	contradiction	False
+QT30_514	'It's a deterrent', 'there's no deterrent there if it's a 2, 3, 4% of cases'	contradiction	contradiction	True
+QT30_515	'I'm sure people appreciate the apology that you have made', 'the test of that apology and whether that apology carries weight is what are you going to do to turn around this absolutely awful record'	contradiction	contradiction	True
+QT30_516	'the Prime Minister's comments were clumsy', 'it would be a bad assessment to assume he was trying to make a direct link to the conversation that had been happening previously'	non-contradiction	non-contradiction	True
+QT30_517	'It's hyper bolly to say rape has been decriminalised', 'it remains one of the most heinous crimes'	non-contradiction	contradiction	False
+QT30_518	'we have slipped into the notion that food banks are part of the landscape now', 'that's a good idea'	non-contradiction	non-contradiction	True
+QT30_519	'I'm glad the Government is beginning to look at it', 'It needs to be in the context of the overall food strategy'	non-contradiction	non-contradiction	True
+QT30_520	'it's target isn't ambitious or it is a long way off', 'It does matter'	non-contradiction	contradiction	False
+QT30_521	'It does matter', 'of course, it would be better if it were sooner'	contradiction	contradiction	True
+QT30_522	'it was made a priority to look after women and gendered violence', 'it's not been done'	contradiction	contradiction	True
+QT30_523	'folk behave in a certain kind of way after drinks or what have you', 'I find it extraordinary'	non-contradiction	non-contradiction	True
+QT30_524	'we know they're under high likelihood of being targeted for reprisals', 'what we don't want to do is see that happen here on the streets of the UK'	non-contradiction	non-contradiction	True
+QT30_525	'I don't want to get soppy about it because the death falling from the skies falling from an aeroplane are still real', 'it's a bittersweet thing'	non-contradiction	contradiction	False
+QT30_526	'that the Afghan government had the resilience to hold out', 'That clearly was completely and utterly wrong'	non-contradiction	contradiction	False
+QT30_527	'Starve them out', 'There is a Covid pandemic'	non-contradiction	non-contradiction	True
+QT30_528	'That's an appeal for me', 'as opposed to our current Prime Minister'	non-contradiction	non-contradiction	True
+QT30_529	'Keir Starmer, yes, please', 'I would love to see more from him on Black Lives Matter'	non-contradiction	contradiction	False
+QT30_530	'I would love to see more from him on really going out and being in opposition', 'I value that he doesn't oppose things that shouldn't be opposed just for the sake of opposing them'	contradiction	contradiction	True
+QT30_531	'35 million have had their first jab', 'there are 18 million adults in the country that's going to take more weeks'	non-contradiction	contradiction	False
+QT30_532	'therefore I can well understand, Robert, why you are fighting shy of a full public inquiry', 'a full public inquiry there should be'	non-contradiction	contradiction	False
+QT30_533	'if we are to follow the data', 'not the dates'	non-contradiction	contradiction	False
+QT30_534	'there's really good reason at the moment looking at the data as it is', 'we know things could change'	non-contradiction	non-contradiction	True
+QT30_535	'the idea of the NHS being overwhelmed is deeply frightening', 'It's looking really positive and I think we should be quite cheerful about that'	contradiction	contradiction	True
+QT30_536	'there's evidence that actually it will', 'we do need to do a lot more than just ban junk food ads after 9'	non-contradiction	contradiction	False
+QT30_537	'death rates should be much, much lower', 'many people could end up in hospital'	contradiction	contradiction	True
+QT30_538	'I'm not sure what Paul Scully Paul Scully will think of it', 'vote for it'	non-contradiction	contradiction	False
+QT30_539	'We haven't closed a single store, we haven't missed a single delivery', 'now we're having to do so'	contradiction	contradiction	True
+QT30_540	'at that time it drove many establishment changes', 'it evidently did not drive enough'	contradiction	non-contradiction	False
+QT30_541	'we have to go forward', 'we still must be careful'	contradiction	contradiction	True
+QT30_542	'There may be less people in hospital with COVID these days', 'there are still people suffering from long COVID, which is a really serious illness'	non-contradiction	non-contradiction	True
+QT30_543	'It is a conversation that I honestly never thought would needed to be had in my lifetime', 'I'm pretty sure it now will be'	non-contradiction	contradiction	False
+QT30_544	'Huge debates about the future of Northern Ireland have been had in Westminster', 'I think a lot of people in Northern Ireland would feel that they are treated as an afterthought in Westminster at times and, at worst, a political football'	contradiction	contradiction	True
+QT30_545	'It happens', 'it's a much smaller risk'	contradiction	contradiction	True
+QT30_546	' I think we should be transitioning to that system', 'on this red, amber, green'	non-contradiction	non-contradiction	True
+QT30_547	'I would be happy to do that', 'The problem is that would be putting me ahead of the queue in terms of clinical need'	non-contradiction	contradiction	False
+QT30_548	'Quite a lot', 'not unanimous'	non-contradiction	contradiction	False
+QT30_549	'We have done a disservice by saying it takes ten years to make a vaccine', 'Technology is changing very, very quickly'	contradiction	contradiction	True
+QT30_550	'I'm not trying to pigeon-hole you here', 'in a sense you are the obvious person'	contradiction	contradiction	True
+QT30_551	'this groundbreaking Disability Act', '25 years on and whenever I walk in the street alone, I wear headphones because of how I walk and I talk'	non-contradiction	contradiction	False
+QT30_552	'I was going to say that disabled people are overlooked', 'they're not'	contradiction	contradiction	True
+QT30_553	'This lack of resilience has made it increasingly difficult.', 'But what we have seen is that local authority, when they have been able to go about track and trace, have actually been doing far better than the Serco and others on who the government is spending 12 billion.'	non-contradiction	contradiction	False
+QT30_554	'the language of U-turns and all of these kind of brick bats that we throw at politicians often means that we just don't get to the right answer', 'what's important is we get to the right answer'	contradiction	non-contradiction	False
+QT30_555	'the campaign that Marcus Rashford led was really inspirational', 'it shouldn't take a brave young footballer to shame the government into action'	non-contradiction	contradiction	False
+QT30_556	'the test and trace system clearly isn't up and running properly', 'we need to be testing, tracing and isolating every single case to keep people safe'	contradiction	contradiction	True
+QT30_557	'Matt Hancock and Baroness Harding said today that they've backed both horses of the Google and the android model and the NHS app', 'they've always insisted until this point that they were only going to pursue the NHS app'	contradiction	contradiction	True
+QT30_558	'it's about having a functioning public health infrastructure that is able to deal with local outbreaks locally', 'the government has chosen to centralise and use a private company, Cerco, to take the lead on this'	contradiction	contradiction	True
+QT30_559	'the government are trying to make it seem that they're trying to do the best job possible', 'when it comes to reality they might cover up and not pretend that they've done anything wrong'	contradiction	non-contradiction	False
+QT30_560	'we had an outbreak during the shoot over in Belfast when there was the test and trace system originally, the containment phase, and we were able to deal with that and we were able to carry on uninterrupted', 'towards the end of the shoot that got curtailed, we had another outbreak and I was quite surprised to learn that we weren't able to do testing and tracing, that the system had been stopped'	contradiction	contradiction	True
+QT30_561	'people have got to be made to feel like it's their country', 'they're not'	non-contradiction	contradiction	False
+QT30_562	'the idea that we need complete honesty and complete trust', 'it's hard to trust politicians at the best of times'	contradiction	contradiction	True
+QT30_563	'it's hard to trust politicians at the best of times', 'we need real trust and honesty in our politics'	contradiction	contradiction	True
+QT30_564	'I want the Government to do well', 'I do have to feel that I can trust that they are telling the truth'	non-contradiction	contradiction	False
+QT30_565	'optimism could heat our homes', 'Sadly, it doesn't'	non-contradiction	contradiction	False
+QT30_566	'the Government has a serious violence strategy', ' Can you imagine any minister saying that about terrorism'	contradiction	non-contradiction	False
+QT30_567	'I don't expect politicians to be -- to behave badly', 'the majority of the population unfortunately would probably assume that in some way or another, politicians are there not only to represent themselves, but, and you know, the population, but also to go that little bit too far you know'	contradiction	non-contradiction	False
+QT30_568	' they have the legal right to inspect every great British banger that travels across the Irish Sea', ' to do this, is an abuse of their legal right'	contradiction	contradiction	True

@@ -1,0 +1,639 @@
+ID	statement1	statement2	gold_label	prediction	correct
+US2016_0	 she's staying above the noise	most of what she said has been fluff and targeted rhetoric	contradiction	neutral	False
+US2016_1	Sanders has just been full of platitudes with no specifics	most of what she said has been fluff and targeted rhetoric	entailment	neutral	True
+US2016_2	Hillary actually has specifics, names names, etc	most of what she said has been fluff and targeted rhetoric	contradiction	neutral	False
+US2016_3	I said nothing about sanders in this	Sanders has just been full of platitudes with no specifics	contradiction	contradiction	True
+US2016_4	a college degree today provides the same opportunities as a high school degree did 50 years ago	cost of college today is the cost of high school years ago	contradiction	neutral	False
+US2016_5	College today is the equivalent of high school 50 years ago	cost of college today is the cost of high school years ago	contradiction	contradiction	True
+US2016_6	a college degree is as important to your future today as the high school diploma was 50 years ago	cost of college today is the cost of high school years ago	contradiction	neutral	False
+US2016_7	It would really help mine	5200 before tax won't cover rent	contradiction	contradiction	True
+US2016_8	 I wasn't surprised	I can't believe people were that dumb to clap for that	contradiction	neutral	False
+US2016_9	Trump is the only Billionaire	This fact is incorrect	contradiction	contradiction	True
+US2016_10	This fact is incorrect	It's quite scary to imagine that everyone on that stage but Bernie is a Billionaire	contradiction	neutral	False
+US2016_11	 probably shouldn't have jumped to conclusions	It's quite scary to imagine that everyone on that stage but Bernie is a Billionaire	entailment	neutral	True
+US2016_12	I hate you	Donald, I love you	contradiction	contradiction	True
+US2016_13	Rand is the closest we have to a libertarian since Ron Paul or Gary Johnson	not the faux libertarians like Rand	contradiction	neutral	False
+US2016_14	No	You're supporting Trump here	entailment	contradiction	False
+US2016_15	this isn't a debate	No ones debating anything	entailment	entailment	True
+US2016_16	They stopped throwing anything to Carson like half an hour in	Fox News is throwing softballs to everyone but Trump	contradiction	contradiction	True
+US2016_17	I have been on the forefront of dealing with climate change	I never took a position on Keystone until I took a position on Keystone	entailment	contradiction	False
+US2016_18	nothing is gonna happen unless we are prepared to deal with campaign finance reform	I am proud that , along with Senator Barbara Boxer , a few years ago , we introduced the first piece of climate change legislation which called for a tax on carbon	contradiction	neutral	False
+US2016_19	I think the big problem this country has is being politically correct	And frankly , what I say , and oftentimes it 's fun , it 's kidding	entailment	contradiction	False
+US2016_20	I would n't do that	I 've been very nice to you , although I could probably maybe not be	contradiction	neutral	False
+US2016_21	I defunded Planned Parenthood more than four years ago , long before any of these videos came out	Unlike Hillary Clinton , who has a radical position in terms of support for Planned Parenthood	contradiction	neutral	False
+US2016_22	more people do n't	Millions of people in this country agree with you	contradiction	neutral	False
+US2016_23	as if that 's a huge game changer	A lot of people are talking about defunding planned parenthood	contradiction	neutral	False
+US2016_24	Only ISIS is responsible for the depravity	only ISIS is responsible for the terrorism	entailment	contradiction	False
+US2016_25	we did n't create ISIS	only ISIS is responsible for the terrorism	entailment	contradiction	False
+US2016_26	In fact , Wisconsin added barely half that and ranked 35th in the country in job growth	Governor Walker , when you ran for governor of Wisconsin back in 2010 , you promised that you would create 250,000 jobs in your first term , first four years	contradiction	neutral	False
+US2016_27	I think most of us in America understand that people , not the government creates jobs	people like Hillary Clinton think you grow the economy by growing Washington	contradiction	neutral	False
+US2016_28	income inequality remains significant , and nearly half of Americans are living paycheck to paycheck	There 's been a record six straight years of job growth , and new census numbers show incomes have increased at a record rate after years of stagnation	contradiction	neutral	False
+US2016_29	the kind of plan that Donald has put forth would be trickle-down economics all over again	We also , though , need to have a tax system that rewards work and not just financial transactions	contradiction	neutral	False
+US2016_30	That is not how we grow the economy	trumped-up trickle-down , because that 's exactly what it would be	contradiction	contradiction	True
+US2016_31	That is not how we grow the economy	the kind of plan that Donald has put forth would be trickle-down economics all over again	contradiction	neutral	False
+US2016_32	I do n't buy that	he really believes that the more you help wealthy people , the better off we 'll be and that everything will work out from there	contradiction	neutral	False
+US2016_33	corporate is staying Manufacturing is leaving	They are not leaving Detroit	contradiction	neutral	False
+US2016_34	Sure does	Does he understand that screaming at a woman in front of 100 million people makes him look like a fucking asshole	contradiction	neutral	False
+US2016_35	big league	Bigly	entailment	neutral	True
+US2016_36	Big-league	Bigly	entailment	neutral	True
+US2016_37	That's a terrible idea	You mean let him control the narrative	contradiction	neutral	False
+US2016_38	Mr. Trump , you 're calling for tax cuts for the wealthy	Secretary Clinton , you 're calling for a tax increase on the wealthiest Americans	contradiction	neutral	False
+US2016_39	I 'm not even complaining	in a way , I should be complaining	contradiction	contradiction	True
+US2016_40	I would go against them if she releases her e-mails	When the audit 's complete , I 'll do it	entailment	neutral	True
+US2016_41	The president was born in the United States	for five years , you perpetuated a false claim that the nation 's first black president was not a natural-born citizen	contradiction	neutral	False
+US2016_42	I just want to get the answer here	I will let you respond	entailment	neutral	True
+US2016_43	it ca n't be dismissed that easily	he tried to put the whole racist birther lie to bed	contradiction	neutral	False
+US2016_44	my strongest asset , maybe by far , is my temperament	temperament , let 's go after	contradiction	neutral	False
+US2016_45	No	That's ridiculous	entailment	contradiction	False
+US2016_46	Wrong	if there were nuclear war in East Asia , well , you know , that 's fine	entailment	neutral	True
+US2016_47	It 's lies	have a good time , folks	entailment	neutral	True
+US2016_48	like you think	not global warming	entailment	neutral	True
+US2016_49	your—your president thinks	not global warming	entailment	neutral	True
+US2016_50	we are losing billions and billions of dollars	as far as Japan is concerned , I want to help all of our allies	contradiction	neutral	False
+US2016_51	We can not be the policemen of the world	as far as Japan is concerned , I want to help all of our allies	contradiction	neutral	False
+US2016_52	I never said that	women are pigs , slobs and dogs , and pregnancy is an inconvenience to employers	contradiction	contradiction	True
+US2016_53	I did n't say that	women do n't deserve equal pay unless they do as good a job as men	contradiction	neutral	False
+US2016_54	it's people	Our economy isn't money	entailment	contradiction	False
+US2016_55	Now you're for it	You were against same-sex marriage	contradiction	neutral	False
+US2016_56	Now you say they're too harsh	You defended President Obama's immigration policies	contradiction	neutral	False
+US2016_57	Now, suddenly, last week, you're against it	You supported his trade deal dozen of times	contradiction	neutral	False
+US2016_58	Now, suddenly, last week, you're against it	"You even called it the ""gold standard"""	contradiction	neutral	False
+US2016_59	"Last month in Ohio, you said you plead guilty to, quote, ""being kind of moderate and center."""	"I would ""take a back seat to no one when it comes to progressive values"""	contradiction	neutral	False
+US2016_60	I just happen to believe that people are not stupid	the Alinsky Model, taking advantage of useful idiots	contradiction	contradiction	True
+US2016_61	how do you justify ending a life just because it begins violently, through no fault of the baby	you favor a rape and incest exception to abortion bans	contradiction	neutral	False
+US2016_62	I am pro-life	very pro- choice	contradiction	contradiction	True
+US2016_63	I want to tell you what I've done	tonight we hear about what people want to do	contradiction	neutral	False
+US2016_64	No	it's the finest deal you've ever seen	entailment	contradiction	False
+US2016_65	I can't do it	to her family	entailment	neutral	True
+US2016_66	You've emphasized civil liberties, privacy during your campaign	Governor Chafee, you and Hillary Clinton both voted for the Patriot Act which created the NSA surveillance program	contradiction	neutral	False
+US2016_67	now it turns out it might be 1,800	The other day , we were deporting 800 people	contradiction	neutral	False
+US2016_68	It is not a solution for any of our problems	Nobody proposes common sense gun solutions	contradiction	contradiction	True
+QT30_0	we have 13,000 and never more than half have been in use	About eight weeks ago people said we would run out of the ventilators	contradiction	neutral	False
+QT30_1	We have nearly doubled those and no more than half of those have ever been used by virus patients	People said we would run out of intensive care beds	contradiction	neutral	False
+QT30_2	but I can see the psychological damage that potentially is happening to a whole generation of children.	I don't work in education,	contradiction	neutral	False
+QT30_3	It sounded as if it was the next big thing	The app seems to be having a few teething problems	contradiction	neutral	False
+QT30_4	 one in every two people go and see a play or musical every year	we think it is an elitist thing	contradiction	neutral	False
+QT30_5	but that exercise, Signus, did identify very years ago the problems that would be faced by this country in the event of a global pandemic	The test, track and trace it is great we have this technology	contradiction	neutral	False
+QT30_6	they should be available locally I would have thought	Tests are only available online	contradiction	neutral	False
+QT30_7	what really matters is us having the pandemic under control and being able to get back to life much newer to normal	I am beginning to hear coming through, that people feel there's been a lot of talk about what Dominic Cummings did or didn't do	entailment	contradiction	False
+QT30_8	have behaved with arrogance and with disrespect to the public	She accepted there was a potential damage to public consent and participation	entailment	entailment	True
+QT30_9	 I think that this is really more of a challenge that we keep on being promised things are going to be here and then they're not	The app question is interesting	contradiction	neutral	False
+QT30_10	 that is one of the areas where I think we have seen Boris Johnson actually, you know, fail	in terms of how viable this contact tracing operation is going to be, an awful lot of that does depend on Government communication	contradiction	neutral	False
+QT30_11	even if you are told to self-isolate	you have to leave home to do that	contradiction	neutral	False
+QT30_12	but you have problems with that	you are told to self-isolate at home for two weeks	entailment	neutral	True
+QT30_13	we do need to have something which is economically sustainable	recognise the costs of this	contradiction	entailment	False
+QT30_14	there is still a residual degree of goodwill for the Government	even though patience is beginning to wear thin	contradiction	neutral	False
+QT30_15	thousands and thousands of people are dying in care homes	you are throwing a protective ring around care homes	contradiction	neutral	False
+QT30_16	you can't just allow that mistakes will be make	you allow that mistakes will be made in a fiercely complicated, unprecedented set of situations	contradiction	entailment	False
+QT30_17	You have to admit to them	you can't just allow that mistakes will be make	contradiction	entailment	False
+QT30_18	It seems to me to be infantilising of Government ministers to try to pretend that could be the case	you treat people like adults	contradiction	neutral	False
+QT30_19	if people follow social distancing, if people are following social distancing and minimising their contact, so if they are having to go to a work place to work but social distancing in the work place is really important, because that's how you avoid becoming somebody who is a contact of the sort that needs to isolate	I recognise there is a risk that you might be asked to do that more than once,	entailment	neutral	True
+QT30_20	we have a chance through democracy, to break free, and progress	we need to be honest, face up to it, and accept the fact that we are as much prisoners of our history, as anything else	contradiction	neutral	False
+QT30_21	there didn't seem to be that sense of order	we all owe it to each other to respect the rule of law	contradiction	contradiction	True
+QT30_22	This is not true	a force for good only in the world	entailment	entailment	True
+QT30_23	history is a construction	 it is the history of this country	contradiction	entailment	False
+QT30_24	 the two highest hotbeds of the disease	Until Sunday you could come from Iran or Brazil, the two highest hotbeds of the disease, with impunity	entailment	neutral	True
+QT30_25	we're not	we should have been leading the way in reopening	entailment	neutral	True
+QT30_26	as I expect you know	you talked about this report from Stanford 0.1 to 0.2 per cent	entailment	neutral	True
+QT30_27	it's somehow a widespread problem with late test results	 test results in Wales, over 90 per cent of the people get their test results within 48 hours	contradiction	neutral	False
+QT30_28	simply doesn't match the facts	it's somehow a widespread problem with late test results	entailment	neutral	True
+QT30_29	rather than wait for lack of leadership, and not condemning what the Prime Minister's aid did or the other ingredients within the whole recipe of protecting people	we needed to learn much quicker from Korea, and other countries who have dealt with it	contradiction	neutral	False
+QT30_30	 he wasn't	he was shaking hands with the staff	contradiction	contradiction	True
+QT30_31	now the indirect effect of the lockdown, nobody can quantify	the lockdown being implemented when it was implemented was the correct time	contradiction	contradiction	True
+QT30_32	I am just wondering if we're doing both	Now, obviously the Government, they are dealing with two priorities	contradiction	neutral	False
+QT30_33	have actually shown themselves to be very compassionate, responsible and stoic	this next generation coming through have really defined this snowflake stereotype that's been applied to them too many times	contradiction	neutral	False
+QT30_34	as opposed to the nit-picking and the point-arguing that we have seen on Twitter, very strangely, from this Government in particular	your Government began to show a little bit of contrition and acknowledgment of the mistakes that have been made in the handling of this crisis up to this point	contradiction	neutral	False
+QT30_35	there could be a case for more target funding	it's not necessarily even about spending more money	contradiction	entailment	False
+QT30_36	participation rates among those from more disadvantaged backgrounds has fallen by a third	Since it was introduced in 2017, it was meant to get more young people, particularly from disadvantaged backgrounds, into apprenticeships to give them better life chances	contradiction	neutral	False
+QT30_37	But you don't accept the risk for people like key workers	what Suresh said about people accepting the risk is not the full story	contradiction	neutral	False
+QT30_38	not necessarily this Government	talked about commitments that it's going to make	entailment	neutral	True
+QT30_39	an hour before the announcement was made, those aged 16 to 18 were taken out of it	in the announcements last week with regard to the tutoring that school children will now get	contradiction	neutral	False
+QT30_40	I come to the point that I made at the beginning, and I agree with Theo, to do and fulfil those demands what we need to be doing is making sure the economy is restarted in a proportionate and a sensible way	I welcome the demand being put on the Government in terms of investment in the youth and social housing and things such as that	entailment	neutral	True
+QT30_41	they should be applauded for the furlough scheme they have done	there's been a lot of unfair criticism to the Government on -- by some of the panelists here and some of the other viewers	contradiction	neutral	False
+QT30_42	The Labour Party should have built more houses and so should this Government build considerably more houses that people can actually afford to live in	for that entire period, they had stopped councils being able to borrow money in order to build council housing	contradiction	neutral	False
+QT30_43	We have learnt that we can be at productive when we are at home, if not more productive	you couldn't work at home, you wouldn't be getting enough done	contradiction	entailment	False
+QT30_44	Planning is still an impediment to the pace at which we want to move	we need to build build build	contradiction	neutral	False
+QT30_45	it's absolutely horrifying that we can't provide more	it's absolutely delightful to see them all	contradiction	contradiction	True
+QT30_46	clearly we've got to do that when it's safe	We know the detrimental impact it's having on their wellbeing as well as on their educational development	contradiction	neutral	False
+QT30_47	there has been a total failure to deliver on the promises	We need safety to be achieved through having a functioning test and trace system, and low levels of transmission	entailment	neutral	True
+QT30_48	it's a huge effort and it takes a lot of work to get children back to school safely with the social distancing requirements	we could sort this out pretty quickly actually	contradiction	neutral	False
+QT30_49	Great idea; begs the question where are the teachers	We can open hotels, we can put up marquees and that way we can get more kids back into school	contradiction	neutral	False
+QT30_50	when we look back on this, 10,000 deaths is too many	They have done better in terms of their death toll	contradiction	neutral	False
+QT30_51	we really could be in a terrible situation	try and find a solution in the next two or three months	entailment	neutral	True
+QT30_52	we haven't had for almost a month now the figures of how many people have actually been tested on a daily basis	we've got the capacity	contradiction	contradiction	True
+QT30_53	people feel moved to go out and protest	we've got a public health emergency and nobody wants to see crowds out on the street	contradiction	neutral	False
+QT30_54	that's not what happened, Germany as an example	otherwise every country in the world would've done the same thing	entailment	neutral	True
+QT30_55	I know these figures will now be distorted because of the situation with the coronavirus	I'm very proud of the fact that I'm part of a government that has made some real differences	contradiction	neutral	False
+QT30_56	they do themselves no favours when they riot in London	The Black Lives Matter movement is excellent	contradiction	contradiction	True
+QT30_57	it was from a minority of people	there was violence	entailment	neutral	True
+QT30_58	there were huge amounts of peaceful protests on the streets as well	there was violence	contradiction	contradiction	True
+QT30_59	it's the people that get it wrong	The government have done a lot to try and make sure that we have racial equality	entailment	neutral	True
+QT30_60	we must never deny the progress that we've made	we should always aspire to move further and faster	contradiction	entailment	False
+QT30_61	that's just wrong, it's wrong	Otherwise, unsurprisingly, young people young black people in Britain will think that there has been no progress	entailment	neutral	True
+QT30_62	originally the government was suggesting face coverings were not necessary and might give a false cents of confidence	Face covering matter	contradiction	neutral	False
+QT30_63	they suggested when it came to enclosed spaces such as public transport, face coverings are faced	originally the government was suggesting face coverings were not necessary and might give a false cents of confidence	contradiction	neutral	False
+QT30_64	a lot of people are still not doing it	people should wear face coverings on public transport	entailment	neutral	True
+QT30_65	They had to wait 10 days to find out they're getting 40 million pounds	quick action for the businesses affected	contradiction	neutral	False
+QT30_66	 the simpler the message, the harsher it is	Clarity of messaging is critically important	contradiction	neutral	False
+QT30_67	Why today did Nicola Sturgeon say it would be 40 million going to the businesses	you were waiting for the chancellor to outline any further support you could give, the chancellor has said Scotland will get 700 million more	entailment	neutral	True
+QT30_68	not primary issues	we're talking about not unimportant issues	contradiction	entailment	False
+QT30_69	Are they getting cuts off their rent, their bills, their food	we're still asking people in many circumstances to make a cut to their wages	contradiction	neutral	False
+QT30_70	all the businesses in the supply chain won't get funding, the businesses impacted won't get funding	in the rest of the UK if you're obliged by law to close you'll get a grant	contradiction	contradiction	True
+QT30_71	That's what we should have	What's gone completely wrong in the last two or three years is that we've got a Scottish government who generally are adversarial and negative about a whole range of things that might happen with the UK and Scotland working together	entailment	neutral	True
+QT30_72	there are going to be questions emerging	That's why right now from the Scottish government perspective of my day is spent in dealing with the virus and dealing with the economic fall-out of the virus	entailment	neutral	True
+QT30_73	But for this party to be caught up in something like this makes me sick.	I will always vote for the Labour party because I think it's the best coalition of the left for this country	contradiction	neutral	False
+QT30_74	what's important here is that we see action	It's all very well the Labour party saying sorry, and Keir Starmer did give an apology on the day he was elected	contradiction	neutral	False
+QT30_75	Jeremy Corbyn allowed the space for anti-Semites to come into the party and the leadership did absolutely nothing about it	It's not one person's fault	contradiction	contradiction	True
+QT30_76	there are systemic and institutional biases	you're not doing it intentionally	contradiction	neutral	False
+QT30_77	he made it impossible	You could see me on countless shows trying to advocate on behalf of Republican policies and what the President was doing	entailment	neutral	True
+QT30_78	I wouldn't have been supporting him for two years if I was a bitter employee	my liberal friends would say to me well, you know, he's the same guy that he was at 2015 so he's doing the exact same things here in 2020 so why did you change, you must be a bitter employee	entailment	neutral	True
+QT30_79	it was an aspirational working class family where we were in the middle class	I grew up in a working class family, my dad was an hourly worker	contradiction	neutral	False
+QT30_80	he was really just representing himself	Mr Trump I thought was going to represent them in Washington	contradiction	neutral	False
+QT30_81	the other thing that you did, because of your charisma, your intelligence, you normalised Donald Trump, and that's the problem	The last two years you have been incredible in terms of coming clean on TV in front of people, you published a book, you're behind the incredible Lincoln Project of Conservatives and Republicans who are actually trying to save conservatism and make it decent again	contradiction	neutral	False
+QT30_82	they've had opportunities through impeachment and others to, as it were, remove him	it seems that some Republicans are getting buyer's remorse and regretting that Donald Trump is their representative in the presidential race	contradiction	neutral	False
+QT30_83	this is totally different this time	there's a least of the two evils, if you will	entailment	entailment	True
+QT30_84	Even that's not going to solve the problem	It's the only time I can remember in my lifetime though where the whole world is cooperating on a vaccine	entailment	neutral	True
+QT30_85	two miles at the side of me is Nottinghamshire who've gone into tier three from Friday	I live in West Lindsey which at the minute is relatively low in tier one	contradiction	neutral	False
+QT30_86	that time is used to get on top of test, trace and isolate	what we have to do now is to make sure that we not only have that circuit breaker	entailment	neutral	True
+QT30_87	significantly less than we neat need	we heard there are going to be vaccines before the end of the year	entailment	neutral	True
+QT30_88	that is a big hurdle it still hasn't gone over	if -- it passes the safety data	contradiction	neutral	False
+QT30_89	you're being asked can you do it given that these freezers, you know -70, are necessary to get this distributed	We need people to believe and to take the vaccine	entailment	neutral	True
+QT30_90	The NHS relies on subcontractors to do the job of rolling it out	the NHS will do it	contradiction	neutral	False
+QT30_91	to say the NHS will do it, well, the NHS can only do it if they get the support to do their job	the arguments are given that the NHS will be able to manage the roll-out	contradiction	neutral	False
+QT30_92	I know I'm not giving an answer	I would like to follow the clinical advice	contradiction	neutral	False
+QT30_93	I'm not saying it will be straightforward	I'm not saying it is easy	entailment	entailment	True
+QT30_94	businesses may look to do that in the future	As a government we've not got plans to introduce a passport or anything like that, of that nature	entailment	neutral	True
+QT30_95	but this isn't going to happen overnight.	We have a plan, we're going to do this, we're going to do it together	entailment	entailment	True
+QT30_96	but there's a long way to go	Hope and help is here	entailment	neutral	True
+QT30_97	logistics isn't falling into the tech problem where we're trying to get everybody to download apps	Colleen's point of view are we going to fall into the same trap where it comes to rolling out the logistics of this	contradiction	neutral	False
+QT30_98	it is more about getting close to people and resolving it	Colleen's point of view are we going to fall into the same trap where it comes to rolling out the logistics of this	contradiction	neutral	False
+QT30_99	it is also a worldwide achievement	It is a fantastic achievement	entailment	neutral	True
+QT30_100	We haven't seen it	I will get the deal in July	entailment	contradiction	False
+QT30_101	we're borrowing £400 billion this year -- in a single year	We can offer more help, we want to see that	entailment	contradiction	False
+QT30_102	People say that's impossible because there are multi-generational households	because there are multi-generational households 	entailment	neutral	True
+QT30_103	I think you'll find, Nadhim, there is a willingness across the population and across businesses to do whatever you need, whatever is required to accelerate and deliver this vaccine	We heard before the show that good people are involved	entailment	neutral	True
+QT30_104	The problem is your prime minister did that 48 hours earlier	This morning, when you were challenged on that question you said you wouldn't bandy around random numbers	entailment	neutral	True
+QT30_105	sorry, the AstraZeneca one is 70 percent	 the reality is that the first dose of the Pfizer/BioNTech is about 70 percent protection, it is reckoned	entailment	neutral	True
+QT30_106	We're not getting any of the balancing act right at all	1,104 people died today and schools are shut	entailment	contradiction	False
+QT30_107	instead we spent on Eat Out to Help Out	We should have spent the money making sure kids and the vulnerable in society had more	contradiction	neutral	False
+QT30_108	I, as a doctor, think that is a reprehensible position	There seems to be an increasing, very vocal minority in Britain at the moment who seems to think that somehow if a human being in British society is above a certain age or has medical comorbidities	entailment	entailment	True
+QT30_109	We've had so many months when this has been potentially on the cards	we haven't seen put into place the e-learning that's necessary for those children so that they really can be receiving the kind of educational input they need	entailment	neutral	True
+QT30_110	no, schools are not safe after all	schools are absolutely safe	contradiction	contradiction	True
+QT30_111	yet, if you want to ship something like mince, for example, from Great Britain to Northern Ireland	No question of there being checks	entailment	neutral	True
+QT30_112	those checks will be there	You can call it a border or not	entailment	entailment	True
+QT30_113	secondly it contains the principle it should have a minimal impact on the every day lives of communities in Northern Ireland	Firstly, it was negotiated in order to avoid a border on the island of Ireland	entailment	neutral	True
+QT30_114	we can have a border internally within the United Kingdom	the United Kingdom under Theresa May fell into the trap that was led for them by the Republic of Ireland that the Belfast Agreement was about no borders on the island of Ireland	entailment	contradiction	False
+QT30_115	There is other evidence that suggests from December cases are going down	the imperial College study is scary in that it doesn't tell us whether or not the cases are going down from December	contradiction	neutral	False
+QT30_116	The only thing on these islands was the approach to the ports at the south of England when they were trying to get across to Europe and that was caused by Covid-19	How much of this is being hyped up in the same way that remarijuana said: Owe this will happen, that will happen	entailment	contradiction	False
+QT30_117	at this moment in time what we're focusing on is saving lives, protecting hospitals, protecting the NHS, and making sure we have enough capacity in our NHS to deal with these issues	there will be plenty of time for reflection over the coming years	contradiction	neutral	False
+QT30_118	as a five-party coalition there will be bumps along the way	I think we are working together in the executive	contradiction	neutral	False
+QT30_119	Unfortunately that is what happened now and we're dealing with the worst time that we've been through the whole way through the pandemic	at the onset of the pandemic, when we were predicting what could be the worst scenario and explaining that to the public, and the public would rightly feel this is not going to happen again	entailment	neutral	True
+QT30_120	I would hate it if because of that we lost sight of the present and didn't take the opportunity to make that protocol work as effectively as it can	it is legitimate to think about the future	entailment	neutral	True
+QT30_121	it's too slow, too late	There's a resolution here	entailment	contradiction	False
+QT30_122	Instead we've had almost a year's worth now of open/close, start/stop, lockdown and various restrictions	This should have been at the outset, close the borders, stop the virus coming in and contain it	entailment	neutral	True
+QT30_123	On a number of occasions the UK has not followed that advice, the border being one example	the scientists they have been saying since the beginning of the pandemic there are clear strategies to follow to limit the impact it has	entailment	neutral	True
+QT30_124	putting together the damage which has been done by this virus	people should be thinking that we should divide our country	entailment	neutral	True
+QT30_125	They're going to get angry about the fact that they are being denied the thing they voted for	people in Scotland are not simply just going to say oh well, we voted for it but they said no, so let's move on	entailment	neutral	True
+QT30_126	We can have debates about timing and when the best time to do it would be	This is not about timing	contradiction	neutral	False
+QT30_127	we've known for a long time the virus is spread very quickly with the movement of people and between people	I do understand the balancing act, it is a delicate balancing act between the economy and health	entailment	neutral	True
+QT30_128	I have to point out that we've already been in this situation	If the SNP get a majority in May then the Tories don't have any authority to deny a second independence referendum	entailment	neutral	True
+QT30_129	which isn't just how terrible Scotland would do if it went out there as an independent country	you need to come up with a good proposition for the union	entailment	neutral	True
+QT30_130	your business can't open	You could share a home life with a teacher going back into nonventilated setting	entailment	contradiction	False
+QT30_131	We haven't had those things and we don't have a sight of what that would look like	clarity, funding, support for workers and businesses, that would make all of this easier to sustain	contradiction	contradiction	True
+QT30_132	the reality is you have to weigh up the extent to which people have sacrificed, staying inside	You call it decision by committee	entailment	neutral	True
+QT30_133	if you run a business, a pub or a restaurant, you can't be, you know, speedily changing decisions in a matter of days	Nothing ends before next Wednesday	entailment	neutral	True
+QT30_134	We could say we'll send hospitality back first, but we won't send schools back	Our distinction is we think schools should go back first	contradiction	contradiction	True
+QT30_135	That would be the wrong thing to do	We could say we'll send hospitality back first, but we won't send schools back	entailment	neutral	True
+QT30_136	I feel that we need more than just the practicalities of life	In many ways it is a luxury	contradiction	entailment	False
+QT30_137	it is not out the question because the government is doing this	We had a vaccines minister saying it is out the question	contradiction	neutral	False
+QT30_138	we know there were shortages	it has been very difficult to explain why there were no shortages	contradiction	neutral	False
+QT30_139	that doesn't answer the question	I'm sympathetic to Grant's reasoning as to why it was difficult to get enough PPE	contradiction	neutral	False
+QT30_140	we heard my colleague Jess Phillips in parliament today saying it is not rare for women to be subject to male violence	We heard the Met Police Commissioner say it is incredibly rare for a woman to be abducted from our street	contradiction	contradiction	True
+QT30_141	we're talking about this in a clinical, policy-driven way about an appalling human event	we all have to remember as we move forward that it is nothing compared to what Sara Everard's family are feeling this morning	entailment	neutral	True
+QT30_142	people have no idea what's going on here	in my native land, you can talk about anybody	entailment	contradiction	False
+QT30_143	I don't think there's been racism of the coverage of Megan	 I'm making a broader point	entailment	neutral	True
+QT30_144	there's not a magic money tree, to coin a phrase, out there	we deserve greater than a 1 percent pay rise	contradiction	entailment	False
+QT30_145	it is difficult	We'd love to be giving more money	entailment	neutral	True
+QT30_146	that's not really good enough	they should suffer	entailment	neutral	True
+QT30_147	so many people have sacrificed and we don't want to risk what we've gained in terms of driving the level of the virus right down	we all want to get back to the position where we can have all the liberties back, the freedoms that we lost	contradiction	neutral	False
+QT30_148	should we not have come up with some kind of better system by now a year in	I think much as I completely get not going abroad	entailment	neutral	True
+QT30_149	it's not totally clear	it also says that in our contract	contradiction	entailment	False
+QT30_150	there's this presentation that is just topsy-turvy that somehow England's greedily sitting on all these vaccines	that is a cheap vaccine, and the UK has actually invested huge amounts of money in helping vaccine rollout round the world	contradiction	neutral	False
+QT30_151	but at least do what the Scottish Government has done	the RCN is quite strongly making a compelling case for the 12.5 per cent increase	entailment	neutral	True
+QT30_152	in this instance, the EU call the shots on that	everything that the UK does is not perfect by any stretch	entailment	neutral	True
+QT30_153	there has always been a little bit of the idea that those young peoplefor the purposes of everything else, they're treated as not being adults	I work with teenagers so I know how smart they can be	entailment	entailment	True
+QT30_154	I would treat them as a special case	I'm a limited company director myself who's received no help from the government whatsoever	entailment	neutral	True
+QT30_155	 apart from of course in the referendum about whether we should leave the EU, which there was a high turnout	I've been concerned following Welsh politics for many years at the low turnout in elections and the lack of political engagement	entailment	neutral	True
+QT30_156	it's quite divisive	 you isolate them as a special group	entailment	neutral	True
+QT30_157	so many people are facing unemployment	so many people are facing wage cuts	entailment	neutral	True
+QT30_158	rather than one distracted by another independence referendum	we need a parliament that is focused only on our recovery, only on rebuilding after the last 12 months that we've all been through	entailment	neutral	True
+QT30_159	we're not pleading for that	it will be an agreement	contradiction	neutral	False
+QT30_160	we should be focused on our recovery	 that would bring uncertainty	entailment	neutral	True
+QT30_161	All of these things would play second fiddle to a nationalist government who are only interested in separation	our parliament has to be focused to protect people's jobs	entailment	neutral	True
+QT30_162	We won't do that if the country is divided by independence	we'll need the skills and talents of everyone in this country to get through this recovery	contradiction	neutral	False
+QT30_163	we can do something different	that's more of the same	contradiction	entailment	False
+QT30_164	we've actually come together as a country like never before to confront COVID	we've been separated from our families like never before	contradiction	contradiction	True
+QT30_165	do you really want to spend five years of that nine years arguing about independence	at the very heart of your policies	entailment	neutral	True
+QT30_166	I know that people will make the case that things have happened since then	whether we spend it debating an issue that in reality was resolved almost seven years ago	contradiction	entailment	False
+QT30_167	it's now internationally average for education	Scotland was once a world leader	entailment	neutral	True
+QT30_168	I'd prefer none of it	it's now the SNP's proposals are now saying they're going to wait now until 2023	entailment	neutral	True
+QT30_169	that's also one of the routes that we can have back to prosperity, a more equal and just country	we're being dragged out of the EU against our will	entailment	neutral	True
+QT30_170	 I don't believe that it's that much worse than in England	There may be a problem with drugs	entailment	neutral	True
+QT30_171	I think we need as a country	we now hear that the Green Party would like us to be ceasing production in the next ten years	entailment	neutral	True
+QT30_172	it has to actually be a national mission	When we talk about recovery it just can't be a campaign slogan	contradiction	neutral	False
+QT30_173	how do you view the long-term future of oil and gas workers	 this is what you want to make in terms of your manifesto	entailment	neutral	True
+QT30_174	eventually we'll have to stop	there are things we can do to address the effects of taking those hydrocarbons out of the ground	contradiction	neutral	False
+QT30_175	this is a problem that I have with the SNP approach of setting targets and putting their hopes in things like carbon capture	we need to actually be practical about our obligations under the climate…under the Paris Agreement	contradiction	neutral	False
+QT30_176	not officially	you've hitched your wagon	entailment	neutral	True
+QT30_177	you are supporters of the SNP in government	not officially	contradiction	neutral	False
+QT30_178	I don't hear you talking about people	I'm struck by the various areas that you say for investment	entailment	neutral	True
+QT30_179	that work is not happening	We've got to invest seriously and genuinely in those renewable jobs of the future	entailment	neutral	True
+QT30_180	you're asking about our £600 million investment to catch up on all the delayed appointments and treatments within the NHS	we're speaking about your party's manifesto that is not costed	entailment	neutral	True
+QT30_181	we're not going to build the physical buildings and those rapid diagnosis centres in the time of weeks or months	what we need is rapid diagnosis centres	contradiction	neutral	False
+QT30_182	 you do now support the four per cent	there hasn't been a pay review	entailment	neutral	True
+QT30_183	there would have been way fewer Labour MPs than there are now	I have not been elected once	entailment	neutral	True
+QT30_184	very little, particularly from the Brexit Party, about how you solve some of the problems for people in this country	I've heard lots of talk about deconstruction	entailment	neutral	True
+QT30_185	then what has he done in this Queen's speech	In 2019 the Prime Minister said he was level up this country	entailment	neutral	True
+QT30_186	then I ran secondly as a Brexit Party candidate	I don't represent the Brexit Party	contradiction	neutral	False
+QT30_187	I'm not involved with that party, which is now Reform	then I ran secondly as a Brexit Party candidate	contradiction	contradiction	True
+QT30_188	I'm not sitting here, absolutely not, as a representative of any political party at all	I ran firstly as an independent	entailment	contradiction	False
+QT30_189	I'm not sitting here, absolutely not, as a representative of any political party at all	then I ran secondly as a Brexit Party candidate	contradiction	contradiction	True
+QT30_190	What it's useless at is actually coming up with prescriptions	It's very good at telling us what the divisions are in our country	entailment	contradiction	False
+QT30_191	the system we're in makes life often worse generation after generation for working-class people	they're up against extremely powerful people with a private education, with inherited money, for whom life will always get better	entailment	contradiction	False
+QT30_192	this is the first time this past election I had to seriously sit down and think about whether I would vote Labour	I have voted Labour all my life	contradiction	neutral	False
+QT30_193	I don't think it is	isn't Labour the natural division between it now	entailment	entailment	True
+QT30_194	I don't feel the same way anymore	I could be proud to vote for	entailment	neutral	True
+QT30_195	it isn't at the moment	I want there to be a Labour Party that is good	entailment	neutral	True
+QT30_196	it isn't at the moment	it provides hope and inspiration for people	entailment	contradiction	False
+QT30_197	The time for this is not now, everyone knows that's obvious	I do believe that there is…that you have to now	entailment	entailment	True
+QT30_198	how is 48 per cent in the Brexit referendum a mandate to nothing	 48 per cent is a mandate for a referendum	contradiction	neutral	False
+QT30_199	I have a mandate from those people for independence	in these elections, people can happily vote for the SNP if they are pro remaining in the United Kingdom, safe in the knowledge that they are voting for an SNP government with a much broader agenda and a broader set of elections	entailment	neutral	True
+QT30_200	they don't worry in general about this	People worry about media bias, they worry about low turnout	entailment	neutral	True
+QT30_201	I love being part of Britain	I'm a proud Welshman	contradiction	neutral	False
+QT30_202	we also have to look at that evidence and be cautious but irreversible	Human nature is that we want to look forward to better times	contradiction	entailment	False
+QT30_203	No offence, guys, but	I had the feeling that somebody, perhaps Andi, was going to tell us all we had to get up and hug each other	entailment	neutral	True
+QT30_204	I'm only joking	get a partner who annoys you as much as my partner annoys me	entailment	neutral	True
+QT30_205	this government seems to want to reduce it	over the last few decades, if not centuries, we've seen successive governments try to expand the franchise	contradiction	neutral	False
+QT30_206	there's a risk of anything which is forced can sometimes have a corresponding resistance	 I understand the intention of seeking unity through using the Union Jack for the UK in the whole	entailment	neutral	True
+QT30_207	when the situation changed in England, hey presto, they extended the furlough	 we were refused	entailment	neutral	True
+QT30_208	the government does need to pause and think again with regard to the loosening of international travel	I don't think we ned to completely abandon the hope of trips abroad a little later in the year	entailment	neutral	True
+QT30_209	it's only essential travel	you can go and visit friends and family	contradiction	neutral	False
+QT30_210	we should regard holidays as essential travel	you can go and visit friends and family	contradiction	neutral	False
+QT30_211	I called back in January for a comprehensive hotel quarantine	 the challenge was put to me about captain hindsight	entailment	contradiction	False
+QT30_212	I called out the issue of the failure to put India onto the red list for 14 days after Pakistan and Bangladesh had already been added	 the challenge was put to me about captain hindsight	entailment	neutral	True
+QT30_213	which the evidence doesn't bear out in any way	The Health Secretary is claiming it's because the positivity rate in Pakistan was three times that of India	entailment	neutral	True
+QT30_214	I cannot	I want to travel to India today	entailment	neutral	True
+QT30_215	we've yet to see a spade in the ground	we've had in seven years, by the way, 60 different rail projects announced for the North of England by this government	contradiction	neutral	False
+QT30_216	you've still got concessions being run by private companies	there is that increased measure of public input	contradiction	neutral	False
+QT30_217	in this case, in the railways, it just hasn't worked	privatisation is a positive thing	contradiction	neutral	False
+QT30_218	we know that the coronavirus mutates when it's in high circulation	 there may not have been a variant of concern	contradiction	neutral	False
+QT30_219	it should have been expected	there may not have been a variant of concern	contradiction	entailment	False
+QT30_220	if it's the water that comes out of your tap or indeed the train that I took from Crewe to Euston today you don't have that choice	when you walk down the high street, and unfortunately for me there are many frozen pea purveyors and as a consumer you can go pretty much where you like	entailment	neutral	True
+QT30_221	nationalisation of trains isn't all it's cracked up to be	it's a beneficial thing	contradiction	neutral	False
+QT30_222	when you add on the transportation costs actually our calculations are that it won't be so cheap at the end of it	it's very cheap to produce	contradiction	neutral	False
+QT30_223	 we've got to learn and improve	franchises just doesn't work	entailment	neutral	True
+QT30_224	one thing I have noticed however is potentially the one thing that unifies both sides is a disillusionment in the current political leadership	at times like this as a humble shop keeper it's quite important to put your hands up and not profess to have any superior knowledge to what we all read in the papers or see on the TV	contradiction	neutral	False
+QT30_225	consumers will make choice based on what's right for them, about sustainable eating locally	trade deals and finding ways to create markets, the pan transpacific market that was being developed, I think you will see more of that	contradiction	neutral	False
+QT30_226	when you travel across the world most people are pretty similar in terms of what they want out of their lives	we get caught up on religion and beliefs and skin colour and our differences	contradiction	neutral	False
+QT30_227	These are supposed to be protected groups	doctors as well as journalists	entailment	neutral	True
+QT30_228	but the evidence isn't as clear at the moment of the evidence of the one-to-one tuition.	 if delivered not right away, may well improve life chances,	entailment	neutral	True
+QT30_229	it is just not going to happen	You're spending 50 per child	entailment	neutral	True
+QT30_230	We have a government that has a catch phrase about levelling up	We don't have a government which is matching the wishes that young people have for themselves right now	contradiction	neutral	False
+QT30_231	you are offer 50	He asked for 700 per student	contradiction	contradiction	True
+QT30_232	in the Netherlands it is 200	He is talking about £310 per pupil	contradiction	neutral	False
+QT30_233	when he makes those calculations doesn't include the academy, the national Academy that the government set up	He has done a fantastic job	contradiction	neutral	False
+QT30_234	It doesn't include all the funding that we put in to the laptops	He has done a fantastic job	entailment	neutral	True
+QT30_235	You're not taking it onboard	listen to the man's advice	entailment	neutral	True
+QT30_236	we're still in the middle of a raging global pandemic	We all want our lives and livelihoods back	contradiction	contradiction	True
+QT30_237	we are going to continue to make that assessment in the coming days and up to 14 June when a decision will be made	At the moment it is looking good	contradiction	neutral	False
+QT30_238	we don't know who to trust	I'm sure you're right and very well informed	entailment	contradiction	False
+QT30_239	 wasn't good enough in a public health emergency	We were told to take our own advice	entailment	neutral	True
+QT30_240	we have to find a way to let business operate	we should listen to all the scientific advice	contradiction	neutral	False
+QT30_241	I would like to see us work out a way to live with it on a longer term basis	I would like to see restrictions lifted sooner	contradiction	neutral	False
+QT30_242	not the date	It should be following the data	entailment	neutral	True
+QT30_243	Only 1 percent of them still are to this day	We said months ago everybody who comes into the country should be hotel-isolated	contradiction	neutral	False
+QT30_244	she should have anticipated that people would be interested in her story	I feel very sorry for Naomi	entailment	neutral	True
+QT30_245	there should be some form of compensation that can ease the transition in	I understand and I have huge sympathy for landlords who are overwhelmingly decent people who are trying to support the people who are tenants to them	entailment	neutral	True
+QT30_246	It is also important that landlords can take control where it is necessary to do so	we didn't want anyone to be thrown out of their houses during this period	contradiction	neutral	False
+QT30_247	I do think the government should come up with an incentive scheme to pay landlords who support poor tenants or people who struggle with their rent	A landlord should have the right to use his property and let whoever he wants in there to rent	contradiction	neutral	False
+QT30_248	the ending of the eviction ban is premature	I have every sympathy with landlords	entailment	neutral	True
+QT30_249	we don't know if restrictions will be fully lifted then or not	We have been talking about 21 June	entailment	neutral	True
+QT30_250	in the medium term we need architects and builders to be coming up with much more low cost, affordable housing,	I agree with Heather about keeping a rental sector going	entailment	neutral	True
+QT30_251	people are still on furlough, people still aren't back in work	The conservative there mentioned, well, things will get back to normal	contradiction	contradiction	True
+QT30_252	That is criminal	at any minute she is going to be evicted	entailment	neutral	True
+QT30_253	We have a food bank that is absolutely flooded out with people who simply cannot afford to buy food for their children	I live in a quite well-off part of London and I'm okay	entailment	neutral	True
+QT30_254	 but I do feel my daughter, in the situation she lives in, as part of their job, the people who support her to live should be vaccinated	 I know it is very difficult to compel anyone to do anything	contradiction	neutral	False
+QT30_255	there's something wrong where we tell people unless they pump their body full of a chemical, they are out of their job	I'm not hesitant	contradiction	contradiction	True
+QT30_256	what will get the outcome which we want, which is that everybody gets vaccinated, everybody is protected	I think the starting point with this issue isn't whose rights are more important	contradiction	neutral	False
+QT30_257	I'm not sure this is the way to do it	That's what we're aiming for	contradiction	neutral	False
+QT30_258	But the fact of the matter is, and Sarah is right, the failure to close the borders	 We all want people to get back to work	entailment	neutral	True
+QT30_259	it is the constant interference from the requirement to do that that is painful	we all, more or less have common sense and realise that we're going to have to sacrifice another 4 weeks	entailment	neutral	True
+QT30_260	it is just not going to go away	We seem to think that just because we're fed up with COVID it has to go away now	contradiction	neutral	False
+QT30_261	we've all got used to the fact that we're learning about the vaccine	Let's understand that this is new, this is constantly changing	entailment	neutral	True
+QT30_262	We sold out our fishermen	Brexit was about taking back control	contradiction	neutral	False
+QT30_263	we are just about to sell out our farmers	Brexit was about taking back control	contradiction	neutral	False
+QT30_264	the government said would never happen	for those farmers which are going to be undercut	entailment	contradiction	False
+QT30_265	is now happening	the government said would never happen	contradiction	contradiction	True
+QT30_266	we can't walk away from this	I want to applaud them for what they do day in, day out	entailment	neutral	True
+QT30_267	any economic change is difficult	I do understand what you're saying	entailment	neutral	True
+QT30_268	It is going to be a tiny, tiny proportion of food that's going to be coming for Australia	the largest farm there is something like the size of the state of Israel	contradiction	contradiction	True
+QT30_269	leaves him in charge to our response to a global pandemic	he believes his Health Secretary to be incompetent	entailment	neutral	True
+QT30_270	I can't be against it	it is going to be close to zero, the impact on GDP	entailment	entailment	True
+QT30_271	I do buy the product	I'm not an expert on farming	entailment	neutral	True
+QT30_272	It can't be both	The matter is closed one minute and he took decisive action the next	entailment	entailment	True
+QT30_273	now that we know a virus of some sort does come up every so often	You could say nobody knew it was coming and so we were -- the government were on the back foot	contradiction	neutral	False
+QT30_274	he has to lead by example	The problem is he thinks he can still act like a journalist	contradiction	neutral	False
+QT30_275	people do look to them for leadership	politicians are anybody special	entailment	neutral	True
+QT30_276	no	Boris Johnson or any other politicians feel they can act like a journalist or act like a businessman or something like that	entailment	contradiction	False
+QT30_277	I'd rather the world go vegan	we have to face that	entailment	contradiction	False
+QT30_278	it is a dramatically suppressed link	It is not a broken link	contradiction	neutral	False
+QT30_279	It is not entirely an unknown	That's an unknown	contradiction	entailment	False
+QT30_280	actually, we fired him	the case is closed	entailment	neutral	True
+QT30_281	I don't disagree	I have been fighting against some of the excessive limitations about this	entailment	neutral	True
+QT30_282	I mean it worked because we had to do it to make it work for Zoom	It was absolutely terrible	entailment	contradiction	False
+QT30_283	we don't know factually what got us here	Normal got us here	contradiction	contradiction	True
+QT30_284	it would just be kind of representative of the decline	No, that's a long way off	entailment	neutral	True
+QT30_285	Jeremy Corbyn was really demonised	I'm not taking issue with what was just said	entailment	neutral	True
+QT30_286	are not relevant to politics	When he's interviewed he's asked about his clothes, ties, glasses	entailment	neutral	True
+QT30_287	that doesn't mean it is going to be the only vaccine	it is the first evidence that it is a vaccine vaccine-preventible disease	entailment	neutral	True
+QT30_288	we could have a different conversation in four weeks' time	Right now we have to work as if this is the only vaccine that's going to work	entailment	neutral	True
+QT30_289	that's assuming everybody comes in for their first shot and for their second shot and you are not playing catch-up	If you start vaccinating in January, given that it takes 5 to 6 weeks to get immunity, and you did a million people a week, we wouldn't get that 10 million vaccinated until way into April	entailment	neutral	True
+QT30_290	 it is also the case of tens of thousands of NHS frontline and care staff are also, still, a month after vaccine roll-out began, unvaccinated	I appreciate there are logistical issues	contradiction	neutral	False
+QT30_291	it is clear it is for those businesses that have to close	 that's great	entailment	neutral	True
+QT30_292	There is no support for us	which is good	entailment	contradiction	False
+QT30_293	not in the best interests of the people who live here	because the reality is also that throughout all of the Brexit debate what was very clear was the fact of the about the was very much on an English agenda	entailment	neutral	True
+QT30_294	I have to say that time and time again I'm no longer astonished in terms of the British government to owe who have tried to run roughshod over the Good Friday Agreement	but crucially protects the Good Friday Agreement	contradiction	neutral	False
+QT30_295	I don't want to force anybody to have a vaccine	I would love to see the passports used	contradiction	neutral	False
+QT30_296	there's a sting in the tail for workers here, particularly in terms of hospitality and getting people back in	I have lots of empathy with business owners who would like this to enable their customers to feel safe	entailment	neutral	True
+QT30_297	the idea of a passport is ethically unacceptable	I work in healthcare and I encourage every patient I meet to get their COVID vaccine	entailment	contradiction	False
+QT30_298	we also need to see the balance that Nigel's referred to	The reality is we're going to vaccinate our population	entailment	neutral	True
+QT30_299	they haven't been visible to us	those efforts that you described are happening	contradiction	entailment	False
+QT30_300	The barrier to them throwing themselves into all of this activity is the government itself	The young people are hungry for this	entailment	neutral	True
+QT30_301	 It should be children as well	They are choosing bricks	contradiction	neutral	False
+QT30_302	I do watch athletics quite a lot	I don't watch a lot of sport	contradiction	contradiction	True
+QT30_303	if you're a very poor woman with children, living alone, with no resources, and no knowledge of how to argue these things and where to find help	There are always ways of getting around that kind of thing	contradiction	contradiction	True
+QT30_304	being in that situation is like nothing that I would wish on my worst enemy	I've been in a position where myself and my daughter were effectively homeless and it is a really horrible place to be	entailment	neutral	True
+QT30_305	as complete amateurs, with no modelling, sticking our oar in to say what we think should happen without any idea whether that's an idea at the expense of people potentially dying	All that we can do in this situation is try our best to use the best knowledge that we have from the most knowledgeable people and make some sort of estimate about it	contradiction	neutral	False
+QT30_306	that's a distraction from what's going on	which they keep referring to as a huge success	entailment	neutral	True
+QT30_307	I don't think we are back to normal	the message coming out from the government will be we are back to normal	contradiction	contradiction	True
+QT30_308	They're not working with tools in factories any more	 It is the idea that the workers are going to put down the tools in the factory	contradiction	neutral	False
+QT30_309	At that point, I was like hold on a second, again, we are being mocked in Parliament	up until then, you know the Prime Minister had a really good kind of you know, what he said made sense	contradiction	neutral	False
+QT30_310	domestic violence against man with a woman and the only difference is a man doesn't report it as much as a woman does	Domestic violence against men with women is high compared and obviously, men against women is high	contradiction	neutral	False
+QT30_311	I don't earn too much	I have to give the money back now because I earn too much	contradiction	contradiction	True
+QT30_312	While the packages are better than nothing, they're not enough	all the packages from the chancellor are fine	contradiction	neutral	False
+QT30_313	 I believe her	There is an independent review of whether or not the first minister broke the code of conduct	contradiction	neutral	False
+QT30_314	that seems to be an attempt here to do that	You cannot change the game when you are playing the game	contradiction	entailment	False
+QT30_315	clearly, there was a case to be answered	The perspective that is looked on in politicians, I don't think, actually, is often worked through at what cost they're doing some parts of their job	entailment	entailment	True
+QT30_316	the idea that you would do that under a live case is just -- it is just unacceptable	There may be an argument to say look again at this process	entailment	neutral	True
+QT30_317	there is a case that Boris Johnson was thinking about his own skin	The last thing I wanted to say to Tim was about this being a case of Boris Johnson showing decency	entailment	neutral	True
+QT30_318	I'm feeling positive about COP, actually	The leaders didn't have support	entailment	contradiction	False
+QT30_319	I couldn't get a dog sitter	I was invited	entailment	neutral	True
+QT30_320	I find a reason not to be in the room	I'm five minutes from where things are happening	entailment	entailment	True
+QT30_321	You don't need to be paid in order to be a whistle-blower	He was being paid for that	contradiction	neutral	False
+QT30_322	at the moment we have a government to whom they feel the law doesn't apply to them	Our democratic system has a series of checks and balances	contradiction	neutral	False
+QT30_323	That's not true	He's a nice man therefore it doesn't count	entailment	entailment	True
+QT30_324	that's what it is in the general public's mind	It might not be the true	entailment	entailment	True
+QT30_325	There's plenty more to be done, clearly	I'm optimistic	entailment	neutral	True
+QT30_326	It doesn't mean they should be let off things	a few weeks ago we were talking about the importance of remembering that MPs are human beings	contradiction	neutral	False
+QT30_327	there are big questions about how the deforestation agreement will be enforced	in that world with, yes, the small steps forward are welcome	entailment	contradiction	False
+QT30_328	most of us don't have sufficient insulation	Of course people need to be able to change	entailment	entailment	True
+QT30_329	But in the short term there is a cost	 So in the long run it will be great	entailment	neutral	True
+QT30_330	what about the actual politicians that are attending this conference	The cost to the consumer, the general public	entailment	contradiction	False
+QT30_331	they are trying to persuade us, ordinary people, to adjust our lifestyles to meet their ambitions	fish gotta swim and the rich got to fly	entailment	neutral	True
+QT30_332	That's not acceptable, in my opinion, when it gets to these fundamental issues of dignity and respect, equity, compassion, that really are at the roots of making humanity function	They tend to take the safe route or the easy way out or to keep silent	entailment	entailment	True
+QT30_333	We're getting to that in 2024/25	In 2014, the International Energy Agency was saying the electric vehicles would be at the same cost as the combustion engine by 2050	contradiction	neutral	False
+QT30_334	I don't want to suffer right now with juice anxiety	I would love an electric car	entailment	neutral	True
+QT30_335	we couldn't afford to do	we all tomorrow ran out and bought an electric car	contradiction	neutral	False
+QT30_336	you don't have to put them in now	 Let's take the heat pumps, £5,000 subsidy grant towards putting them in	contradiction	neutral	False
+QT30_337	the proof of the pudding is in the eating	are the ones pushing the government now to the higher ambitions that we absolutely need	entailment	neutral	True
+QT30_338	is it because the process needs review	Was it because of Mr Paterson	contradiction	neutral	False
+QT30_339	People use it all the time	It was always hugely offensive	contradiction	neutral	False
+QT30_340	I'm not astonished the language is being used	There's no possible explanation for it	contradiction	entailment	False
+QT30_341	we need to do more	I'm glad action is being taken	contradiction	neutral	False
+QT30_342	that is the sort of things people need to do	It is not sexy talking about insulating your loft	contradiction	neutral	False
+QT30_343	I wanted to go to Edinburgh	Being in Eastleigh we're close to an airport and a station which have fantastic ability to get anywhere	entailment	neutral	True
+QT30_344	that choice is taken away from me	I want to drive to be green	entailment	neutral	True
+QT30_345	I live in a terraced house	The same is I would love to have an electric car	entailment	contradiction	False
+QT30_346	If I used the train	I can't get there for £30 on a flight	entailment	neutral	True
+QT30_347	I know you talked a lot about corporate responsibility	You're not head of Unilever anymore	entailment	neutral	True
+QT30_348	the emerging markets are asking for an annual review	we agreed on a review of that now every two years	contradiction	neutral	False
+QT30_349	once they get out of Europe, away from the media, where there are governments that can't or don't regulate or whatever it is, and those companies in those countries are behaving in a blatantly irresponsible way	some of those companies are behaving well	contradiction	contradiction	True
+QT30_350	the biggest difference is getting the vaccine	to demonstrate that taking sensible small steps, like wearing masks in crowded places, can have a big difference	contradiction	neutral	False
+QT30_351	we are frontline, kind of	Some of our staff still aren't vaccinated because of our age	contradiction	neutral	False
+QT30_352	it's the perpetrators and the focus should be on them and on educating them	why women have to be fearful of what they're actually…where they're going	entailment	neutral	True
+QT30_353	it's never enough	one, legislation is really important	contradiction	neutral	False
+QT30_354	there are two other things you need	You can have the legislation	entailment	neutral	True
+QT30_355	they can't actually come to class	they've chosen to study in Scotland	entailment	neutral	True
+QT30_356	I'm not allowed to do that at the moment, actually, at work	I'm sitting here in a room with 60 people in a university lecture theatre	contradiction	neutral	False
+QT30_357	we are not allowed to teach people in larger groups yet, even with social distancing	unlike in England	entailment	neutral	True
+QT30_358	it's not particularly onerous	why on something as basic as wearing masks	entailment	entailment	True
+QT30_359	It's not the most pleasant of things	it's not particularly onerous	contradiction	entailment	False
+QT30_360	yes, we need an education shift	they should get everything thrown at them that we can throw at them in this country	entailment	contradiction	False
+QT30_361	which I think was an absolute failure	but we didn't include the largest hate crime, which is sexism and misogyny in that Hate Crime bill	entailment	neutral	True
+QT30_362	frankly that's wrong	the answer to this is women thinking about how they change their behaviour	entailment	neutral	True
+QT30_363	instead that money is going to projects in England	We were sincerely hoping that the UK government would invest the billion pounds that had been promised	entailment	neutral	True
+QT30_364	I've come here from the Netherlands	 I've paid my dues	entailment	neutral	True
+QT30_365	it's not cutting it	the online stuff, they're trying really hard	entailment	neutral	True
+QT30_366	Not in the North East	it's the Conservative Government in London that is investing £16 billion in the transition fund to move us into this new renewables future	entailment	neutral	True
+QT30_367	in the North East of Scotland	Not in the North East	entailment	neutral	True
+QT30_368	it is a reserve cluster	in terms of carbon capture and storage in the Scottish Cluster, in the Acorn project, of course it was disappointing that it didn't achieve tier one status	contradiction	neutral	False
+QT30_369	the Scottish National Party Government in Edinburgh	the Conservative Party is investing and does care about the North East of Scotland	entailment	neutral	True
+QT30_370	the Scottish Government can be doing more	The UK government should be doing more in terms of that carbon capture project in the North East	entailment	neutral	True
+QT30_371	we've actually only created 21,400 green jobs in Scotland with the powers that we already have	The Scottish Government promised that we would have 130,000 green jobs by 2020	contradiction	neutral	False
+QT30_372	there's only one thing that I kind of sigh about when it comes to the Scottish Government as it is	I would be so proud for there to be an independent Scotland	contradiction	neutral	False
+QT30_373	has the UK government ignored it	animal agriculture is the second biggest cause of climate change, before transport	entailment	neutral	True
+QT30_374	Scottish Government is continuing with that	animal agriculture is the second biggest cause of climate change, before transport	contradiction	neutral	False
+QT30_375	don't dehumanise to the lengths that some might	every politicians does have family scrutinised, criticised, hold politicians accountable, do all of that, that's a life bud of our democracy	entailment	neutral	True
+QT30_376	nobody can check all these figures	he starts hitting us with all this thing about we've invested £132 billion, £125 billion	entailment	contradiction	False
+QT30_377	not be separate from the people	recognising that our politicians are there to serve the people and be accessible to the people	entailment	entailment	True
+QT30_378	the challenge for all of us is that the worst atrocities start somewhere	I don't think there is any politician, I can't think of any, who haven't had to face threatening behaviour, who haven't been subject to intimidating threats	entailment	entailment	True
+QT30_379	we've got to be very careful to balance that with keeping the so very important aspect, almost unique in our democracy, which is the openness and accessibility of elected representatives to their constituents	The protection should be there if a member of parliament feels that they require it or that their staff should require it	entailment	entailment	True
+QT30_380	the hole they have left in the National Health Service budget	we got a tax hike on working people to pay not for social care	contradiction	neutral	False
+QT30_381	my fear is it is the poorest and most vulnerable who will be left behind after all those soundbites	We heard Boris say    build back better, levelling up, high skills, high wages	entailment	contradiction	False
+QT30_382	It struck me to deliver a speech in that fashion on the very day that Universal Credit was coming to an end for a lot of people	Boris Johnson did what Boris Johnson does	entailment	neutral	True
+QT30_383	Why aren't they getting it	we announced as we arrived in Manchester, £0.5 billion for exactly those people	entailment	neutral	True
+QT30_384	but when you listen to what he said, he said nothing	He was able to excite everyone with his slogans	contradiction	contradiction	True
+QT30_385	we find ourselves in a situation, almost I believe of a mirror of what we saw with the truck drivers	if, as you promise, 1 day, workers in this country will have higher wages	entailment	neutral	True
+QT30_386	we've got a shortage	butchers are on £15 an hour	entailment	neutral	True
+QT30_387	you didn't	That they thought it was the right thing	entailment	neutral	True
+QT30_388	yet this is what you're hearing	The largest group voted Conservative here	entailment	entailment	True
+QT30_389	 people don't seem to be hearing it	 you can list the pollees	contradiction	neutral	False
+QT30_390	"unless we are saying to these farmers ""We don't want a pig industry in this country"""	It has to be resolved	entailment	neutral	True
+QT30_391	we haven't got this over the line	I believe Steve Barkley who is charged with saving Christmas yet again is doing everything he can	entailment	neutral	True
+QT30_392	it doesn't end there	I haven't been able to get to see either Kevin Foster or Priti Patel in the Home Office	entailment	neutral	True
+QT30_393	these sectors are worth a lot to our economy	We have seen hundreds of thousands of pounds worth of tomatoes wasted	entailment	neutral	True
+QT30_394	these sectors are worth a lot to our economy	We have seen a daffodil harvest that didn't happen	entailment	neutral	True
+QT30_395	Prince Andrew denies it	of sexually assaulting her three times in the States when she was underage there, which was 17	entailment	contradiction	False
+QT30_396	the temporary visas is not enough	I dealt with the issue around the visas on the abattoirs	entailment	neutral	True
+QT30_397	they have to go home in order to reapply, in order to come back	they could switch to being able to work in the abattoirs	entailment	neutral	True
+QT30_398	the only way that you fix this problem is to improve conditions in the industry	the Government could take some steps right now that would ease the problem	contradiction	neutral	False
+QT30_399	but it is a wider question	I know it is about Prince Andrew	entailment	neutral	True
+QT30_400	it is a lot of people now don't want to cut up meat	Maybe it is the conditions	entailment	neutral	True
+QT30_401	there has been no plans for training butchers at all	I don't know how long it takes to train a butcher	contradiction	contradiction	True
+QT30_402	nobody wants to admit to it in the Government	the problem here is the elephant in the room and nobody wants to admit to it in the Government is Brexit	entailment	neutral	True
+QT30_403	there was no plan	They have had 5 years to prepare for it	entailment	contradiction	False
+QT30_404	if we're trying to employ people to come from abroad	from a seasonal worker prospective, if we're trying to employ people to come from abroad, why would you come abroad with temporary restrictions such as you can stay here for 2 months and help us out	contradiction	entailment	False
+QT30_405	we don't want you after that	if we're trying to employ people to come from abroad	entailment	neutral	True
+QT30_406	I don't feel as a woman that either care about safety	right now there is a government inquiry and a Met inquiry	contradiction	neutral	False
+QT30_407	It is hard to see how it will be resolved	It really needs resolving and resolving as soon as possible	entailment	entailment	True
+QT30_408	it isn't encouraging conversation on what's going on now	We are looking at the society of Victoria, which is important	entailment	neutral	True
+QT30_409	we need to solve the fundamental sickness in society that men have	we need to give money to the police	entailment	neutral	True
+QT30_410	the effective tax raise on people under the system for universal credit was 90 per cent	you say you would do all of these things	entailment	neutral	True
+QT30_411	I don't know why they don't give it	that's the only reason why they don't give it	contradiction	contradiction	True
+QT30_412	 in another, we don't	We expect a certain amount of moral standing with politicians in one sense	entailment	entailment	True
+QT30_413	 I'm not aware of all the backhanders that go on	It's a strange situation because we know that there are back-handers going on	contradiction	neutral	False
+QT30_414	the government can't wait until the next election to have to make choices	there are choices to make	entailment	neutral	True
+QT30_415	it's not working	you've mentioned quite a few initiatives that you're doing	entailment	neutral	True
+QT30_416	you hear people say, well, so what?	you certainly have listed a whole load of initiatives	entailment	neutral	True
+QT30_417	our deliveries are going down at exactly the wrong time when they need to go up	we are stock building now for Christmas	contradiction	neutral	False
+QT30_418	of course it's a bigger pool to fish from	Europe has its own issues with HGV drivers	entailment	neutral	True
+QT30_419	unfortunately we've got a just in time government	what we need to see for a just in time supply chain is some long term planning	contradiction	neutral	False
+QT30_420	now, you know, that's not allowed for insurance and things like that	In the olden days, they used to be able to take their wives with them	entailment	neutral	True
+QT30_421	I'm really concerned that they seem to be making the licences easier to get	I understand that the government need to recruit more HGV drivers	entailment	neutral	True
+QT30_422	I don't rule out anything	that was actually the solution	entailment	contradiction	False
+QT30_423	The main problem though is the tests couldn't be run because of coronavirus	I've opened up tests	contradiction	contradiction	True
+QT30_424	 No, that is a thing which we're improving	we now can't get any tests until December in the south of England	entailment	neutral	True
+QT30_425	you know that it will need to go up if we're to deal with these problems	You promised that immigration would come down	entailment	entailment	True
+QT30_426	the flipside of it is that wages are going up	there are lots of problems with it	entailment	neutral	True
+QT30_427	actually it's the right thing to do	it might be inconvenient	entailment	neutral	True
+QT30_428	they wouldn't have to take those actions	It's inconvenient and it's not the best way	entailment	entailment	True
+QT30_429	some of what we've seen is actually not commanding the support of the public	there's room also for civil disobedience	entailment	entailment	True
+QT30_430	that's clearly not happening	the whole point of protest is to command the support of the public	entailment	neutral	True
+QT30_431	he's referencing Kermit the frog	Boris Johnson today is talking about a turning point for humanity	entailment	neutral	True
+QT30_432	the more restrictions you put on people's rights to protest, the more of a sort of state we're becoming where if you want to speak out, if you want to make your feelings heard	blocking a road is the right way to go about things	entailment	entailment	True
+QT30_433	the more restrictions we put, it's like where does it end	I don't support that	entailment	neutral	True
+QT30_434	the way that they're doing it just really making people's days really bad and horrible	they're right in that	entailment	neutral	True
+QT30_435	not the way they're doing it	Most of us agree with what they're about	entailment	neutral	True
+QT30_436	their voting base is in agreement that we want to make this a greener world	you might not like all their policies by any means	entailment	contradiction	False
+QT30_437	you're not winning people over and you're not helping the cause	we want to tackle climate change	entailment	neutral	True
+QT30_438	this isn't normal protest	protecting those very sacred rights	entailment	entailment	True
+QT30_439	it's important to say, I don't agree with the means at all	Absolutely	entailment	contradiction	False
+QT30_440	The cause I do agree with	it's important to say, I don't agree with the means at all	entailment	entailment	True
+QT30_441	apart from the fact that global prices have gone up	energy bills are going up	entailment	entailment	True
+QT30_442	I don't agree with the means	I absolutely agree with their aims	entailment	contradiction	False
+QT30_443	any rational person would disagree with their methods	I think any rational person would agree with their cause	contradiction	neutral	False
+QT30_444	that's a lot of dough	they'd like to insulate homes by 2035	entailment	neutral	True
+QT30_445	 I don't think it's fair to say that any rational person thinks that we should just adopt their policies overnight	we might applaud their end goal	entailment	neutral	True
+QT30_446	That was evidently not the case	both the other politicians on the panel have mentioned the police already having the powers	entailment	entailment	True
+QT30_447	neither of these guys are doing that	supporting the Police and Crime Bill would actually hope folks	entailment	contradiction	False
+QT30_448	then actually GPs just carried on doing it remotely anyway	NHS England changed their guidance in May	entailment	neutral	True
+QT30_449	that's not going to solve the problem	it's important that people can see their GP face to face	entailment	neutral	True
+QT30_450	which I think is wrong when people are saying that you can get in…supposed to be able to see the GP face to face	it all has to be done via the phone	entailment	contradiction	False
+QT30_451	that isn't really the point here	it's great that now we can use remote contact with GPs to get a new prescription or deal with something very small	entailment	neutral	True
+QT30_452	we have fewer GPs now than we had in 2015	The Conservative government has been talking…has had at least two go's at recruiting more GPs	entailment	neutral	True
+QT30_453	we need both	Government should be getting on with the crisis or we are distracted	entailment	neutral	True
+QT30_454	the fire safety bill that has gone through today is the starting point	it's not helping her	entailment	neutral	True
+QT30_455	it is more than that	we know the extent of the cladding that isn't fit for purpose	entailment	entailment	True
+QT30_456	the planning departments and safety departments that pass these off	It should predominantly be the contractors	contradiction	neutral	False
+QT30_457	evidently it does not resolve the problem	I understand this does offer some relief	contradiction	entailment	False
+QT30_458	at the moment the UK Government has not yet committed to sending vaccines to India	It is both the morally right thing to do, and also a self-interested thing to do to make sure that we get this parallel roll-out	entailment	neutral	True
+QT30_459	We believe the real answer lies in not fighting about the pieces of the vaccine pie	There's a debate about excess stock	contradiction	neutral	False
+QT30_460	making the pie bigger	We believe the real answer lies in not fighting about the pieces of the vaccine pie	entailment	neutral	True
+QT30_461	the substantial difference is going to be made when we allow other manufacturers, countries, to safely manufacturer these vaccines	Do both	entailment	neutral	True
+QT30_462	the Oxford AstraZeneca vaccine is 97% funded by us, the public, the taxpayers	 in the world trade organisation negotiation so far, our Government has blocked those sorts of moves	entailment	contradiction	False
+QT30_463	there could be a vaccine	I don't know if there's a vaccine that we could use	contradiction	entailment	False
+QT30_464	We do need to do a lot more	I'm pleased that the Government have done something	contradiction	neutral	False
+QT30_465	We have to do this to protect thousands upon thousands of people dying every day in India	we are trying to convince ourselves as a nation we have to do this to protect ourselves	contradiction	neutral	False
+QT30_466	I generally trust our carers, our health system to try to judge that you know, the clinical needs and the risks with the patient care, and the family interests	This is awful	entailment	neutral	True
+QT30_467	we have to trust that they are making the decisions in the best interests of people in their care	it's difficult	entailment	neutral	True
+QT30_468	that's how some people have expressed it	A terrible thing to say	entailment	neutral	True
+QT30_469	those decisions were flawed in that there was no real understanding of the complexity of what then had to come next	that there was a real need to degrade the capability of Al-Qaeda	entailment	neutral	True
+QT30_470	Afghanistan had its own share of lies	We were always told that Afghanistan was the good war	entailment	neutral	True
+QT30_471	the social, cultural, historical values bring forward a very different way of society working	 a Western white version of democracy	entailment	entailment	True
+QT30_472	which I find absurd	Up until Monday morning the Home Office's official guidance said they could be returned to Kabul safely	entailment	neutral	True
+QT30_473	Don't pause it	The Home Office said they're on a pause	entailment	contradiction	False
+QT30_474	I'm not denying things haven't improved in many areas over 20 years	Rory made a dig about me not thinking things haven't improved	contradiction	neutral	False
+QT30_475	they've never been granted	I've tabled a number of urgent questions to drag the Foreign Secretary to the House of Commons in order to answer questions about this	entailment	neutral	True
+QT30_476	guess who is in charge of Afghanistan today, even more powerful and involved than before	yes, it was	entailment	neutral	True
+QT30_477	Stop putting words in my mouth	the whole thing with Afghanistan was doomed from the start, it was a total catastrophe, no good came out of it	entailment	neutral	True
+QT30_478	it was brilliant	it was a disaster	contradiction	contradiction	True
+QT30_479	What he's just done is to to do something similar to what happened in Syria in 2013/14	President Biden believes by leaving he's ending the forever wars, ending the global war on terror	entailment	neutral	True
+QT30_480	Today, whether you want to do it via Qatar, or via the UAE, you have to directly or indirectly engage with them	Ten days ago, the idea of talking to the Taliban was utterly unimaginable	entailment	neutral	True
+QT30_481	It is the most nonsensical thing I've heard in my life	War is terror	entailment	contradiction	False
+QT30_482	which I dispute	If they were right	entailment	neutral	True
+QT30_483	they knew they had to get the licences in January	they are complaining they haven't got their licences	entailment	neutral	True
+QT30_484	the public of both countries would like both leaders to be grown up	It is childish	entailment	contradiction	False
+QT30_485	we don't do it by picking juvenile fights not just with one country but with the entirety of the European Union	we are going to make progress	entailment	contradiction	False
+QT30_486	It isn't really a shock to me	Yes, that is a shock	contradiction	contradiction	True
+QT30_487	 I happen to think it is the most colossal foreign Policy blunder in the post-war period	In December 2019 people said they wanted to get Brexit done,	entailment	neutral	True
+QT30_488	it's absolutely not academic for the 3 million people who work in hospitality	after an unexplained two-week delay from the court, the judgment was that it was academic	contradiction	contradiction	True
+QT30_489	The next day opening up in England is 17 May	The government said it would be driven by data not dates	entailment	neutral	True
+QT30_490	that's what we are seeing and in effect there is a border down the Irish Sea	the Prime Minister said that the Northern Ireland protocol was ingenious and would not result in checks or barriers or border	contradiction	entailment	False
+QT30_491	Is that reasonable?	They probably have the legal right to open every packet and inspect every sausage	entailment	neutral	True
+QT30_492	Is that necessary?	They probably have the legal right to open every packet and inspect every sausage	entailment	neutral	True
+QT30_493	I didn't say that	we didn't understand what we were signing	entailment	entailment	True
+QT30_494	 it is something that is becoming a bit of a dog's dinner	Northern Ireland wasn't my biggest concern when I voted to leave the EU	entailment	neutral	True
+QT30_495	they are deliberately at a different level which is something I found interesting when I started to work in politics as opposed to business	Neither of those things are true	entailment	neutral	True
+QT30_496	the Government have decided to reduce the percentage as well	it would have reduced anyway due to the pandemic	entailment	neutral	True
+QT30_497	No, it's not	 everything the Government does is correct	entailment	contradiction	False
+QT30_498	all we're saying is more needs to be delivered. More needs to be delivered	Pounds after pounds and euros after euros and dollars after dollars are going into this pot	entailment	entailment	True
+QT30_499	You might not be racist whatsoever	if you disagree with taking the knee you're seen to be racist	contradiction	neutral	False
+QT30_500	I do think it is starting to reduce the effect it had in the first place	I understand why	entailment	neutral	True
+QT30_501	we have got to change the mindset of people	Racism must not be tolerated in society at all	entailment	neutral	True
+QT30_502	I'm not sure we should be replicating	we're re-enacting the situation that George found himself at the end of his life	contradiction	neutral	False
+QT30_503	it's not been severed	for those who are vaccinated, the link between hospitalisations and deaths has been reduced	entailment	entailment	True
+QT30_504	some of them will	many of those people who get the virus today, tomorrow, next week even if they don't end up in hospital	entailment	neutral	True
+QT30_505	The pictures were there	The Government is insisting rules were followed at the G7	entailment	neutral	True
+QT30_506	Welsh supporters can't go	Denmark supporters can go	entailment	contradiction	False
+QT30_507	The vast majority of them have not got Covid	250,000 children missed school last week because of Covid-related stuff	contradiction	neutral	False
+QT30_508	there are 20-30-year-olds who are getting the disease	The vaccination programme has really done a fantastic job in reducing deaths	entailment	neutral	True
+QT30_509	it's going to teenagers, and it will go round	The vaccination programme has really done a fantastic job in reducing deaths	entailment	neutral	True
+QT30_510	in terms of capacity, this isn't particularly abnormal for the NHS	the stats Victor pointed out we have very serious problems about waiting lists	entailment	entailment	True
+QT30_511	we know on a day-to-day basis unfortunately for many people it doesn't	they are buying into the idea that's what Britain looks like	entailment	neutral	True
+QT30_512	we can't afford to take the chance either way	I know people want to get off	entailment	neutral	True
+QT30_513	it's pointless	The Government has announced a new crime bill and included tougher sentencing for rape, convictions	entailment	neutral	True
+QT30_514	there's no deterrent there if it's a 2, 3, 4% of cases	It's a deterrent	contradiction	contradiction	True
+QT30_515	the test of that apology and whether that apology carries weight is what are you going to do to turn around this absolutely awful record	I'm sure people appreciate the apology that you have made	contradiction	neutral	False
+QT30_516	it would be a bad assessment to assume he was trying to make a direct link to the conversation that had been happening previously	the Prime Minister's comments were clumsy	entailment	neutral	True
+QT30_517	it remains one of the most heinous crimes	It's hyper bolly to say rape has been decriminalised	entailment	neutral	True
+QT30_518	that's a good idea	we have slipped into the notion that food banks are part of the landscape now	entailment	neutral	True
+QT30_519	It needs to be in the context of the overall food strategy	I'm glad the Government is beginning to look at it	entailment	neutral	True
+QT30_520	It does matter	it's target isn't ambitious or it is a long way off	entailment	neutral	True
+QT30_521	of course, it would be better if it were sooner	It does matter	contradiction	neutral	False
+QT30_522	it's not been done	it was made a priority to look after women and gendered violence	contradiction	contradiction	True
+QT30_523	I find it extraordinary	folk behave in a certain kind of way after drinks or what have you	entailment	neutral	True
+QT30_524	what we don't want to do is see that happen here on the streets of the UK	we know they're under high likelihood of being targeted for reprisals	entailment	neutral	True
+QT30_525	it's a bittersweet thing	I don't want to get soppy about it because the death falling from the skies falling from an aeroplane are still real	entailment	neutral	True
+QT30_526	That clearly was completely and utterly wrong	that the Afghan government had the resilience to hold out	entailment	neutral	True
+QT30_527	There is a Covid pandemic	Starve them out	entailment	neutral	True
+QT30_528	as opposed to our current Prime Minister	That's an appeal for me	entailment	neutral	True
+QT30_529	I would love to see more from him on Black Lives Matter	Keir Starmer, yes, please	entailment	neutral	True
+QT30_530	I value that he doesn't oppose things that shouldn't be opposed just for the sake of opposing them	I would love to see more from him on really going out and being in opposition	contradiction	neutral	False
+QT30_531	there are 18 million adults in the country that's going to take more weeks	35 million have had their first jab	entailment	neutral	True
+QT30_532	a full public inquiry there should be	therefore I can well understand, Robert, why you are fighting shy of a full public inquiry	entailment	neutral	True
+QT30_533	not the dates	if we are to follow the data	entailment	neutral	True
+QT30_534	we know things could change	there's really good reason at the moment looking at the data as it is	entailment	entailment	True
+QT30_535	It's looking really positive and I think we should be quite cheerful about that	the idea of the NHS being overwhelmed is deeply frightening	contradiction	contradiction	True
+QT30_536	we do need to do a lot more than just ban junk food ads after 9	there's evidence that actually it will	entailment	neutral	True
+QT30_537	many people could end up in hospital	death rates should be much, much lower	contradiction	neutral	False
+QT30_538	vote for it	I'm not sure what Paul Scully Paul Scully will think of it	entailment	neutral	True
+QT30_539	now we're having to do so	We haven't closed a single store, we haven't missed a single delivery	contradiction	entailment	False
+QT30_540	it evidently did not drive enough	at that time it drove many establishment changes	contradiction	neutral	False
+QT30_541	we still must be careful	we have to go forward	contradiction	entailment	False
+QT30_542	there are still people suffering from long COVID, which is a really serious illness	There may be less people in hospital with COVID these days	entailment	neutral	True
+QT30_543	I'm pretty sure it now will be	It is a conversation that I honestly never thought would needed to be had in my lifetime	entailment	entailment	True
+QT30_544	I think a lot of people in Northern Ireland would feel that they are treated as an afterthought in Westminster at times and, at worst, a political football	Huge debates about the future of Northern Ireland have been had in Westminster	contradiction	neutral	False
+QT30_545	it's a much smaller risk	It happens	contradiction	neutral	False
+QT30_546	on this red, amber, green	 I think we should be transitioning to that system	entailment	neutral	True
+QT30_547	The problem is that would be putting me ahead of the queue in terms of clinical need	I would be happy to do that	entailment	neutral	True
+QT30_548	not unanimous	Quite a lot	entailment	entailment	True
+QT30_549	Technology is changing very, very quickly	We have done a disservice by saying it takes ten years to make a vaccine	contradiction	neutral	False
+QT30_550	in a sense you are the obvious person	I'm not trying to pigeon-hole you here	contradiction	entailment	False
+QT30_551	25 years on and whenever I walk in the street alone, I wear headphones because of how I walk and I talk	this groundbreaking Disability Act	entailment	contradiction	False
+QT30_552	they're not	I was going to say that disabled people are overlooked	contradiction	neutral	False
+QT30_553	But what we have seen is that local authority, when they have been able to go about track and trace, have actually been doing far better than the Serco and others on who the government is spending 12 billion.	This lack of resilience has made it increasingly difficult.	entailment	neutral	True
+QT30_554	what's important is we get to the right answer	the language of U-turns and all of these kind of brick bats that we throw at politicians often means that we just don't get to the right answer	contradiction	contradiction	True
+QT30_555	it shouldn't take a brave young footballer to shame the government into action	the campaign that Marcus Rashford led was really inspirational	entailment	neutral	True
+QT30_556	we need to be testing, tracing and isolating every single case to keep people safe	the test and trace system clearly isn't up and running properly	contradiction	neutral	False
+QT30_557	they've always insisted until this point that they were only going to pursue the NHS app	Matt Hancock and Baroness Harding said today that they've backed both horses of the Google and the android model and the NHS app	contradiction	neutral	False
+QT30_558	the government has chosen to centralise and use a private company, Cerco, to take the lead on this	it's about having a functioning public health infrastructure that is able to deal with local outbreaks locally	contradiction	neutral	False
+QT30_559	when it comes to reality they might cover up and not pretend that they've done anything wrong	the government are trying to make it seem that they're trying to do the best job possible	contradiction	neutral	False
+QT30_560	towards the end of the shoot that got curtailed, we had another outbreak and I was quite surprised to learn that we weren't able to do testing and tracing, that the system had been stopped	we had an outbreak during the shoot over in Belfast when there was the test and trace system originally, the containment phase, and we were able to deal with that and we were able to carry on uninterrupted	contradiction	neutral	False
+QT30_561	they're not	people have got to be made to feel like it's their country	entailment	entailment	True
+QT30_562	it's hard to trust politicians at the best of times	the idea that we need complete honesty and complete trust	contradiction	neutral	False
+QT30_563	we need real trust and honesty in our politics	it's hard to trust politicians at the best of times	contradiction	neutral	False
+QT30_564	I do have to feel that I can trust that they are telling the truth	I want the Government to do well	entailment	neutral	True
+QT30_565	Sadly, it doesn't	optimism could heat our homes	entailment	contradiction	False
+QT30_566	 Can you imagine any minister saying that about terrorism	the Government has a serious violence strategy	contradiction	neutral	False
+QT30_567	the majority of the population unfortunately would probably assume that in some way or another, politicians are there not only to represent themselves, but, and you know, the population, but also to go that little bit too far you know	I don't expect politicians to be -- to behave badly	contradiction	neutral	False
+QT30_568	 to do this, is an abuse of their legal right	 they have the legal right to inspect every great British banger that travels across the Irish Sea	contradiction	neutral	False
