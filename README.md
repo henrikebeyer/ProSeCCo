@@ -75,12 +75,14 @@ You are free to share and adapt, provided you attribute the creators and share d
 # Citation
 If you use this dataset or code, please cite:
 
+```bibtex
 @inproceedings{yourname2026prosecco,
   title     = {ProSeCCo: A Dialogue-Sourced, Propositionalised Corpus for Self-Contradiction Detection},
   author    = {...},
   booktitle = {...},
   year      = {...}
 }
+```
 
 # Contact
 For questions or feedback:
