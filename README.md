@@ -76,7 +76,7 @@ You are free to share and adapt, provided you attribute the creators and share d
 If you use this dataset or code, please cite:
 
 ```bibtex
-@inproceedings{yourname2026prosecco,
+@inproceedings{beyer2026prosecco,
   title     = {ProSeCCo: A Dialogue-Sourced, Propositionalised Corpus for Self-Contradiction Detection},
   author    = {...},
   booktitle = {...},
